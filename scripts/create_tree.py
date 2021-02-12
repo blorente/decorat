@@ -19,7 +19,7 @@ def process_entry(entry, path_till_now, indentation):
 def process_file(file, path_till_now, indentation):
     filename = file["name"]
     filepath = path_till_now + "/" + filename
-    print(" " * indentation + f"<li> <a href='{filepath}'>{filename}</a></li>")
+    print(" " * indentation + f"<li> <a href='{filename}'>{filename}</a></li>")
 
 def process_dir(directory, path_till_now, indentation):
     dirname = directory["name"]
