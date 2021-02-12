@@ -113,6 +113,7 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-titles-from-headings
+  - jekyll-admin
   - jemoji
   - jekyll-gitlab-metadata
 
