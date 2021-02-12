@@ -6,8 +6,16 @@ title: "mind-hive-world"
 baseurl: "/"
 # (string) Description of your wiki
 description: "Just another hive city somewhere in the grim darkness of the far future."
+collections_dir: wiki
 collections:
-  - wiki
+  artefacts:
+    - output: true
+  ocupations:
+    - output: true
+  people:
+    - output: true
+  places:
+    - output: true
 # (boolean) Enable/disable wiki page list in sidebar
 show_wiki_pages: true
 # (integer) Maximum number of wiki page to shown in sidebar
