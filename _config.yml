@@ -6,16 +6,6 @@ title: "mind-hive-world"
 baseurl: "/"
 # (string) Description of your wiki
 description: "Just another hive city somewhere in the grim darkness of the far future."
-collections_dir: wiki
-collections:
-  artefacts:
-    - output: true
-  ocupations:
-    - output: true
-  people:
-    - output: true
-  places:
-    - output: true
 # (boolean) Enable/disable wiki page list in sidebar
 show_wiki_pages: true
 # (integer) Maximum number of wiki page to shown in sidebar
@@ -123,7 +113,6 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-titles-from-headings
-  - jekyll-admin
   - jemoji
   - jekyll-gitlab-metadata
 
@@ -147,7 +136,7 @@ inc_after_meta :
 inc_before_scripts : 
 inc_after_scripts : 
 inc_before_styles : 
-inc_after_styles : 
+inc_after_styles : "style.html"
 inc_before_header : 
 inc_after_header : 
 inc_before_tail : 

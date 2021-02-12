@@ -9,4 +9,4 @@ Just another hive city, somewhere in the grim darkness of the far future.
 
 Main: [Hive](places/hive.md)
 
-{% include toc.html %}
+<!-- {% include toc.html %} -->

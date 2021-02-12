@@ -1,12 +1,14 @@
 <ul>
 {% for collection in site.collections %}
-  <li><ul>
-    {{ collection.directory }}
+  <li>
+    <b>{{ collection.title }}</b>
+    <ul>
     {% for file in collection.files %}
       <li>
-        <a href="{{ file.url }}">{{ file.title }}and then some</a>
+        <a href="{{ file.url }}">{{ file.name }}</a>
       </li>
     {% endfor %}
-  </li></ul>
+    </ul>
+  </li>
 {% endfor %}
 </ul>
