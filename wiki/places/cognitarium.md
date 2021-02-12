@@ -1,0 +1,1 @@
+The Coginitarium is the gateway to the [Grand Archive](grand_archive.md).
