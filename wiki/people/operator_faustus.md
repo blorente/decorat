@@ -1,7 +1,9 @@
 Operator Faustus
 ================
 
-Faustus, is a [Thinkpod operator](../ocupations/thinkpod_operator.md).
+Faustus, is a [Thinkpod operator](../ocupations/thinkpod_operator.md), living in [The Graters](../places/the_graters.md).
 
-Want: Faustus wants to get out of [The Graters](../places/the_graters.md), he's sick of living like that.
-Need: 
+He is a blind devotee of the Imperium. Content with his lot in life.
+
+Want: To serve the Emperor as he has been assigned to.
+Need: To realize that the Empire doesn't care for him.
