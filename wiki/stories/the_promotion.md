@@ -28,7 +28,7 @@ Eventually, my chest started to slow down. I started noticing my surroundings; t
 
 "That's new."
 
-I looked down at my hands. I'd been holding to the symbol too hard. It had left a deep cut in my the soft skin of my palm. With a grimace of pain, I let go of the little bronze symbol.
+I looked down at my hands. I'd been holding to the symbol too hard. It had left a deep cut in the soft skin of my palm. With a grimace of pain, I let go of the little bronze symbol.
 
 They were definitely getting worse. I hand't been able to get a good night's sleep for ages. Not since his ThinkPod reassignment.
 
@@ -67,8 +67,3 @@ I smiled. A ThinkPod was an office as much as the underhive was a beauty complex
 "You know I can't talk about it" 
 
 "I know, I know. Just you've been... not yourself, lately. Not that I'm complaining about the raise" he said, raising the caffeine cup.
-
-
-
-
-
