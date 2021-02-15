@@ -94,11 +94,11 @@ He raised his cup and smiled, and I couldn't help but do the same. We turned our
 
 ---
 
-The train was rushing through the Medicae district. A field of short white marble strips, no more than three stories tall, surrounding a spire of contrasting obsidian. The tower reached into the clouds, like an arm trying to push itself off the ground.
+The train was shaking in its suspensions as it rushed through the Medicae district. A field of short white marble strips, no more than three stories tall, pointing to a spire of contrasting obsidian. The tower reached into the clouds, as if it were the arm of the hive, pushing itself upright.
 
 "You know? I've always found the Fingers surprisingly similar to ThinkPods" I said, turning to Jorrick.
 
-"That's rich! Not even //TODO Pod disease will let you get away from the damn things."
+"Huh, I can see it. Bugger! Now not even //TODO Pod disease will let you get away from the damn things."
 
 "You do know that most people heal from //TODO Pod disease".
 
@@ -112,19 +112,23 @@ He did have a point. Just like //TODO Pod disease affected everyone differently,
 
 //NOTE: Jorrick has magically dissappeared here.
 
-Finally, the mag-tram arrived at the //TODO Station Name station. The crowd started pouring out of the carriage, filling the narrow streets that led to the worker's entrance of the Grand Archive. After a brief stop to find a bin to dispose of my cup, I took out my ID pass and made my way to the tourniquets.
+Finally, the mag-tram arrived at its final destination. The crowd started pouring out of the carriage, filling the narrow streets that led to the worker's entrance of the Grand Archive. After a brief stop to find a bin to dispose of my cup, I took out my ID pass and made my way to the lines forming at the entrance gates.
 
-While I shambled forwards with the line of workers, I looked up. The Great Archive was high enough in //TODO Hive name that there the suns reflected off its stained glass windows, highlighting the depictions of the Emperor for everyone to see. My favourite, "The Sacrifice of //TODO The human guard vs Horus", sparkled with the morning rays.
+While I shambled forwards with the rest of the workers, I looked up, shielding my eyes from the sunlight.
+
+The Great Archive was high enough in //TODO Hive name to be free of the smog. Its gothic towers reached into the clear sky, the suns reflecteing off its stained glass windows. 
+
+The warm morning light highlighted the depictions of the Emperor, for everyone to see. My favourite, "The Sacrifice of //TODO The human guard vs Horus", sparkled with the morning rays.
 
 I touched my signet, closed my eyes, and said a prayer.
 
 "Emperor give me strength to fullfill the duty that I must".
 
-The story of //TODO the human guard, how he saved our beloved Emperor by standing in the way of the traitor Horus, reminds us that we are all important to the glory of the Imperium. That through piety and infinite determination, we are all valuable for the survival of Humanity.
+The story of //TODO the human guard, how he saved our beloved Emperor by standing in the way of the traitor Horus, reminds us all that we are all important to the glory of the Imperium. That through piety and infinite determination, we are all valuable for the survival of Humanity.
 
 "Give me courage to face the horrors, and strength to -"
 
-"Move it!" Somebody shoved forward in the queue. I stumbled, and realized I was already at the gates.
+"Move it!" Somebody shoved me forward in the queue. I stumbled, and realized I was already at the gates.
 
 "Sorry, sorry..." I fumbled through my coat, looking for my ID.
 
@@ -136,13 +140,11 @@ Breast pockets? No. "Sir, you you're blocking the queue". A gate guard had come.
 
 "It's in your hand, sir". The guard could barely hide a sigh.
 
-"Oh." I blushed, looked down, scanned the pass without a word and went through the gates.
+"Oh." I blushed, looked down, scanned the pass without a word. As soon as the display beeped green, I rushed through the gates.
 
-As soon as I crossed them, I realized I had dropped my ring on my desperation to find the pass.
+Less than ten paced from the gates, my hand started to feel strange. Almost as if it was missing something...
 
-As I crossed the gates, my hand started to feel strange. Almost as if it was missing something...
-
-"My ring!" I spun towards the gate. My feet tried to run, but the rest of my body couldn't fight the human tide pouring into the building. "My ring! Sir! Please! That's my ring!"
+"My ring!" I spun towards the gate. My feet tried to run, but the rest of my body couldn't fight the human tide pouring into the building.
 
 "Let me through, please! I need to get my ring back". Some people in front of me tried to make way for me. They were quickly pushed back by the vacant-eyed mass of people that marched relentlessly to their stations.
 
@@ -154,11 +156,13 @@ I waved my arms, signalling to the guard that had hurried me before. He was pick
 
 "Move along!" He commanded, and turned back to attend the incoming crowd.
 
-My heart was racing, and I felt week in my knees. I would have fallen down, if there had been a free inch of floor to do so. The thump of blood was ringing in my ears, reminding me of last night. The burning city, billions being massacred. The sharp lights of orbital lances sweeping across the districts, with chain explosions following a second later. The fire, the screams. "Oh no, oh Emperor please -"
+My heart was racing, and I felt week in my knees. I would have fallen down, if there had been a free inch of floor to do so. The thump of blood was ringing in my ears, reminding me of last night. The burning city, billions being massacred. The sharp lights of orbital lances sweeping across the districts, with chain explosions following a second later. The fire, the screams, the stench of burning flesh. "Oh no, oh Emperor please -"
 
-"You 'eard 'im! Move it!" Two strong hands turned me towards the ascending staircase, and shoved me forward.
+"You 'eard 'im, move it!" Two strong hands turned me towards the ascending staircase, and shoved me forward.
 
-The smell of smoke lingered, but my before me no longer stood the ashen plain, but the great spiral staircase that connected the different sections of the Grand Archive. Stumbling, I joined the crowd, making my way towards ThinkPod 36B, Sectio Ordos.
+The smell of smoke lingered, but before me no longer stood the ashen plain, but the great spiral staircase that connected the different sections of the Grand Archive.
+
+I forced myself to take a step forward. Then another one. Stumbling, I joined the crowd, making my way towards ThinkPod 36B, Sectio Ordos.
 
 I would have to come back for the ring later.
 
@@ -166,7 +170,7 @@ I would have to come back for the ring later.
 
 As I got higher in the spiral staircase, the crowd started thinning. The higher floors of the Grand Archive were limited to the ORDOS and MILITIA clearance levels, where Inquisitors and their retinue came to do their research, and future Generals and Commissars came to study past battles.
 
-I inhaled deeply, letting the smell of static banish the last remnants of the battle for the second time this day. I stopped, appreciating the privilege of having such a breathing room.
+I inhaled deeply, letting the smell of static banish the last remnants of the battle for the second time this day. I stopped, appreciating the privilege of having such breathing room.
 
 Yes, it was hard work to retrieve and process documents for the Inquisition. Yes, some of those images stuck like memories. But I had been chosen, and I had a duty to fulfill. They wouldn't have chosen me otherwise. I needed to brave what may come. And besides... "The Emperor protects".
 
@@ -176,19 +180,21 @@ The words made my hands a little bit warmer. I closed my fists, and carried on, 
 
 ThinkPod 36B, Sectio Ordos was cold that day. Two men in janitor uniforms were cleaning the green carpet surrounding the ten Retriever stations, in preparation for the shift change. From his plinth at the end of the room, Magos Cognitor Arsenus emitted an electrical buzz, and a cloud of steam sprouted from the opening in his red robes, where his mouth would have been.
 
-"To you as well, Magos" I declared, as I walked left, to station 8.
+"Good morning to you as well, Magos" I declared, as I walked around the circle of leatherbound armchairs, to station 8.
 
-When I got to my station, the //TODO reclining couch was empty. "Do you know what happened to Herc?" I asked the night shift operator to my right, as he was rising from his station, getting ready to leave.
+My station was empty. "Excuse me, do you know what happened to Herc?" I asked the night shift operator to my right, as she was rising from her station, getting ready to leave.
 
-"Damn ninker never showed up." She said. Her breath was still irregular, her pupil were dilated. "He better come back with a good excuse and a bottle of amasec to share. Now if you'll excuse me, I can't be here anymore." And she shambled down the room.
+"Damn ninker never showed up." She said. Her breath was still irregular from the last dive, her pupils dilated. "He better come back with a good excuse and a bottle of amasec to share. Now if you'll excuse me, I can't be here anymore." And she shambled down the room.
 
-I sat on the //TODO reclining couch, making ready. A chill ran down my spine as I tightened the controls of my helmet. I touched the place where my ring had been moments ago.
+I sat on my station, making ready. A chill ran down my spine as the HUD of my helmet light up. I felt my pulse rise again, and I touched the place where my ring had been moments ago.
 
-I finished strapping the helmet. It was going to be a long day.
+I managed to coerce my shaky hands to strap the belts and perform final checks. "Emperor give me strength". It was going to be a long day.
 
 "WELCOME, RETRIEVERS OF THE ORDOS." Even through the ThinkPod helmet interface, Cognitor Arsenus's voice was canny, more machine than human.
 
-"THE GRAND ARCHIVE THANKS YOU FOR YOUR SERVICE. YOU ARE THE BEST RETRIEVERS IN //TODO Hive name, FOR WHICH YOU WERE CHOSEN. MAKE US PROUD." I'll admit, even after hundreds of times hearing them, that formal greeting still made me feel ready to take on anything.
+"THE GRAND ARCHIVE THANKS YOU FOR YOUR SERVICE. YOU ARE THE BEST RETRIEVERS IN //TODO Hive name, FOR WHICH YOU WERE CHOSEN. YOU ARE THE ELITE. MAKE US PROUD." The words didn't have the boldening effect they usually had. Usually, I felt proud to be serving the Emperor. 
+
+//Todo small crisis here
 
 "LET US BEGIN" And the world became data.
 
@@ -209,3 +215,9 @@ I found picts of burning buildings, sound recordings of agonizing people, and de
 And we sunk, back to fire and blood.
 
 ---
+
+// Goes crazy in this session
+// Cut to the present. Medicae in the Fingers are interrogatimg him.
+// He realizes he's been cleaned before, and his froend has been dead for a while.
+// He starts crying, and they close the door behind him. "Prepare employee X47U for cleansing".
+
