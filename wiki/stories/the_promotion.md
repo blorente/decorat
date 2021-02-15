@@ -34,7 +34,7 @@ I looked down at my hands. I'd been holding on to the symbol too hard. It had le
 
 They were definitely getting worse. I hand't been able to get a good night's sleep for ages. Not since my ThinkPod reassignment. I didn't know how many more nights like those I could take.
 
-Of course, that was a stupid thought. The ORDOS clearance was a sign that the Inquisition itself had noticed my diligence and skill. The promotion was good, and the Emperor would give me strength to bear any load it carried, would He not?
+Of course, that was a stupid thought. The ORDOS clearance was a sign that the Inquisition itself had noticed my diligence and skill. The promotion was good, and the Emperor would give me strength to bear any load it carried. Would He not?
 
 As the last echoes of the burning city dissipated from my mind, I got up to get ready for work.
 
