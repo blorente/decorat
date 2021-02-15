@@ -140,9 +140,30 @@ Breast pockets? No. "Sir, you you're blocking the queue". A gate guard had come.
 
 As soon as I crossed them, I realized I had dropped my ring on my desperation to find the pass.
 
-// Faustus panicks
-// They won't let him go back for the ring.
-// He loses a bit of faith.
+As I crossed the gates, my hand started to feel strange. Almost as if it was missing something...
+
+"My ring!" I spun towards the gate. My feet tried to run, but the rest of my body couldn't fight the human tide pouring into the building. "My ring! Sir! Please! That's my ring!"
+
+"Let me through, please! I need to get my ring back". Some people in front of me tried to make way for me. They were quickly pushed back by the vacant-eyed mass of people that marched relentlessly to their stations.
+
+I waved my arms, signalling to the guard that had hurried me before. He was picking something off the ground. When he saw me, he turned his head towards me.
+
+"I'm sorry sir, you're going to have to come and pick this up later." The guard put the ring in his pocket.
+
+"But..." 
+
+"Move along!" He commanded, and turned back to attend the incoming crowd.
+
+My heart was racing, and I felt week in my knees. I would have fallen down, if there had been a free inch of floor to do so. The thump of blood was ringing in my ears, reminding me of last night. The burning city, billions being massacred. The sharp lights of orbital lances sweeping across the districts, with chain explosions following a second later. The fire, the screams. "Oh no, oh Emperor please -"
+
+"You 'eard 'im! Move it!" Two strong hands turned me towards the ascending staircase, and shoved me forward.
+
+The smell of smoke lingered, but my before me no longer stood the ashen plain, but the great spiral staircase that connected the different sections of the Grand Archive. Stumbling, I joined the crowd, making my way towards ThinkPod 36B, Sectio Ordos.
+
+I would have to come back for the ring later.
+
+---
+
 
 
 
