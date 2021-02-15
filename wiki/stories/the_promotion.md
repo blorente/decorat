@@ -16,7 +16,7 @@ _Thump_, _Thump_, _Thump_. "No! Please, stop!"
 _THUMP_, _THUMP_, _THUMP_. "No!"
 
 The smell of damp laundry opened my nostrils as the hab block shook with the passing mag-tram.
-Heart pumping, I reached blindly across the room for the aquila necklace.
+Heart pumping, I reached blindly across the room for the aquila ring.
 
 "The Emperor protects. The Emperor protects.", I uttered breathlessly as I clutched the symbol to my bare chest.
     
@@ -66,4 +66,102 @@ I smiled. A ThinkPod was an office as much as the underhive was a beauty complex
 
 "You know I can't talk about it" 
 
-"I know, I know. Just you've been... not yourself, lately. Not that I'm complaining about the raise" he said, raising the caffeine cup.
+"I know, I know. Just you've been... not yourself, lately. Not that I'm complaining about the raise" he said, raising the caffeine cup. "I reckon you've got some proper shut-eye in a while."
+
+"Mhm...". I finished my cup, as we hurried inside the packed carriage. Jorrick shrugged
+
+"PLEASE ENSURE THAT ALL EXTREMITIES ARE INSIDE THE CARRIAGE AT ALL *clang*". The mechanized voice of the speakers got interrupted by a loud snap of the closing doors. With a tug, the mag-train started accelerating towards the spires. I stared at the grid of rockrete hab-blocks, their facades blackened by the ever-present mist.
+
+As the train made its way up the rings of //TODO: Hive name, we saw a couple of urban fliers zoom past, in the opposite direction. They were painted in arbites bronze, contrasting with the backdrop of smoky bars and neon entertainment houses of the mid-hive.
+
+"Bet they're going to the Graters, those ninkers."
+
+I sighed. They probably were, on their way to collect some poor soul. "They are fulfilling their duty, just like you and me."
+
+"Ha! Cleaning up the mess of the Mechanicum? Some job that is."
+
+"Shush! Don't speak like that!"
+
+There were people staring at this point.
+
+"It just ain't right! How long do you think till one of those ThinkPods drives _you_ nuts?"
+
+"Jorrick!" I was the one shouting now.
+
+"I know, I know." His tone softened, suddenly realizing the averting gazes of his fellow citizens. "Just worry abot my caffeine supply, is all".
+
+He raised his cup and smiled, and I couldn't help but do the same. We turned our gazes back to the distance.
+
+---
+
+The train was rushing through the Medicae district. A field of short white marble strips, no more than three stories tall, surrounding a spire of contrasting obsidian. The tower reached into the clouds, like an arm trying to push itself off the ground.
+
+"You know? I've always found the Fingers surprisingly similar to ThinkPods" I said, turning to Jorrick.
+
+"That's rich! Not even //TODO Pod disease will let you get away from the damn things."
+
+"You do know that most people heal from //TODO Pod disease".
+
+"The voices stop alright, but that ain't 'healing' in my book. I reckon they built them so low so that us poor ninkers won't die when they jump off. They don't care about your broken back, if your mind's still sharp."
+
+He did have a point. Just like //TODO Pod disease affected everyone differently, it was hard to predict what the cleanses would do to workers that ended up in the Fingers.
+
+//TODO Character doubt.
+
+---
+
+//NOTE: Jorrick has magically dissappeared here.
+
+Finally, the mag-tram arrived at the //TODO Station Name station. The crowd started pouring out of the carriage, filling the narrow streets that led to the worker's entrance of the Grand Archive. After a brief stop to find a bin to dispose of my cup, I took out my ID pass and made my way to the tourniquets.
+
+While I shambled forwards with the line of workers, I looked up. The Great Archive was high enough in //TODO Hive name that there the suns reflected off its stained glass windows, highlighting the depictions of the Emperor for everyone to see. My favourite, "The Sacrifice of //TODO The human guard vs Horus", sparkled with the morning rays.
+
+I touched my signet, closed my eyes, and said a prayer.
+
+"Emperor give me strength to fullfill the duty that I must".
+
+The story of //TODO the human guard, how he saved our beloved Emperor by standing in the way of the traitor Horus, reminds us that we are all important to the glory of the Imperium. That through piety and infinite determination, we are all valuable for the survival of Humanity.
+
+"Give me courage to face the horrors, and strength to -"
+
+"Move it!" Somebody shoved forward in the queue. I stumbled, and realized I was already at the gates.
+
+"Sorry, sorry..." I fumbled through my coat, looking for my ID.
+
+Front pockets? No. "Oi! Your Holy Grace! I said move it! I can't be late again!"
+
+Breast pockets? No. "Sir, you you're blocking the queue". A gate guard had come.
+
+"Yes, just a moment. I can't find my pass" 
+
+"It's in your hand, sir". The guard could barely hide a sigh.
+
+"Oh." I blushed, looked down, scanned the pass without a word and went through the gates.
+
+As soon as I crossed them, I realized I had dropped my ring on my desperation to find the pass.
+
+// Faustus panicks
+// They won't let him go back for the ring.
+// He loses a bit of faith.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
