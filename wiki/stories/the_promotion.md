@@ -17,7 +17,7 @@ _Thump_, _Thump_, _Thump_. "No! Please, stop!"
 
 _THUMP_, _THUMP_, _THUMP_. "No!"
 
-The smell of damp laundry opened my nostrils as the hab block shook with the passing mag-tram.
+The smell of damp laundry opened my nostrils as the hab block shook with the mag-tram passing outside.
 Heart pumping, I reached blindly across the room for the aquila ring.
 
 "The Emperor protects. The Emperor protects.", I uttered breathlessly as I clutched the symbol to my bare chest.
@@ -30,13 +30,11 @@ Eventually, my chest started to slow down. I started noticing my surroundings; t
 
 "That's new."
 
-I looked down at my hands. I'd been holding to the symbol too hard. It had left a deep cut in the soft skin of my palm. With a grimace of pain, I let go of the little bronze symbol.
+I looked down at my hands. I'd been holding on to the symbol too hard. It had left a deep cut in the soft skin of my palm. With a grimace of pain, I let go of the little bronze piece.
 
-They were definitely getting worse. I hand't been able to get a good night's sleep for ages. Not since his ThinkPod reassignment.
+They were definitely getting worse. I hand't been able to get a good night's sleep for ages. Not since my ThinkPod reassignment. I didn't know how many more nights like those I could take.
 
-Of course, that's a stupid thought. The ORDOS clearance is a gift, a sign that the Inquisition itself had noticed my diligence and skill. The promotion was a gift, and the Emperor would give me strength to bear any load it carried.
-    
-To think anything else would be heresy, would it not?
+Of course, that was a stupid thought. The ORDOS clearance was a sign that the Inquisition itself had noticed my diligence and skill. The promotion was good, and the Emperor would give me strength to bear any load it carried, would He not?
 
 As the last echoes of the burning city dissipated from my mind, I got up to get ready for work.
 
@@ -44,21 +42,21 @@ As the last echoes of the burning city dissipated from my mind, I got up to get 
 
 The deeply warm smell of freshly brewed caffeine quickly filled the room, making the episode a few moments earlier seem like... well... a bad dream. I brought the warm cup to my lips with a bandadged hand as I looked outside the window above the sink.
 
-Above, below, all around me people are exiting their rockrete hab-blocks and heading down the long staircases, to the mag-train station in Level 80, East Quadrant. They were all heading uphive, most of them to work in the Grand Archive in some capacity. I would be joining them soon enough.
+Above, below, all around me people were exiting their rockrete hab-blocks and heading down the long staircases, to the mag-train station in Level 80, East Quadrant. They were heading uphive, most of them to work in the Grand Archive in some capacity. I would be joining them soon enough.
 
-As I continued sipping my drink, the 08:90 train made its way to the station. That was my queue. I started getting dressed.
+As I continued sipping my drink, the 08:90 train made its way to the station. That was my cue. I started getting dressed.
 
 ---
 
 "Faustus! You ready mate?" - I heard Jorrick shout outside, his words punctuated by his fists slamming the door.
 
-Of course I was ready, I wouldn't... *couldn't*, get to work late. Not now, not serving the Ordos.
+Of course I was ready. I wouldn't... *couldn't*, get to work late. Not now, not serving the Ordos.
 
 "Mhm..." - I answered calmly, as the door to my hab slid open.
 
 "About time!", he smiled. "That caffeine I smell?". I handed him a plastek cup. "Aha! Cheers.", he said, taking a big gulp. "Ah, that's more like it!"
 
-We started down the stairs, making our way to Level 80. The usual morning chill was greatly nullified by the hundreds of bodies clinking and clanking their way down the zig-zagging metal staircases of the hab-block complex. Hundreds of these hard-cold stairs covered the facade of The Grater, as the building was affectionately known. Still, there was never enough room in rush hour.
+We started down the stairs, making our way to Level 80. The usual morning chill was greatly nullified by the hundreds of bodies clinking and clanking their way down the zig-zagging metal staircases of the hab-block complex. Thousands of these hard-cold steps covered the facade of The Grater, as the building was affectionately known. Still, there was never enough room in rush hour.
 
 Pushing and pulling, twisting and turning, we descended. I could feel the sweat of other people on my skin by the time we reached the station and got on the mag-tram. I'm sure I must have soiled someone's clothes with my caffeine on accident.
 
@@ -68,7 +66,7 @@ I smiled. A ThinkPod was an office as much as the underhive was a beauty complex
 
 "You know I can't talk about it" 
 
-"I know, I know. Just you've been... not yourself, lately. Not that I'm complaining about the raise" he said, raising the caffeine cup. "I reckon you've not got some proper shut-eye in a while."
+"I know, I know. Just you've been... odd, lately. Not that I'm complaining about the raise" he said, raising the caffeine cup. "I reckon you've not got some proper shut-eye in a while."
 
 "Mhm...". I finished my cup, as we hurried inside the packed carriage. Jorrick shrugged.
 
@@ -104,7 +102,7 @@ The train was rushing through the Medicae district. A field of short white marbl
 
 "You do know that most people heal from //TODO Pod disease".
 
-"The voices stop alright, but that ain't 'healing' in my book. I reckon they built them so low so that us poor ninkers won't die when they jump off. They don't care about your broken back, if your mind's still sharp."
+"The voices stop alright, but that ain't 'healing' in my book. I reckon they built them so low so that us poor ninkers won't die when we jump off. They don't care about your broken back, if your mind's still sharp."
 
 He did have a point. Just like //TODO Pod disease affected everyone differently, it was hard to predict what the cleanses would do to workers that ended up in the Fingers.
 
