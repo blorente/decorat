@@ -164,8 +164,9 @@ I would have to come back for the ring later.
 
 ---
 
+A chill ran down my spine as I tightened the controls of my helmet. My hand felt alarmingly light and empty now, and I dreaded what was to come.
 
-
+The Grand Archive was the information central of // TODO System or subsector. It houses 
 
 
 
