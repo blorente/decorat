@@ -192,9 +192,9 @@ I managed to coerce my shaky hands to strap the belts and perform final checks. 
 
 "WELCOME, RETRIEVERS OF THE ORDOS." Even through the ThinkPod helmet interface, Cognitor Arsenus's voice was canny, more machine than human.
 
-"THE GRAND ARCHIVE THANKS YOU FOR YOUR SERVICE. YOU ARE THE BEST RETRIEVERS IN //TODO Hive name, FOR WHICH YOU WERE CHOSEN. YOU ARE THE ELITE. MAKE US PROUD." The words didn't have the boldening effect they usually had. Usually, I felt proud to be serving the Emperor. 
+"THE GRAND ARCHIVE THANKS YOU FOR YOUR SERVICE. YOU ARE THE BEST RETRIEVERS IN //TODO Hive name, FOR WHICH YOU WERE CHOSEN. YOU ARE THE ELITE. MAKE US PROUD." These words marked the imminent dive. Usually, hearing them made me feel proud to be serving the Emperor. Today, they made me tast vie as my stomach turned.
 
-//Todo small crisis here
+A cold hand gripped my heart. I wasn't ready for this, not again. Cannonfire raged in the distance. I closed my eyes until white dots were foulying inside my pupils and gripped the leather of the armrests, trying to make it go away. Trying to prepare for...
 
 "LET US BEGIN" And the world became data.
 
