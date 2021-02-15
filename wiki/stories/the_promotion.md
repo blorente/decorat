@@ -6,6 +6,8 @@ Notes
 
 Promise: [Faustus](../people/operator_faustus.md) is small and insignificant. If he shows potential, the system will extract as much as it can out of him, even pushing him to an extreme, and discard him when he burns out. No matter how strong his devotion to the Emperor.
 
+What is the inciting incident? The waking up? The Train ride?
+
 Prose
 -----
 
@@ -209,17 +211,3 @@ I found picts of burning buildings, sound recordings of agonizing people, and de
 And we sunk, back to fire and blood.
 
 ---
-
-
-
-
-
-
-
-
-
-
-
-
-
-
