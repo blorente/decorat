@@ -164,15 +164,51 @@ I would have to come back for the ring later.
 
 ---
 
-A chill ran down my spine as I tightened the controls of my helmet. My hand felt alarmingly light and empty now, and I dreaded what was to come.
+As I got higher in the spiral staircase, the crowd started thinning. The higher floors of the Grand Archive were limited to the ORDOS and MILITIA clearance levels, where Inquisitors and their retinue came to do their research, and future Generals and Commissars came to study past battles.
 
-The Grand Archive was the information central of // TODO System or subsector. It houses 
+I inhaled deeply, letting the smell of static banish the last remnants of the battle for the second time this day. I stopped, appreciating the privilege of having such a breathing room.
 
+Yes, it was hard work to retrieve and process documents for the Inquisition. Yes, some of those images stuck like memories. But I had been chosen, and I had a duty to fulfill. They wouldn't have chosen me otherwise. I needed to brave what may come. And besides... "The Emperor protects".
 
+The words made my hands a little bit warmer. I closed my fists, and carried on, up to my station.
 
+---
 
+ThinkPod 36B, Sectio Ordos was cold that day. Two men in janitor uniforms were cleaning the green carpet surrounding the ten Retriever stations, in preparation for the shift change. From his plinth at the end of the room, Magos Cognitor Arsenus emitted an electrical buzz, and a cloud of steam sprouted from the opening in his red robes, where his mouth would have been.
 
+"To you as well, Magos" I declared, as I walked left, to station 8.
 
+When I got to my station, the //TODO reclining couch was empty. "Do you know what happened to Herc?" I asked the night shift operator to my right, as he was rising from his station, getting ready to leave.
+
+"Damn ninker never showed up." She said. Her breath was still irregular, her pupil were dilated. "He better come back with a good excuse and a bottle of amasec to share. Now if you'll excuse me, I can't be here anymore." And she shambled down the room.
+
+I sat on the //TODO reclining couch, making ready. A chill ran down my spine as I tightened the controls of my helmet. I touched the place where my ring had been moments ago.
+
+I finished strapping the helmet. It was going to be a long day.
+
+"WELCOME, RETRIEVERS OF THE ORDOS." Even through the ThinkPod helmet interface, Cognitor Arsenus's voice was canny, more machine than human.
+
+"THE GRAND ARCHIVE THANKS YOU FOR YOUR SERVICE. YOU ARE THE BEST RETRIEVERS IN //TODO Hive name, FOR WHICH YOU WERE CHOSEN. MAKE US PROUD." I'll admit, even after hundreds of times hearing them, that formal greeting still made me feel ready to take on anything.
+
+"LET US BEGIN" And the world became data.
+
+---
+
+"CAPTAIN ARGOLES, CHAPTER AURORA, THE DISASTER OF THRACIAN PRIMARIS. 338.M41, FILE PREFIXES 50123 TO 109034" declared Arsenus.
+
+Ten minds recieved the order and dove into the thousands of files. Reading, watching, sifing, trying to find the fate of the Astartes captain.
+
+I found a set of cockpit recordings. I sat on the seat of the traitor pilots while they raked through the crowds. I saw them cut down thousands of civilians before precipitating to my death when the fliers were hit with lasfire. But no sign of Argoles.
+
+I found picts of burning buildings, sound recordings of agonizing people, and death rolls that numbered the thousands. But no sign of Argoles.
+
+"Found it!" Said one of the other Retrievers. Our minds snapped back into place, and the voice said "File 89342, it's a camera feed from his helmet."
+
+"WELL DONE. THE GRAND ARCHIVE THANKS YOU FOR YOUR SERVICE. INQUISITOR GIDEON RAVENOR, ORDO XENOS, THE DISASTER OF THRACIAN PRIMARIS. 338.M41, FILE PREFIXES 70997 TO 134299".
+
+And we sunk, back to fire and blood.
+
+---
 
 
 
