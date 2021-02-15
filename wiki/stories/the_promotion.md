@@ -200,6 +200,8 @@ I managed to coerce my shaky hands to strap the belts and perform final checks. 
 
 ---
 
+//This scene needs more physical feedback, make Faustus feel the horrors.
+
 "CAPTAIN ARGOLES, CHAPTER AURORA, THE DISASTER OF THRACIAN PRIMARIS. 338.M41, FILE PREFIXES 50123 TO 109034" declared Arsenus.
 
 Ten minds recieved the order and dove into the thousands of files. Reading, watching, sifing, trying to find the fate of the Astartes captain.
