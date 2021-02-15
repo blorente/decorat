@@ -68,13 +68,13 @@ I smiled. A ThinkPod was an office as much as the underhive was a beauty complex
 
 "You know I can't talk about it" 
 
-"I know, I know. Just you've been... not yourself, lately. Not that I'm complaining about the raise" he said, raising the caffeine cup. "I reckon you've got some proper shut-eye in a while."
+"I know, I know. Just you've been... not yourself, lately. Not that I'm complaining about the raise" he said, raising the caffeine cup. "I reckon you've not got some proper shut-eye in a while."
 
-"Mhm...". I finished my cup, as we hurried inside the packed carriage. Jorrick shrugged
+"Mhm...". I finished my cup, as we hurried inside the packed carriage. Jorrick shrugged.
 
-"PLEASE ENSURE THAT ALL EXTREMITIES ARE INSIDE THE CARRIAGE AT ALL *clang*". The mechanized voice of the speakers got interrupted by a loud snap of the closing doors. With a tug, the mag-train started accelerating towards the spires. I stared at the grid of rockrete hab-blocks, their facades blackened by the ever-present mist.
+"PLEASE ENSURE THAT ALL EXTREMITIES ARE INSIDE THE CARRIAGE AT ALL *clang*". The mechanized voice of the speakers got interrupted by a loud snap of the closing doors. With a tug, the mag-train started accelerating towards the spires. I stared at the grid of rockrete hab-blocks, their facades blackened by the ever-present mist of the lower hive.
 
-As the train made its way up the rings of //TODO: Hive name, we saw a couple of urban fliers zoom past, in the opposite direction. They were painted in arbites bronze, contrasting with the backdrop of smoky bars and neon entertainment houses of the mid-hive.
+As the train made its way up the rings of //TODO: Hive name, we saw a couple of urban fliers zoom past in the opposite direction. They were painted in arbites bronze, contrasting with the backdrop of smoky bars and neon entertainment houses of the mid-hive.
 
 "Bet they're going to the Graters, those ninkers."
 
