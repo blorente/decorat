@@ -72,6 +72,24 @@ I smiled. A ThinkPod was an office as much as the underhive was a beauty complex
 
 "PLEASE ENSURE THAT ALL EXTREMITIES ARE INSIDE THE CARRIAGE AT ALL *clang*". The mechanized voice of the speakers got interrupted by a loud snap of the closing doors. With a tug, the mag-train started accelerating towards the spires. I stared at the grid of rockrete hab-blocks, their facades blackened by the ever-present mist of the lower hive.
 
+---
+
+The train was shaking in its suspensions as it rushed through the Medicae 
+district. A field of short white marble strips, no more than three stories tall, pointing to a spire of contrasting obsidian. The tower reached into the clouds, as if it were the arm of the hive, pushing itself upright.
+
+"You know? I've always found the Fingers surprisingly similar to ThinkPods" I said, turning to Jorrick.
+
+"Huh, I can see it. Bugger! Now not even //TODO Pod disease will let you get away from the damn things."
+
+"You do know that most people heal from //TODO Pod disease".
+
+"The voices stop alright, but that ain't 'healing' in my book. I reckon they built them so low so that us poor ninkers won't die when we jump off. They don't care about your broken back, if your mind's still sharp."
+
+He did have a point. Just like //TODO Pod disease affected everyone differently, it was hard to predict what the cleanses would do to workers that ended up in the Fingers.
+
+//TODO Character doubt.
+
+
 As the train made its way up the rings of //TODO: Hive name, we saw a couple of urban fliers zoom past in the opposite direction. They were painted in arbites bronze, contrasting with the backdrop of smoky bars and neon entertainment houses of the mid-hive.
 
 "Bet they're going to the Graters, those ninkers."
@@ -90,23 +108,7 @@ There were people staring at this point.
 
 "I know, I know." His tone softened, suddenly realizing the averting gazes of his fellow citizens. "Just worry abot my caffeine supply, is all".
 
-He raised his cup and smiled, and I couldn't help but do the same. We turned our gazes back to the distance.
-
----
-
-The train was shaking in its suspensions as it rushed through the Medicae district. A field of short white marble strips, no more than three stories tall, pointing to a spire of contrasting obsidian. The tower reached into the clouds, as if it were the arm of the hive, pushing itself upright.
-
-"You know? I've always found the Fingers surprisingly similar to ThinkPods" I said, turning to Jorrick.
-
-"Huh, I can see it. Bugger! Now not even //TODO Pod disease will let you get away from the damn things."
-
-"You do know that most people heal from //TODO Pod disease".
-
-"The voices stop alright, but that ain't 'healing' in my book. I reckon they built them so low so that us poor ninkers won't die when we jump off. They don't care about your broken back, if your mind's still sharp."
-
-He did have a point. Just like //TODO Pod disease affected everyone differently, it was hard to predict what the cleanses would do to workers that ended up in the Fingers.
-
-//TODO Character doubt.
+He raised his cup and smiled, and I couldn't help but do the same. I looked out the window.
 
 ---
 
@@ -254,4 +256,3 @@ It was too much.
 // Cut to the present. Medicae in the Fingers are interrogatimg him.
 // He realizes he's been cleaned before, and his froend has been dead for a while.
 // He starts crying, and they close the door behind him. "Prepare employee X47U for cleansing".
-
