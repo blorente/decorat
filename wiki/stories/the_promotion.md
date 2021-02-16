@@ -238,7 +238,7 @@ Suddenly, a horde of hungry beasts were charging towards me. Lasfire rained from
 
 The alien beasts didnt even need to stop as their long, single-bladed claws tore through my unit. Some of them tried attacking me, and their metallic limbs ringed when they met my body.
 
-Whatever I was inside of was sturdy, but every attack opnened bigger gaps in its armor. They✨ started surrounding me, burying me in a flurry of steel and blood. 
+Whatever I was inside of was sturdy, but every attack opnened bigger gaps in its armor. They started surrounding me, burying me in a flurry of steel and blood. 
 
 _clang, clang, clang_ "No!"
 
