@@ -208,7 +208,7 @@ A cold hand gripped my heart. I wasn't ready for this, not again. Cannonfire rag
 
 Ten minds recieved the order and dove into the thousands of files. Reading, watching, sifting, trying to find the fate of the Astartes captain.
 
-I found a set of cockpit recordings. Within nanoseconds, I was on the cockpit of a fighter, sitting with the traitor pilots while they raked through the crowds. I saw them cut down thousands of civilians before precipitating to my death when the fliers were hit with lasfire. But no sign of Argoles.
+I found a set of cockpit recordings. Within nanoseconds, I was on the cockpit of a fighter, sitting with the traitor pilots while they raked through the crowds. I felt sick as we cut down thousands of civilians, seconds before precipitating to my death when we were hit with. No sign of Argoles.
 
 I found picts of burning buildings, sound recordings of agonizing people, and death rolls that numbered the thousands. But no sign of Argoles.
 
@@ -234,7 +234,7 @@ My legs were shaking from the impact of the last explosion. A bolt-round from a 
 
 //TODO REFERENCE HORMAGAUNTS IN FROZEN WORLD
 
-Suddenly, a horde of hungry beasts were charging towards me. Behind be, lasfire was trying to slow rhem down. I joined the cacophony with my psi-cannons, but it wasnt enoguh to stop them.
+Suddenly, a horde of hungry beasts were charging towards me. Lasfire rained from behind me, trying to slow them down. I joined the cacophony with my psi-cannons, but it wasnt enoguh to stop them.
 
 The alien beasts didnt even need to stop as their long, single-bladed claws tore through my unit. Some of them tried attacking me, and their metallic limbs ringed when they met my body.
 
