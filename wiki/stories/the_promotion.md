@@ -192,9 +192,9 @@ I managed to coerce my shaky hands to strap the belts and perform final checks. 
 
 "WELCOME, RETRIEVERS OF THE ORDOS." Even through the ThinkPod helmet interface, Cognitor Arsenus's voice was canny, more machine than human.
 
-"THE GRAND ARCHIVE THANKS YOU FOR YOUR SERVICE. YOU ARE THE BEST RETRIEVERS IN //TODO Hive name, FOR WHICH YOU WERE CHOSEN. YOU ARE THE ELITE. MAKE US PROUD." These words marked the imminent dive. Usually, hearing them made me feel proud to be serving the Emperor. Today, they made me tast vie as my stomach turned.
+"THE GRAND ARCHIVE THANKS YOU FOR YOUR SERVICE. YOU ARE THE BEST RETRIEVERS IN //TODO Hive name, FOR WHICH YOU WERE CHOSEN. YOU ARE THE ELITE. MAKE US PROUD." These words marked the imminent dive. Usually, hearing them made me feel proud to be serving the Emperor. Today, they made something snap.
 
-A cold hand gripped my heart. I wasn't ready for this, not again. Cannonfire raged in the distance. I closed my eyes until white dots were foulying inside my pupils and gripped the leather of the armrests, trying to make it go away. Trying to prepare for...
+A cold hand gripped my heart. I wasn't ready for this, not again. Cannonfire raged in the distance. I closed my eyes until white dots were dancing inside my pupils and gripped the leather of the armrests, trying to make it go away. Trying to prepare for...
 
 "LET US BEGIN" And the world became data.
 
@@ -217,6 +217,34 @@ I found picts of burning buildings, sound recordings of agonizing people, and de
 And we sunk, back to fire and blood.
 
 ---
+
+By the tenth query, I felt my head about to explode. Quick breaths drew the smell of blood, coming fron the wounds the metal edges of the armrest had cut in my tight-gripping fingers.
+
+My legs were shaking from the impact of the last explosion. A bolt-round from a traitor Astartes splitting some Comissar Friedrik in half.
+
+"STATION 8, PLEASE REMAIN FOCUSED"
+
+"A moment, please! I just need to catch -"
+
+//TODO REFERENCE HORMAGAUNTS IN FROZEN WORLD
+
+Suddenly, a horde of hungry beasts were charging towards me. Behind be, lasfire was trying to slow rhem down. I joined the cacophony with my psi-cannons, but it wasnt enoguh to stop them.
+
+The alien beasts didnt even need to stop as their long, single-bladed claws tore through my unit. Some of them tried attacking me, and their metallic limbs ringed when they met my body.
+
+Whatever I was inside of was sturdy, but every attack opnened bigger gaps in its armor. They✨ started surrounding me, burying me in a flurry of steel and blood. 
+
+_clang, clang, clang_ "No!"
+
+I could feel blood russhing go my ears, and I started gaspung for breath. Sharp pain enveloped me as I felt my head shakenagainst my station's head pillow.
+
+_Clang, clang, clang_
+
+It was too much.
+
+---
+
+And here I am. 
 
 // Goes crazy in this session
 // Cut to the present. Medicae in the Fingers are interrogatimg him.
