@@ -244,7 +244,11 @@ It was too much.
 
 ---
 
-And here I am. 
+"And here I am."
+
+"Where do you think you are, sir?"
+
+ all  all I remember. 
 
 // Goes crazy in this session
 // Cut to the present. Medicae in the Fingers are interrogatimg him.
