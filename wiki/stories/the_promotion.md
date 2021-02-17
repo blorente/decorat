@@ -8,6 +8,9 @@ Promise: [Faustus](../people/operator_faustus.md) is small and insignificant. If
 
 What is the inciting incident? The waking up? The Train ride?
 
+Character transformation: Faustus has been suffering the effects of Pod Disease for a while. The only things keeping him sane are his aquila ring, his friend Jorrick, and his faith in the protection of the Emperor.
+When the first two are systematically taken from him, he falters. When nobody is going to help him get them back, he breaks.
+
 Prose
 -----
 
@@ -246,17 +249,31 @@ I could feel blood russhing go my ears, and I started gaspung for breath. Sharp 
 
 _Clang, clang, clang_
 
-It was too much.
+It was too much. My head exploded, and the world went white.
 
 ---
 
-"And here I am."
+"Good morning, Faustus" Said a male voice.
 
-"Where do you think you are, sir?"
+I tried to open my eyes, but only the left one obeyed. The right one responded with a sharp stab of pain instead.
 
- all  all I remember. 
+"I wouldn't do that if I were you. That's a nasty bruise you have there"
 
-// Goes crazy in this session
-// Cut to the present. Medicae in the Fingers are interrogatimg him.
-// He realizes he's been cleaned before, and his froend has been dead for a while.
-// He starts crying, and they close the door behind him. "Prepare employee X47U for cleansing".
+The man talking to me was dressed in Medicae uniform. His pen tapped on the glossy surface of the dataslate as he scribbled notes.
+
+"Wh-Where am I?" My lips felt heavy and dry.
+
+"You're in Unit 43, East Medicae." The man looked at his clock. The 
+
+// The tapping triggers him
+// He asks for hte ring
+// Denied
+// Tapping intensifies
+// Asks for jorrick
+// Okay. He just has to hold off until he gets here with the ring.
+// CLoses his eyes, trying to make the booms go away.
+// Overhears conversation
+// Jorrick is a famous person who went crazy and murdered a bunch of folks. 
+// Prep patient XXXX for reset.
+// "I toldya mate"t add 
+
