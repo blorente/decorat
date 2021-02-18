@@ -23,7 +23,7 @@ _THUMP_, _THUMP_, _THUMP_. "No!"
 The smell of damp laundry opened my nostrils as the hab block shook with the mag-tram passing outside.
 Heart pumping, I reached blindly across the room for the aquila ring.
 
-"The Emperor protects. The Emperor protects.", I uttered breathlessly as I clutched the symbol to my bare chest.
+"The Emperor is with me. The Emperor protects.", I uttered breathlessly as I clutched the symbol to my bare chest.
     
 I opened my eyes, trying to bring my breath back to a reasonable pace. The cracks of the window projected on the ceiling as the carriages of the train carried its human cargo uphive. I lied on my bed a little longer, letting the dancing lights take my mind away from the nightmare.
 
@@ -78,7 +78,7 @@ I smiled. A ThinkPod was an office as much as the underhive was a beauty complex
 ---
 
 The train was shaking in its suspensions as it rushed through the Medicae 
-district. A field of short white marble strips, no more than three stories tall, pointing to a spire of contrasting obsidian. The tower reached into the clouds, as if it were the arm of the hive, pushing itself upright.
+district. A field of short white marble strips, no more than three stories tall, pointing to a spire of contrasting obsidian. The tower reached into the clouds, as if it were the arm of the hive pushing itself upright.
 
 "You know? I've always found the Fingers surprisingly similar to ThinkPods" I said, turning to Jorrick.
 
@@ -253,27 +253,53 @@ It was too much. My head exploded, and the world went white.
 
 ---
 
+_Tap_, _tap_, _tap_. Fire. _Tap_, _tap_, _tap_. Blood. _Tap_, _tap_, _tap_. "No!" I screamed, as I woke up from the nightmare again.
+
+The fresh sheets were rubbed against my tender neck, sending a sharp pain stab at the back of my head.
+
+Fresh sheets.
+
+This wasn't my bed.
+
 "Good morning, Faustus" Said a male voice.
 
 I tried to open my eyes, but only the left one obeyed. The right one responded with a sharp stab of pain instead.
 
 "I wouldn't do that if I were you. That's a nasty bruise you have there"
 
-The man talking to me was dressed in Medicae uniform. His pen tapped on the glossy surface of the dataslate as he scribbled notes.
+In the well-lit room, a single man was talking to me. He was dressed in white Medicae uniform. He scratched the glossy surface of the dataslate as he scribbled notes. _Tap_, _tap_, _tap_.
 
 "Wh-Where am I?" My lips felt heavy and dry.
 
-"You're in Unit 43, East Medicae." The man looked at his clock. The 
+"You're in Unit 43, East Medicae." _Tap_, _Tap_, _Tap_. "You gave us a good scare this morning".
 
-// The tapping triggers him
-// He asks for hte ring
-// Denied
-// Tapping intensifies
-// Asks for jorrick
-// Okay. He just has to hold off until he gets here with the ring.
-// CLoses his eyes, trying to make the booms go away.
-// Overhears conversation
-// Jorrick is a famous person who went crazy and murdered a bunch of folks. 
-// Prep patient XXXX for reset.
-// "I toldya mate"t add 
+A flash of sharp, bloody metal claws came back for a second, and my heart skipped a beat. I took a deep breath, trying to push the memory away.
+
+"What's going to happen to me?" A note of desperation betrayed my feigned confidence. I didn't think my bruises were the reason I was in the Fingers.
+
+"Well, Faustus, we're going to make you all better." The man's lips formed a practiced smile. "Don't you worry. Soon, you'll feel... good as new" _Tap_, _Tap_, _Tap_.
+
+It _was_ a reset, then. _Tap_, _Tap_, _Tap_. I tried to raise my hands, but tight leather bounds bit into my wrists. _Clang, _Clang, _Clang_. I felt dizzy, and started hyperventilating.
+
+"Please Faustus, try to calm down". _Clang, _Clang, _Clang_.
+
+"You can't do this to me! I'm working for the Ordos! The Emperor needs me!" I was seeing red now, flying, thick streaks of blood red. My whole body was shaking, trying to get out of its bondages.
+
+"Have it your way" The man shrugged, the smile gone from his lips. I could barely hear his footsteps approaching, but I felt his hand touching a control beside my head.
+
+Immediately, my body went numb, and my eyes felt very heavy. The blood was gone.
+
+As I submerged in a pool of nothingness, I heard the man's footsteps going away.
+
+"Prepare worker FA-X16S for reset" I could barely hear him.
+
+"Again, sir? The odds of a full reco -"
+
+"He's critical. We don't want another case like that monster Jorrick"
+
+"Of course, sir."
+
+With the soft click of a door sliding shut, the room went dark.
+
+"I toldya mate. Guess you didn't have that long after all."
 
