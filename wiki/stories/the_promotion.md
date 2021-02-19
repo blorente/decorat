@@ -118,35 +118,35 @@ How long indeed?
 
 Finally, the mag-tram arrived at its final destination. The crowd started pouring out of the carriage, filling the narrow streets that led to the worker's entrance of the Grand Archive. After a brief stop to find a bin to dispose of my cup, I took out my ID pass and made my way to the lines forming at the entrance gates.
 
-While I shambled forwards with the rest of the workers, I looked up, shielding my eyes from the sunlight.
+I looked around, but Jorrick was not there. I shrugged "Probably lost in the crowd."
 
-The Great Archive was high enough in Decorat to be free of the smog. Its gothic towers reached into the clear sky, the suns reflecteing off its stained glass windows. 
+The line of workers shambled forwards, silently slipping into the Grand Archive like rain being swallowed by the gutter. I looked up, shielding my eyes from the sunlight.
 
-The warm morning light highlighted the depictions of the Emperor, for everyone to see. My favourite, "The Sacrifice of //TODO The human guard vs Horus", sparkled with the morning rays.
+The Great Archive was high enough in Decorat to be free of the smog. Its eight gothic towers reached into the clear sky. The cold morning light turned vibrant green, red and gold when it reflected in the hundreds of stained glass windows. My favourite, "The Sacrifice of Ollanius Pius", stood at the tip of the smallest tower.
 
-I touched my signet, closed my eyes, and said a prayer.
+I touched my signet, closed my eyes, and let the sound of a prayer inundate me with light.
 
 "Emperor give me strength to fullfill the duty that I must".
 
-The story of //TODO the human guard, how he saved our beloved Emperor by standing in the way of the traitor Horus, reminds us all that we are all important to the glory of the Imperium. That through piety and infinite determination, we are all valuable for the survival of Humanity.
+The story of Ollanius Pius, how he saved our beloved Emperor by standing in the way of the traitor Horus, reminds us all that we are all important to the glory of the Imperium. That the Emperor will reward our piety and determination.
 
 "Give me courage to face the horrors, and strength to -"
 
 "Move it!" Somebody shoved me forward in the queue. I stumbled, and realized I was already at the gates.
 
-"Sorry, sorry..." I fumbled through my coat, looking for my ID.
+"Sorry, sorry..." I felt the warmth inside of me fade away with the cold stab of the morning chill. I fumbled through my coat, looking for my ID.
 
 Front pockets? No. "Oi! Your Holy Grace! I said move it! I can't be late again!"
 
-Breast pockets? No. "Sir, you you're blocking the queue". A gate guard had come.
+Breast pockets? No. "Sir, you you're blocking the queue". A gate guard was waving his arms, frantically signaling me to hurry.
 
-"Yes, just a moment. I can't find my pass" 
+"Yes, just a moment." I was completely cold now "I can't find my pass" 
 
 "It's in your hand, sir". The guard could barely hide a sigh.
 
-"Oh." I blushed, looked down, scanned the pass without a word. As soon as the display beeped green, I rushed through the gates.
+"Oh." I blushed, looked down, and scanned the pass without a word. As soon as the display beeped green, I rushed through the gates.
 
-Less than ten paced from the gates, my hand started to feel strange. Almost as if it was missing something...
+I had taken less than ten paced from the gates when my hand started feeling strange. Almost as if it was missing something...
 
 "My ring!" I spun towards the gate. My feet tried to run, but the rest of my body couldn't fight the human tide pouring into the building.
 
