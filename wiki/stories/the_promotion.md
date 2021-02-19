@@ -25,7 +25,7 @@ Heart pumping, I reached blindly across the room for the aquila ring.
 
 "The Emperor is with me. The Emperor protects.", I uttered breathlessly as I clutched the symbol to my bare chest.
     
-I opened my eyes, trying to bring my breath back to a reasonable pace. The cracks of the window projected on the ceiling as the carriages of the train carried its human cargo uphive. I lied on my bed a little longer, letting the dancing lights take my mind away from the nightmare.
+I opened my eyes, trying to bring my breath back to a reasonable pace. The cracks of the window projected on the ceiling as the carriages of the train passing outside carried its human cargo uphive. I lied on my bed a little longer, letting the dancing lights take my mind away from the nightmare.
 
 This had been the worst one yet.
 
@@ -35,9 +35,9 @@ Eventually, my chest started to slow down. I started noticing my surroundings; t
 
 I looked down at my hands. I'd been holding on to the symbol too hard. It had left a deep cut in the soft skin of my palm. With a grimace of pain, I let go of the little bronze piece.
 
-They were definitely getting worse. I hand't been able to get a good night's sleep for ages. Not since my ThinkPod reassignment. I didn't know how many more nights like those I could take.
+They were definitely getting worse. I hand't been able to get a good night's sleep for ages. Not since my Cognitor reassignment. I didn't know how many more nights like those I could take.
 
-Of course, that was a stupid thought. The ORDOS clearance was a sign that the Inquisition itself had noticed my diligence and skill. The promotion was good, and the Emperor would give me strength to bear any load it carried. Would He not?
+I swallowed hard, battling that thought. The ORDOS clearance was a sign that the Inquisition itself had noticed my diligence and skill. The promotion was good. Besides, the Emperor would give me strength to bear any load it carried, would He not?
 
 As the last echoes of the burning city dissipated from my mind, I got up to get ready for work.
 
@@ -45,7 +45,7 @@ As the last echoes of the burning city dissipated from my mind, I got up to get 
 
 The deeply warm smell of freshly brewed caffeine quickly filled the room, making the episode a few moments earlier seem like... well... a bad dream. I brought the warm cup to my lips with a bandadged hand as I looked outside the window above the sink.
 
-Above, below, all around me people were exiting their rockrete hab-blocks and heading down the long staircases, to the mag-train station in Level 80, East Quadrant. They were heading uphive, most of them to work in the Grand Archive in some capacity. I would be joining them soon enough.
+Above, below, all around me, people were exiting their rockrete hab-blocks and heading down the long staircases, to the mag-train station in Level 80, East Quadrant. They were heading uphive, most of them to work in the Grand Archive in some capacity. I would be joining them soon enough.
 
 As I continued sipping my drink, the 08:90 train made its way to the station. That was my cue. I started getting dressed.
 
@@ -53,69 +53,68 @@ As I continued sipping my drink, the 08:90 train made its way to the station. Th
 
 "Faustus! You ready mate?" - I heard Jorrick shout outside, his words punctuated by his fists slamming the door.
 
-Of course I was ready. I wouldn't... *couldn't*, get to work late. Not now, not serving the Ordos.
+Of course I was ready. I wouldn't -- *couldn't*, get to work late. Not now, not serving the Ordos.
 
 "Mhm..." - I answered calmly, as the door to my hab slid open.
 
-"About time!", he smiled. "That caffeine I smell?". I handed him a plastek cup. "Aha! Cheers.", he said, taking a big gulp. "Ah, that's more like it!"
+"About time!", he smiled. "That caffeine I smell?". I handed him a plastek cup. "Aha! Cheers.", he said, taking a big gulp. "'mperor bless you mate!"
 
-We started down the stairs, making our way to Level 80. The usual morning chill was greatly nullified by the hundreds of bodies clinking and clanking their way down the zig-zagging metal staircases of the hab-block complex. Thousands of these hard-cold steps covered the facade of The Grater, as the building was affectionately known. Still, there was never enough room in rush hour.
+I smiled. I certainly hoped He did.
 
-Pushing and pulling, twisting and turning, we descended. I could feel the sweat of other people on my skin by the time we reached the station and got on the mag-tram. I'm sure I must have soiled someone's clothes with my caffeine on accident.
+We started down the stairs, making our way to Level 80. The usual morning chill was greatly nullified by the hundreds of bodies. Boots were clinking and clanking their way down the zig-zagging metal staircases of the hab-block complex. Thousands of these hard-cold steps covered the facade of The Grid, as the building was affectionately known. Still, there was never enough room in rush hour.
+
+Pushing and pulling, twisting and turning, we descended. I could feel the sweat of other people on my skin by the time we reached the station and got on the mag-tram. I'm sure I must have spilled my caffeine on someone's clothes by accident.
 
 "So? How's the new office?" asked Jorrick jokingly, as we reached the platform and stopped to catch our breath.
 
-I smiled. A ThinkPod was an office as much as the underhive was a beauty complex.
+I smiled. A Cognitor was an office as much as the underhive was a beauty complex.
 
 "You know I can't talk about it" 
 
-"I know, I know. Just you've been... odd, lately. Not that I'm complaining about the raise" he said, raising the caffeine cup. "I reckon you've not got some proper shut-eye in a while."
+"I know, I know. It's just you've been... odd, lately. Not that I'm complaining about the raise" he said, raising the caffeine cup. He smiled, but his eyes betrayed his concern. "I reckon you've not got some proper shut-eye in a while."
 
 "Mhm...". I finished my cup, as we hurried inside the packed carriage. Jorrick shrugged.
 
-"PLEASE ENSURE THAT ALL EXTREMITIES ARE INSIDE THE CARRIAGE AT ALL *clang*". The mechanized voice of the speakers got interrupted by a loud snap of the closing doors. With a tug, the mag-train started accelerating towards the spires. I stared at the grid of rockrete hab-blocks, their facades blackened by the ever-present mist of the lower hive.
+"PLEASE ENSURE THAT ALL EXTREMITIES ARE INSIDE THE CARRIAGE AT ALL *clang*". The mechanized voice of the speakers got interrupted by a loud snap of the closing doors. With a tug, the mag-train started accelerating towards the spires. I stared at the rows of rockrete hab-blocks, their facades blackened by the ever-present mist of the lower hive.
 
 ---
 
 The train was shaking in its suspensions as it rushed through the Medicae 
 district. A field of short white marble strips, no more than three stories tall, pointing to a spire of contrasting obsidian. The tower reached into the clouds, as if it were the arm of the hive pushing itself upright.
 
-"You know? I've always found the Fingers surprisingly similar to ThinkPods" I said, turning to Jorrick.
+"You know? I've always found the Fingers surprisingly similar to a Cognitor" I said, turning to Jorrick. I wrangled my arm, trying to bring the cup to my lips in the packed carriage.
 
-"Huh, I can see it. Bugger! Now not even //TODO Pod disease will let you get away from the damn things."
+"Huh, I can see it." He paused for a bit, as if digesting the epiphany "Bugger! Now not even the nuts will let you get away from the damn things."
 
-"You do know that most people heal from //TODO Pod disease".
+"You do know that most people heal from Pod Disease". I finally got the cup to my lips, barely spilling anything.
 
-"The voices stop alright, but that ain't 'healing' in my book. I reckon they built them so low so that us poor ninkers won't die when we jump off. They don't care about your broken back, if your mind's still sharp."
+"The voices stop alright, but that ain't 'healing' in my book. Like putting a jackhammer to your head. I reckon they built the Fingers so low so that us poor ninkers won't die if we jump off. They don't care about your broken back, if your mind's still sharp."
 
-He did have a point. Just like //TODO Pod disease affected everyone differently, it was hard to predict what the cleanses would do to workers that ended up in the Fingers.
+He did have a point. Just like Pod Disease affected everyone differently, it was hard to predict what the resets would do to the souls that ended up in the Fingers. Still, Jorrick was raising his voice.
 
-//TODO Character doubt.
+I looked around the carriage; nobody seemed to be notice.
 
+A couple of urban fliers zoomed past the train, towards one of the Medicae buildings. They were painted in arbites bronze, shining bright against the black and white backdrop.
 
-As the train made its way up the rings of //TODO: Hive name, we saw a couple of urban fliers zoom past in the opposite direction. They were painted in arbites bronze, contrasting with the backdrop of smoky bars and neon entertainment houses of the mid-hive.
-
-"Bet they're going to the Graters, those ninkers."
+That didn't help Jorrick's mood. "Bet they're coming from the Graters, those ninkers."
 
 I sighed. They probably were, on their way to collect some poor soul. "They are fulfilling their duty, just like you and me."
 
 "Ha! Cleaning up the mess of the Mechanicum? Some job that is."
 
-"Shush! Don't speak like that!"
+"Shush! Don't speak like that!" Now people were starting to lift their heads. 
 
-There were people staring at this point.
-
-"It just ain't right! How long do you think till one of those ThinkPods drives _you_ nuts?"
+"It just ain't right! How long do you think till one of those ThinkPods drives _you_ nuts? Talk about the Emperor all you want, but I see what they're doing to you."
 
 "Jorrick!" I was the one shouting now.
 
-"I know, I know." His tone softened, suddenly realizing the averting gazes of his fellow citizens. "Just worry abot my caffeine supply, is all".
+"I know, I know." His tone softened, suddenly realizing he had crossed a line. "Just worry abot my caffeine supply, is all".
 
-He raised his cup and smiled, and I couldn't help but do the same. I looked out the window.
+He raised his cup and smiled, and I couldn't help but do the same. I looked out the window, and couldn't help but wonder.
+
+How long indeed?
 
 ---
-
-//NOTE: Jorrick has magically dissappeared here.
 
 Finally, the mag-tram arrived at its final destination. The crowd started pouring out of the carriage, filling the narrow streets that led to the worker's entrance of the Grand Archive. After a brief stop to find a bin to dispose of my cup, I took out my ID pass and made my way to the lines forming at the entrance gates.
 
@@ -302,4 +301,3 @@ As I submerged in a pool of nothingness, I heard the man's footsteps going away.
 With the soft click of a door sliding shut, the room went dark.
 
 "I toldya mate. Guess you didn't have that long after all."
-
