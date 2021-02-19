@@ -120,7 +120,7 @@ Finally, the mag-tram arrived at its final destination. The crowd started pourin
 
 While I shambled forwards with the rest of the workers, I looked up, shielding my eyes from the sunlight.
 
-The Great Archive was high enough in //TODO Hive name to be free of the smog. Its gothic towers reached into the clear sky, the suns reflecteing off its stained glass windows. 
+The Great Archive was high enough in Decorat to be free of the smog. Its gothic towers reached into the clear sky, the suns reflecteing off its stained glass windows. 
 
 The warm morning light highlighted the depictions of the Emperor, for everyone to see. My favourite, "The Sacrifice of //TODO The human guard vs Horus", sparkled with the morning rays.
 
@@ -197,6 +197,7 @@ I managed to coerce my shaky hands to strap the belts and perform final checks. 
 "WELCOME, RETRIEVERS OF THE ORDOS." Even through the ThinkPod helmet interface, Cognitor Arsenus's voice was canny, more machine than human.
 
 "THE GRAND ARCHIVE THANKS YOU FOR YOUR SERVICE. YOU ARE THE BEST RETRIEVERS IN //TODO Hive name, FOR WHICH YOU WERE CHOSEN. YOU ARE THE ELITE. MAKE US PROUD." These words marked the imminent dive. Usually, hearing them made me feel proud to be serving the Emperor. Today, they made something snap.
+
 
 A cold hand gripped my heart. I wasn't ready for this, not again. Cannonfire raged in the distance. I closed my eyes until white dots were dancing inside my pupils and gripped the leather of the armrests, trying to make it go away. Trying to prepare for...
 
