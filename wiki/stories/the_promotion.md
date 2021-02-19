@@ -196,22 +196,21 @@ I managed to coerce my shaky hands to strap the belts and perform final checks. 
 
 "WELCOME, RETRIEVERS OF THE ORDOS." Even through the ThinkPod helmet interface, Cognitor Arsenus's voice was canny, more machine than human.
 
-"THE GRAND ARCHIVE THANKS YOU FOR YOUR SERVICE. YOU ARE THE BEST RETRIEVERS IN DED, FOR WHICH YOU WERE CHOSEN. YOU ARE THE ELITE. MAKE US PROUD." These words marked the imminent dive. Usually, hearing them made me feel proud to be serving the Emperor. Today, they made something snap.
+"THE GRAND ARCHIVE THANKS YOU FOR YOUR SERVICE. YOU ARE THE BEST RETRIEVERS IN DECORAT, FOR WHICH YOU WERE CHOSEN. YOU ARE THE ELITE. MAKE US PROUD." These words marked the imminent dive. Usually, hearing them made me feel proud to be serving the Emperor. Today, they made me taste vomit at the back of my throat.
 
-
-A cold hand gripped my heart. I wasn't ready for this, not again. Cannonfire raged in the distance. I closed my eyes until white dots were dancing inside my pupils and gripped the leather of the armrests, trying to make it go away. Trying to prepare for...
+A cold hand gripped my heart. I wasn't ready for this, not again. Cannonfire raged in the distance. I closed my eyes until white dots were dancing inside my pupils and gripped the leather of the armrests, trying to make it go away. Trying to prepare for--
 
 "LET US BEGIN" And the world became data.
 
 ---
 
-//This scene needs more physical feedback, make Faustus feel the horrors.
+"CAPTAIN ARGOLES, CHAPTER AURORA, THE DISASTER OF THRACIAN PRIMARIS. 338.M41. FILE PREFIXES 50123 TO 109034" declared Arsenus.
 
-"CAPTAIN ARGOLES, CHAPTER AURORA, THE DISASTER OF THRACIAN PRIMARIS. 338.M41, FILE PREFIXES 50123 TO 109034" declared Arsenus.
+Ten minds recieved the order simultanously, and dove into the thousands of files. Reading, watching, sifting, trying to find the fate of the Space Marine captain.
 
-Ten minds recieved the order and dove into the thousands of files. Reading, watching, sifting, trying to find the fate of the Astartes captain.
+I found a set of cockpit recordings. Within nanoseconds, I was on the cockpit of a fighter jet, flying over a majestic parade. Millions of souls cheered as the Imperium's finest marched by. I felt proud of  
 
-I found a set of cockpit recordings. Within nanoseconds, I was on the cockpit of a fighter, sitting with the traitor pilots while they raked through the crowds. I felt sick as we cut down thousands of civilians, seconds before precipitating to my death when we were hit with. No sign of Argoles.
+sitting with the traitor pilots while they raked through the crowds. I felt sick as we cut down thousands of civilians, seconds before precipitating to my death when we were hit with. No sign of Argoles.
 
 I found picts of burning buildings, sound recordings of agonizing people, and death rolls that numbered the thousands. But no sign of Argoles.
 
