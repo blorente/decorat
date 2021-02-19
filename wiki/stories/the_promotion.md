@@ -226,25 +226,25 @@ And we sunk back, to fire and blood.
 
 ---
 
-By the tenth query, my head was about to explode. Quick breaths drew the smell of blood, coming from the wounds the metal edges of the armrest had cut in my tight-gripping fingers.
+By the tenth query, my head was about to explode. Quick breaths drew the smell of blood, coming from the wounds the metal armrest had cut in my tight-gripping fingers.
 
-My legs were shaking from the impact of the last explosion. A bolt-round from a traitor Astartes splitting some Comissar Friedrik in half.
+My legs were still shaking from the impact of the last explosion. A bolt-round from a traitor Astartes splitting some Comissar Friedrik in half.
 
 "STATION 8, PLEASE REMAIN FOCUSED"
 
 "A moment, please! I just need to catch -"
 
-//TODO REFERENCE HORMAGAUNTS IN FROZEN WORLD
+Suddenly, I was trapped in a box of steel, and a horde of alien beasts were charging towards me. Behind me, lasfilre rained trying to slow them down. I joined the cacophony with my psi-cannons, but it wasnt enough to stop them.
 
-Suddenly, a horde of hungry beasts were charging towards me. Lasfire rained from behind me, trying to slow them down. I joined the cacophony with my psi-cannons, but it wasnt enoguh to stop them.
+The ravenous beasts didnt even need to stop as their long, blade-like claws tore through the people around me. Some of them tried attacking me, and their metallic limbs ringed when they met my cage.
 
-The alien beasts didnt even need to stop as their long, single-bladed claws tore through my unit. Some of them tried attacking me, and their metallic limbs ringed when they met my body.
+_clang, clang, clang_
 
-Whatever I was inside of was sturdy, but every attack opnened bigger gaps in its armor. They started surrounding me, burying me in a flurry of steel and blood. 
+Whatever I was inside of was sturdy, but every attack opnened bigger gaps in its armor. They started surrounding me, burying me in a flurry of steel and blood.
 
 _clang, clang, clang_ "No!"
 
-I could feel blood russhing go my ears, and I started gaspung for breath. Sharp pain enveloped me as I felt my head shakenagainst my station's head pillow.
+I could feel blood rushing to my ears, and I started gasping for breath. Sharp pain enveloped me as I felt my head shake against my station's pillow.
 
 _Clang, clang, clang_
 
@@ -252,52 +252,52 @@ It was too much. My head exploded, and the world went white.
 
 ---
 
-_Tap_, _tap_, _tap_. Fire. _Tap_, _tap_, _tap_. Blood. _Tap_, _tap_, _tap_. "No!" I screamed, as I woke up from the nightmare again.
+_Tap_, _tap_, _tap_. Fire. _Tap_, _tap_, _tap_. Blood. _Tap_, _tap_, _tap_. "No!" I scream, as I wake up from the nightmare again.
 
-The fresh sheets were rubbed against my tender neck, sending a sharp pain stab at the back of my head.
+I feel fresh sheets rub against my tender neck, sending a sharp pain stab at the back of my head.
 
 Fresh sheets.
 
-This wasn't my bed.
+This isn't my station.
 
-"Good morning, Faustus" Said a male voice.
+"Good morning, Faustus" I hear a male voice say.
 
-I tried to open my eyes, but only the left one obeyed. The right one responded with a sharp stab of pain instead.
+I try to open my eyes, but only the left one obeys. The right one responds with a sharp stab of pain instead.
 
-"I wouldn't do that if I were you. That's a nasty bruise you have there"
+"I wouldn't do that if I were you. That's a nasty bruise you have there."
 
-In the well-lit room, a single man was talking to me. He was dressed in white Medicae uniform. He scratched the glossy surface of the dataslate as he scribbled notes. _Tap_, _tap_, _tap_.
+In the well-lit room, a single man is talking to me. He is dressed in starched Medicae uniform, and is scratching the glossy surface of his dataslate as he scribbles something. _Tap_, _tap_, _tap_.
 
-"Wh-Where am I?" My lips felt heavy and dry.
+"Wh-Where am I?" My lips feel heavy and dry. I can barely form the words.
 
-"You're in Unit 43, East Medicae." _Tap_, _Tap_, _Tap_. "You gave us a good scare this morning".
+"You're in Unit 498, East Medicae." _Tap_, _Tap_, _Tap_. "You gave us a good scare this morning".
 
-A flash of sharp, bloody metal claws came back for a second, and my heart skipped a beat. I took a deep breath, trying to push the memory away.
+A flash of sharp, bloody metal claws. My heart skipped a beat. I take a deep breath, pushing the memory away.
 
-"What's going to happen to me?" A note of desperation betrayed my feigned confidence. I didn't think my bruises were the reason I was in the Fingers.
+"What's going to happen to me?" A note of desperation betrays my feigned confidence. I don't think my bruises were the reason I'm in the Fingers, and I suspect he doesn't either.
 
-"Well, Faustus, we're going to make you all better." The man's lips formed a practiced smile. "Don't you worry. Soon, you'll feel... good as new" _Tap_, _Tap_, _Tap_.
+"Well, Faustus, we're going to make you all better." The man's lips form a practiced smile. His eyes don't. "Don't you worry. Soon, you'll feel... good as new" _Tap_, _Tap_, _Tap_.
 
-It _was_ a reset, then. _Tap_, _Tap_, _Tap_. I tried to raise my hands, but tight leather bounds bit into my wrists. _Clang, _Clang, _Clang_. I felt dizzy, and started hyperventilating.
+I swallow hard. So it _is_ a reset. _Tap_, _Tap_, _Tap_. I try to raise my hands, but tight leather bondages bite into my wrists. _Clang, _Clang, _Clang_. My head starts spinning, and my heart racing.
 
 "Please Faustus, try to calm down". _Clang, _Clang, _Clang_.
 
-"You can't do this to me! I'm working for the Ordos! The Emperor needs me!" I was seeing red now, flying, thick streaks of blood red. My whole body was shaking, trying to get out of its bondages.
+"You can't do this to me! I'm working for the Ordos! The Emperor needs me!" I'm seeing red now. Flying, thick, wet streaks of blood red. My whole body's shaking, trying to get out of this damn bed.
 
-"Have it your way" The man shrugged, the smile gone from his lips. I could barely hear his footsteps approaching, but I felt his hand touching a control beside my head.
+The man shrugs. "Have it your way." The smile gone from his lips. I can barely hear his footsteps approaching through the sound battle, but I feel his hand touching a control beside my head.
 
-Immediately, my body went numb, and my eyes felt very heavy. The blood was gone.
+Immediately, my body goes numb, and my eyes feel very heavy. The blood washes away, like the the rain wiping off the windows of a train.
 
-As I submerged in a pool of nothingness, I heard the man's footsteps going away.
+As I submerge in a pool of nothingness, I hear the man's footsteps going away.
 
-"Prepare worker FA-X16S for reset" I could barely hear him.
+"Prepare worker FA-X16S for reset" I can barely hear him now.
 
-"Again, sir? The odds of a full reco -"
+"Again, sir? Less than a year after the last one? The odds of a full reco -"
 
-"He's critical. We don't want another case like that monster Jorrick"
+"He's critical. We don't want another case like that monster Jorrick from back then."
 
 "Of course, sir."
 
-With the soft click of a door sliding shut, the room went dark.
+With the soft click of a door sliding shut, the room goes dark.
 
-"I toldya mate. Guess you didn't have that long after all."
+From the corner of my mind, I hear a voice. "I told'ya mate. Guess you didn't have that long after all."
