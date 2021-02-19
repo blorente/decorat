@@ -208,25 +208,25 @@ A cold hand gripped my heart. I wasn't ready for this, not again. Cannonfire rag
 
 Ten minds recieved the order simultanously, and dove into the thousands of files. Reading, watching, sifting, trying to find the fate of the Space Marine captain.
 
-I found a set of cockpit recordings. Within nanoseconds, I was on the cockpit of a fighter jet, flying over a majestic parade. Millions of souls cheered as the Imperium's finest marched by. I felt proud of  
+I found a set of cockpit recordings. Within nanoseconds, I was on the cockpit of a fighter jet, flying over a majestic parade. Millions of souls cheered as the Imperium's finest marched by. I started feeling a sense of pride as I watched the impecable legions of the Emperor.
 
-sitting with the traitor pilots while they raked through the crowds. I felt sick as we cut down thousands of civilians, seconds before precipitating to my death when we were hit with. No sign of Argoles.
+It didn't last long. When we were reaching the crowd, the fighter dived into it, and opened fire. I realized sitting with the traitor pilots while they raked through the crowds. I felt sick as we cut down thousands of civilians, seconds before precipitating to a fiery, sudden death when we were hit with. No sign of Argoles.
 
-I found picts of burning buildings, sound recordings of agonizing people, and death rolls that numbered the thousands. But no sign of Argoles.
+I kept searching. I found picts of burning buildings, sound recordings of agonizing people, and death rolls that numbered the thousands. But no Argoles.
 
 "Found it!" Said one of the other Retrievers.
 
 Our minds snapped back into place, and I gasped for air.
 
-The voice said "File 89342, it's a camera feed from his helmet."
+"File 89342, it's a camera feed from his helmet."
 
 "WELL DONE. THE GRAND ARCHIVE THANKS YOU FOR YOUR SERVICE. INQUISITOR GIDEON RAVENOR, ORDO XENOS, THE DISASTER OF THRACIAN PRIMARIS. 338.M41, FILE PREFIXES 70997 TO 134299".
 
-And we sunk, back to fire and blood.
+And we sunk back, to fire and blood.
 
 ---
 
-By the tenth query, I felt my head about to explode. Quick breaths drew the smell of blood, coming from the wounds the metal edges of the armrest had cut in my tight-gripping fingers.
+By the tenth query, my head was about to explode. Quick breaths drew the smell of blood, coming from the wounds the metal edges of the armrest had cut in my tight-gripping fingers.
 
 My legs were shaking from the impact of the last explosion. A bolt-round from a traitor Astartes splitting some Comissar Friedrik in half.
 
