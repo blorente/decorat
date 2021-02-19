@@ -300,4 +300,4 @@ As I submerge in a pool of nothingness, I hear the man's footsteps going away.
 
 With the soft click of a door sliding shut, the room goes dark.
 
-From the corner of my mind, I hear a voice. "I told'ya mate. Guess you didn't have that long after all."
+From the corner of my mind, I hear a voice. "I told'ya mate. Guess you didn't have that long after all. See you next time. Or maybe not."
