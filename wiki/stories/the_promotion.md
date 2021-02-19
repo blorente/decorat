@@ -150,53 +150,53 @@ I had taken less than ten paced from the gates when my hand started feeling stra
 
 "My ring!" I spun towards the gate. My feet tried to run, but the rest of my body couldn't fight the human tide pouring into the building.
 
-"Let me through, please! I need to get my ring back". Some people in front of me tried to make way for me. They were quickly pushed back by the vacant-eyed mass of people that marched relentlessly to their stations.
+"Let me through, please! I need to get my ring back". Some people in front of me tried to make way. They were quickly pushed back by the vacant-eyed mass of people that poured relentlessly into the building.
 
 I waved my arms, signalling to the guard that had hurried me before. He was picking something off the ground. When he saw me, he turned his head towards me.
 
 "I'm sorry sir, you're going to have to come and pick this up later." The guard put the ring in his pocket.
 
-"But..." 
+"No, I need that! I need Him..." 
 
 "Move along!" He commanded, and turned back to attend the incoming crowd.
 
-My heart was racing, and I felt week in my knees. I would have fallen down, if there had been a free inch of floor to do so. The thump of blood was ringing in my ears, reminding me of last night. The burning city, billions being massacred. The sharp lights of orbital lances sweeping across the districts, with chain explosions following a second later. The fire, the screams, the stench of burning flesh. "Oh no, oh Emperor please -"
+My heart was racing, and I felt week in my knees. I would have fallen down, if there had been a free inch of floor to do so. The thumps of pumping blood were ringing in my ears, just like last night. The burning city. Billions being massacred. The sharp lights of orbital lances sweeping across districts. Chain explosions following a second later. The fire, the screams, the stench of burning flesh. "Oh no, oh Emperor please -"
 
 "You 'eard 'im, move it!" Two strong hands turned me towards the ascending staircase, and shoved me forward.
 
-The smell of smoke lingered, but before me no longer stood the ashen plain, but the great spiral staircase that connected the different sections of the Grand Archive.
+I snapped out of it. The smell of smoke lingered, but before me no longer stood the ashen plain. Instead, a great staircase spiralled towards the high cealing, connecting the different sections of the Grand Archive.
 
-I forced myself to take a step forward. Then another one. Stumbling, I joined the crowd, making my way towards ThinkPod 36B, Sectio Ordos.
+I forced myself to take a step forward. Then another one. Stumbling, I joined the crowd once again, making my way towards Cognitor 36B, Sectio Ordos.
 
-I would have to come back for the ring later.
+I would have to come back for the ring later. I just hoped the Emperor would still be with me.
 
 ---
 
-As I got higher in the spiral staircase, the crowd started thinning. The higher floors of the Grand Archive were limited to the ORDOS and MILITIA clearance levels, where Inquisitors and their retinue came to do their research, and future Generals and Commissars came to study past battles.
+As I got higher in the spiral staircase, the crowd started thinning. The higher floors of the Grand Archive were limited to the ORDOS and MILITIA clearance levels, where Inquisitors and their retinue came to do their research, and the Generals and Commissars of the future came to study the past.
 
 I inhaled deeply, letting the smell of static banish the last remnants of the battle for the second time this day. I stopped, appreciating the privilege of having such breathing room.
 
 Yes, it was hard work to retrieve and process documents for the Inquisition. Yes, some of those images stuck like memories. But I had been chosen, and I had a duty to fulfill. They wouldn't have chosen me otherwise. I needed to brave what may come. And besides... "The Emperor protects".
 
-The words made my hands a little bit warmer. I closed my fists, and carried on, up to my station.
+The words made my hands a little bit warmer. I clenched my fists, and carried on, up to my station.
 
 ---
 
-ThinkPod 36B, Sectio Ordos was cold that day. Two men in janitor uniforms were cleaning the green carpet surrounding the ten Retriever stations, in preparation for the shift change. From his plinth at the end of the room, Magos Cognitor Arsenus emitted an electrical buzz, and a cloud of steam sprouted from the opening in his red robes, where his mouth would have been.
+Cognitor 36B, Sectio Ordos was cold that day. Two men in janitor uniforms were cleaning the green carpet surrounding the ten Retriever stations, in preparation for the shift change. From his plinth at the end of the room, Magos Cognitor Arsenus emitted an electrical buzz. A cloud of steam sprouted from the opening in his red robes where his mouth would have been.
 
 "Good morning to you as well, Magos" I declared, as I walked around the circle of leatherbound armchairs, to station 8.
 
-My station was empty. "Excuse me, do you know what happened to Herc?" I asked the night shift operator to my right, as she was rising from her station, getting ready to leave.
+My station was empty. "Excuse me, do you know what happened to Herc?" I asked the night shift Operator to my right, as she was rising from her station, getting ready to leave.
 
-"Damn ninker never showed up." She said. Her breath was still irregular from the last dive, her pupils dilated. "He better come back with a good excuse and a bottle of amasec to share. Now if you'll excuse me, I can't be here anymore." And she shambled down the room.
+"Damn ninker never showed up." She said. Her breath was still irregular from the last dive, her pupils dilated. "He better come back with a good excuse and a bottle of amasec to share. Now if you'll excuse me, I can't be here anymore." Without one more word, she shambled down the room.
 
-I sat on my station, making ready. A chill ran down my spine as the HUD of my helmet light up. I felt my pulse rise again, and I touched the place where my ring had been moments ago.
+I sat on my station, readying myself. A chill ran down my spine as the HUD of my helmet light up. I felt my pulse rise again, and I touched the place where my ring had been moments ago.
 
-I managed to coerce my shaky hands to strap the belts and perform final checks. "Emperor give me strength". It was going to be a long day.
+I managed to coerce my shaky hands to strap the belts and perform final checks. "The Emperor is with me. The Emperor protects." It was going to be a long day.
 
 "WELCOME, RETRIEVERS OF THE ORDOS." Even through the ThinkPod helmet interface, Cognitor Arsenus's voice was canny, more machine than human.
 
-"THE GRAND ARCHIVE THANKS YOU FOR YOUR SERVICE. YOU ARE THE BEST RETRIEVERS IN //TODO Hive name, FOR WHICH YOU WERE CHOSEN. YOU ARE THE ELITE. MAKE US PROUD." These words marked the imminent dive. Usually, hearing them made me feel proud to be serving the Emperor. Today, they made something snap.
+"THE GRAND ARCHIVE THANKS YOU FOR YOUR SERVICE. YOU ARE THE BEST RETRIEVERS IN DED, FOR WHICH YOU WERE CHOSEN. YOU ARE THE ELITE. MAKE US PROUD." These words marked the imminent dive. Usually, hearing them made me feel proud to be serving the Emperor. Today, they made something snap.
 
 
 A cold hand gripped my heart. I wasn't ready for this, not again. Cannonfire raged in the distance. I closed my eyes until white dots were dancing inside my pupils and gripped the leather of the armrests, trying to make it go away. Trying to prepare for...
