@@ -1,11 +1,11 @@
 The Promotion
 =============
 
-_thump_, _thump_, _thump_. "Stop."
+_thump, thump, thump_. "Stop."
 
-_Thump_, _Thump_, _Thump_. "No! Please, stop!"
+_Thump, Thump, Thump_. "No! Please, stop!"
 
-_THUMP_, _THUMP_, _THUMP_. "No!"
+_THUMP, THUMP, THUMP_. "No!"
 
 The smell of damp laundry opened my nostrils as the hab block shook with the mag-tram passing outside.
 Heart pumping, I reached blindly across the room for the aquila ring.
@@ -239,7 +239,7 @@ It was too much. My head exploded, and the world went white.
 
 ---
 
-_Tap_, _tap_, _tap_. Fire. _Tap_, _tap_, _tap_. Blood. _Tap_, _tap_, _tap_. "No!" I scream, as I wake up from the nightmare again.
+_Tap, tap, tap_. Fire. _Tap, tap, tap_. Blood. _Tap, tap, tap_. "No!" I scream, as I wake up from the nightmare again.
 
 I feel fresh sheets rub against my tender neck, sending a sharp pain stab at the back of my head.
 
@@ -253,21 +253,21 @@ I try to open my eyes, but only the left one obeys. The right one responds with 
 
 "I wouldn't do that if I were you. That's a nasty bruise you have there."
 
-In the well-lit room, a single man is talking to me. He is dressed in starched Medicae uniform, and is scratching the glossy surface of his dataslate as he scribbles something. _Tap_, _tap_, _tap_.
+In the well-lit room, a single man is talking to me. He is dressed in starched Medicae uniform, and is scratching the glossy surface of his dataslate as he scribbles something. _Tap, tap, tap_.
 
 "Wh-Where am I?" My lips feel heavy and dry. I can barely form the words.
 
-"You're in Unit 498, East Medicae." _Tap_, _Tap_, _Tap_. "You gave us a good scare this morning".
+"You're in Unit 498, East Medicae." _Tap, Tap, Tap_. "You gave us a good scare this morning".
 
 A flash of sharp, bloody metal claws. My heart skipped a beat. I take a deep breath, pushing the memory away.
 
 "What's going to happen to me?" A note of desperation betrays my feigned confidence. I don't think my bruises were the reason I'm in the Fingers, and I suspect he doesn't either.
 
-"Well, Faustus, we're going to make you all better." The man's lips form a practiced smile. His eyes don't. "Don't you worry. Soon, you'll feel... good as new" _Tap_, _Tap_, _Tap_.
+"Well, Faustus, we're going to make you all better." The man's lips form a practiced smile. His eyes don't. "Don't you worry. Soon, you'll feel... good as new" _Tap, Tap, Tap_.
 
-I swallow hard. So it _is_ a reset. _Tap_, _Tap_, _Tap_. I try to raise my hands, but tight leather bondages bite into my wrists. _Clang, _Clang, _Clang_. My head starts spinning, and my heart racing.
+I swallow hard. So it _is_ a reset. _Tap, Tap, Tap_. I try to raise my hands, but tight leather bondages bite into my wrists. _Clang, Clang, Clang_. My head starts spinning, and my heart racing.
 
-"Please Faustus, try to calm down". _Clang, _Clang, _Clang_.
+"Please Faustus, try to calm down". _Clang, Clang, Clang_.
 
 "You can't do this to me! I'm working for the Ordos! The Emperor needs me!" I'm seeing red now. Flying, thick, wet streaks of blood red. My whole body's shaking, trying to get out of this damn bed.
 
