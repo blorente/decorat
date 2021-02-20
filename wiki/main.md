@@ -8,7 +8,9 @@ published: true
 Just another hive city, somewhere in the grim darkness of the far future.
 
 Main: [Decorat](places/hive_decorat.md)
-Stories:
+
+Stories: [PDF](http://github.com/blorente/decorat/releases/latest/download/Stories_from_Decorat.pdf)
+
  - [The Promotion](stories/the_promotion.md)
 
 Open questions
