@@ -15,8 +15,7 @@ jobs:
         run: |
           mkdir output
           echo "Stories from Decorat" >> wiki/stories/_header.md
-          echo "INFILES=$(find wiki/stories/ -name *.md -type f | sort | xargs printf '"%s" ')" >> $GITHUB_ENV
-          echo $GITHUB_ENV
+          echo "INFILES=$(find wiki/stories/ -name '*.md' -type f | sort | xargs printf '"%s" ')" >> $GITHUB_ENV
 
       - name: Generate PDF
         uses: docker://pandoc/latex:2.9
