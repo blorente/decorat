@@ -1,0 +1,29 @@
+name: Publish-PDF
+
+on: push
+
+jobs:
+  publish-pdfs:
+    name: Publish PDFs for the stories
+    runs-on: ubuntu-18.04
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+      
+      - name: List Stories
+        run: |
+          mkdir output
+          echo "INFILES=$(printf '"%s" ' wiki/stories/*.md)" >> $GITHUB_ENV
+
+      - name: Generate PDF
+        uses: docker://pandoc/latex:2.9
+        with:
+          args: --output=output/Stories_from_Decorat.pdf ${{ env.FILELIST }}
+
+      - name: Publsh artifact
+        uses: actions/upload-artifact@master
+        with:
+          name: output
+          path: output
+
