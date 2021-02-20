@@ -14,11 +14,8 @@ jobs:
       - name: List Stories
         run: |
           mkdir output
-          pwd
-          find . -type f
-          INFILES=$(printf '"%s" ' wiki/stories/*.md) 
-          echo $INFILES
-          echo "INFILES=$(printf '"%s" ' wiki/stories/*.md)" >> $GITHUB_ENV
+          echo "Stories from Decorat" >> wiki/stories/_header.md
+          echo "INFILES=$(find wiki/stories/ -name *.md -type f | sort | xargs printf '"%s" ')" >> $GITHUB_ENV
           echo $GITHUB_ENV
 
       - name: Generate PDF
