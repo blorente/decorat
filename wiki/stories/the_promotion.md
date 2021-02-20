@@ -1,5 +1,5 @@
 The Promotion
--------------
+=============
 
 _thump, thump, thump_. "Stop."
 
