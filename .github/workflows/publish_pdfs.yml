@@ -14,7 +14,9 @@ jobs:
       - name: List Stories
         run: |
           mkdir output
+          pwd
           echo "INFILES=$(printf '"%s" ' wiki/stories/*.md)" >> $GITHUB_ENV
+          echo $GITHUB_ENV
 
       - name: Generate PDF
         uses: docker://pandoc/latex:2.9
