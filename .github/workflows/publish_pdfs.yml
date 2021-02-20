@@ -24,7 +24,7 @@ jobs:
       - name: Generate PDF
         uses: docker://pandoc/latex:2.9
         with:
-          args: --output=output/Stories_from_Decorat.pdf ${{ env.FILELIST }}
+          args: --output=output/Stories_from_Decorat.pdf ${{ env.INFILES }}
 
       - name: Publsh artifact
         uses: actions/upload-artifact@master
