@@ -1,6 +1,8 @@
 
-
-p {
-    font-size: large;
+body {
     font-family: "Times New Roman", Times, serif;
+}
+
+p, li {
+    font-size: large;
 }

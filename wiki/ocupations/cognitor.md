@@ -1,11 +1,11 @@
-Cognitor
-========
+Magos Cognitor
+==============
 
-A Cognitor is an Adeptus Mechanicus magos specialized in information storage and retrieval.
+A Magos Cognitor (Cognitor for short) is an Adeptus Mechanicus magos specialized in information storage and retrieval.
 Cognitors are savants, data addicts, born within the Mechaniucs.
 
 A Cognitor is permanently affixed to a throne, connected by thick data wires to a very powerful data engine.
-That throne is also connected to a [ThinkPod](../artefacts/thinkpod.md), which interfaces between the Cognitor and the hundreds of human minds they use to retrieve data from the [GrandArchive](../places/grand_archive.md).
+That throne is also connected to a [Cognitor](../artefacts/thinkpod.md), which interfaces between the Cognitor and the hundreds of human minds they use to retrieve data from the [GrandArchive](../places/grand_archive.md).
 
 Hierarchy
 ---------

@@ -1,10 +1,10 @@
-The Graters
-===========
+The Grids
+=========
 
-The Graters are a series of hab-blocks in the mid-lower hive.
+The Grids are a series of hab-blocks in the mid-lower hive.
 They are gigantic blocks of prefab housing for single people, with zig-zagging metal staircases running through their facades. Viewed from afar, the blackened rockrete of the prefab fades into the hive-smog, and the staircases emit a visible sheen, hence the name.
 
-Each Grater contains thousands of living units, deep narrow cuboids of rockrete stacked on top of each other.
+Each Grid contains thousands of living units, deep narrow cuboids of rockrete stacked on top of each other.
 
 Living Units
 ------------
@@ -20,4 +20,4 @@ Furthermore, these blocks are so cheap to build and so tightly packed that the A
 Transportation
 --------------
 
-Every few levels, bridges connect with different tram stations, to move workers in and out of The Graters.
+Every few levels, bridges connect with different tram stations, to move workers in and out of The Grids.
