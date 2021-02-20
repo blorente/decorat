@@ -20,7 +20,9 @@ jobs:
       - name: Generate PDF
         uses: docker://pandoc/latex:2.9
         with:
-          args: --output=output/Stories_from_Decorat.pdf ${{ env.INFILES }}
+          args: >-
+            --toc
+            --output=output/Stories_from_Decorat.pdf ${{ env.INFILES }}
 
       - name: Publsh artifact
         uses: actions/upload-artifact@master
@@ -36,7 +38,7 @@ jobs:
         with:
           tag_name: v0.1 #${ github.ref }
           release_name: Release v0.1 #${ github.ref }
-          draft: true
+          draft: false
           prerelease: false
 
       - name: Upload Release Asset
