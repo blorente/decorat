@@ -14,7 +14,6 @@ jobs:
       - name: List Stories
         run: |
           mkdir output
-          echo "# Stories from Decorat" >> wiki/stories/_header.md
           echo "INFILES=$(find wiki/stories/ -name '*.md' -type f | sort | xargs printf '"%s" ')" >> $GITHUB_ENV
 
       - name: Generate PDF
@@ -22,7 +21,7 @@ jobs:
         with:
           args: >-
             --toc
-            --output=output/Stories_from_Decorat.pdf ${{ env.INFILES }}
+            --output=output/Stories_from_Decorat.pdf scripts/header.md ${{ env.INFILES }}
 
       - name: Publsh artifact
         uses: actions/upload-artifact@master
@@ -38,7 +37,7 @@ jobs:
         with:
           tag_name: v0.1 #${ github.ref }
           release_name: Release v0.1 #${ github.ref }
-          draft: false
+          draft: true
           prerelease: false
 
       - name: Upload Release Asset
