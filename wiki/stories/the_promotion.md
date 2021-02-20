@@ -237,7 +237,7 @@ _Clang, clang, clang_
 
 It was too much. My head exploded, and the world went white.
 
----
+###
 
 _Tap, tap, tap_. Fire. _Tap, tap, tap_. Blood. _Tap, tap, tap_. "No!" I scream, as I wake up from the nightmare again.
 
