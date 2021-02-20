@@ -237,7 +237,7 @@ _Clang, clang, clang_
 
 It was too much. My head exploded, and the world went white.
 
-###
+---
 
 _Tap, tap, tap_. Fire.
 
