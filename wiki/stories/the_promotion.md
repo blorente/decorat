@@ -239,7 +239,11 @@ It was too much. My head exploded, and the world went white.
 
 ###
 
-_Tap, tap, tap_. Fire. _Tap, tap, tap_. Blood. _Tap, tap, tap_. "No!" I scream, as I wake up from the nightmare again.
+_Tap, tap, tap_. Fire.
+
+_Tap, tap, tap_. Blood.
+
+_Tap, tap, tap_. "No!" I scream, as I wake up from the nightmare again.
 
 I feel fresh sheets rub against my tender neck, sending a sharp pain stab at the back of my head.
 
