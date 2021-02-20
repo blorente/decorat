@@ -15,6 +15,9 @@ jobs:
         run: |
           mkdir output
           pwd
+          find . -type f
+          INFILES=$(printf '"%s" ' wiki/stories/*.md) 
+          echo $INFILES
           echo "INFILES=$(printf '"%s" ' wiki/stories/*.md)" >> $GITHUB_ENV
           echo $GITHUB_ENV
 
