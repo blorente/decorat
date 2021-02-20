@@ -1,19 +1,6 @@
 The Promotion
 =============
 
-Notes
------
-
-Promise: [Faustus](../people/operator_faustus.md) is small and insignificant. If he shows potential, the system will extract as much as it can out of him, even pushing him to an extreme, and discard him when he burns out. No matter how strong his devotion to the Emperor.
-
-What is the inciting incident? The waking up? The Train ride?
-
-Character transformation: Faustus has been suffering the effects of Pod Disease for a while. The only things keeping him sane are his aquila ring, his friend Jorrick, and his faith in the protection of the Emperor.
-When the first two are systematically taken from him, he falters. When nobody is going to help him get them back, he breaks.
-
-Prose
------
-
 _thump_, _thump_, _thump_. "Stop."
 
 _Thump_, _Thump_, _Thump_. "No! Please, stop!"
