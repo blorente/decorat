@@ -1,11 +1,11 @@
 The Promotion
 =============
 
-_thump, thump, thump_. 
+_thump, thump_. 
 
-_Thump, Thump, Thump_.
+_Thump, Thump_.
 
-_THUMP, THUMP, THUMP_.
+_THUMP, THUMP_.
 
 "No!"
 
@@ -14,7 +14,7 @@ Heart pumping, I reached blindly across the room for the aquila ring.
 
 "The Emperor is with me. The Emperor protects.", I uttered breathlessly as I clutched the symbol to my bare chest.
     
-I opened my eyes, trying to bring my breath back to a reasonable pace. The cracks of the window projected on the ceiling, light up by thepassing carriages. I lied on my bed a little longer, letting the dancing lights take my mind away from the nightmare.
+I opened my eyes, trying to bring my breath back to a reasonable pace. The cracks of the window projected on the ceiling, light up by the passing carriages. I lied on my bed a little longer, letting the dancing lights take my mind away from the nightmare.
 
 This had been the worst one yet.
 
@@ -48,9 +48,9 @@ Of course I was ready. I wouldn't -- *couldn't*, get to work late. Not now, not 
 
 "About time!", he smiled. "That caffeine I smell?". I handed him a plastek cup. "Aha! Cheers.", he said, taking a big gulp. "'mperor bless you mate!" he said with a wink.
 
-I smiled, feeling the familiar cold of the aquila ring in my hand. I certainly hoped He did.
+I smiled -- despite his sarcasm -- feeling the familiar cold of the aquila ring in my hand. I certainly hoped He did.
 
-We started down the stairs, making our way to Level 80. The usual morning chill was greatly nullified by the usual mass of bodies going to the station. Boots were clinking and clanking their way down the zig-zagging metal staircases of the hab-block complex. Thousands of these hard-cold steps covered the facade of The Grid, as the building was affectionately known. Still, there was never enough room in rush hour.
+We started down the stairs, making our way to Level 80. The morning chill was greatly nullified by the usual mass of bodies going to the station. Boots were clinking and clanking their way down the zig-zagging metal staircases of the hab-block complex. Thousands of these hard-cold steps covered the facade of The Grid, as the building was affectionately known. Still, there was never enough room in rush hour.
 
 Pushing and pulling, twisting and turning, we descended. I could feel the sweat of other people on my skin by the time we reached the station and got on the mag-tram. I'm sure I must have spilled my caffeine on someone's clothes by accident.
 
@@ -68,21 +68,21 @@ I smiled. A Cognitor was an office as much as the underhive was a beauty complex
 
 ---
 
-The train was shaking in its suspensions as it rushed through the Medicae district. Five long white marble strips, no more than three stories tall formed the bulk of the hospital complex. They were arranged in a neat circle, all reaching out from a spire of contrasting red stone, some twenty stories tall, and windowless.
+The train was shaking in its suspensions as it rushed through the Medicae district. Five long white marble strips, no more than three stories tall, formed the bulk of the hospital complex. They were arranged in a neat circle, all reaching out from a spire of contrasting red stone, some twenty stories tall, and windowless.
 
 "You know? I've always found the Fingers surprisingly similar to a Cognitor" I said, turning to Jorrick. I wrangled my arm, trying to bring the cup to my lips through the backs and chests of the surrounding workers filling the space.
 
-"Huh, I can see it." He paused for a bit, as if digesting the epiphany "Bugger! Now not even the nuts will let you get away from the damn things."
+"Huh. Yeah, I can see it." He paused for a bit, as if digesting the epiphany "Bugger! Now not even the nuts will let you get away from the damn things."
 
 "You do know that most people heal from Pod Disease". I finally got the cup to my lips, barely spilling anything.
 
 "The voices stop alright, but that ain't 'healing' in my book. Like putting a jackhammer to your head! I reckon they built the Fingers so low so that us poor ninkers won't die if we jump off. They don't care about your broken back, if your mind's still sharp."
 
-He did have a point. Just like Pod Disease affected everyone differently, it was hard to predict what the resets would do to the souls that ended up in the Fingers. Still, Jorrick was raising his voice.
+He did have a point. Just like Pod Disease affected everyone differently, it was hard to predict what the resets would do to the workers that ended up in the Fingers.
 
 I looked around the carriage; oddly, nobody seemed to rise an eyebrow at the mention of such a sensitive topic. Had they not heard Jorrick? He certainly had been loud enough.
 
-A couple of urban fliers zoomed past the train, towards one of the Medicae buildings. They were painted in arbites bronze, shining bright against the black and white backdrop.
+A couple of urban fliers zoomed past the train, towards one of the Medicae buildings. They were painted in arbites bronze, shining bright against the red and white backdrop.
 
 That didn't help Jorrick's mood. "Bet they're coming from the Graters, those ninkers."
 
