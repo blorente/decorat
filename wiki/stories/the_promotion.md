@@ -84,17 +84,17 @@ I looked around the carriage; oddly, nobody seemed to rise an eyebrow at the men
 
 A couple of urban fliers zoomed past the train, towards one of the Medicae buildings. They were painted in arbites bronze, shining bright against the red and white backdrop.
 
-That didn't help Jorrick's mood. "Bet they're coming from the Graters, those ninkers."
+That didn't help Jorrick's mood. "Bet they're coming from the Grids, those ninkers."
 
 I sighed. They probably were, on their way to drop some poor soul. "They are fulfilling their duty, just like you and me."
 
 "Ha! Cleaning up the mess of the Mechanicum? Some job that is."
 
-"Shush! Don't speak like that!" At the sound of my voice, people lifted their heads, startled. 
+"Shush! Don't speak like that!" I was the one shouting now. At the sound of my voice, people lifted their heads, startled. 
 
 "It just ain't right! How long do you think till one of those Pods drives _you_ nuts? Talk about the Emperor all you want, but I see what they're doing to you."
 
-"Jorrick!" I was the one shouting now. Why were people staring at me? Jorrick was the one shouting heresy! 
+"Jorrick!" Why were people staring at me? Jorrick was the one shouting heresy! 
 
 "I know, I know." His tone softened, suddenly realizing he had crossed a line. "Just worry abot my caffeine supply, is all".
 
@@ -110,7 +110,7 @@ I looked around, but Jorrick was not there anymore. I hadn't seen him step off t
 
 The line of workers shambled forwards, silently slipping into the Grand Archive like rain being swallowed by the gutter. I looked up, shielding my eyes from the sunlight.
 
-The Great Archive was high enough in Decorat to be free of the smog. Its eight gothic towers reached into the clear sky. The cold morning light turned vibrant green, red and gold when it reflected in the hundreds of stained glass windows. My favourite, "The Sacrifice of Ollanius Pius", stood at the tip of the smallest tower.
+The Great Archive was high enough in Decorat to be free of the smog. Its eight gothic towers reached into the clear sky. The cold morning light turned vibrant shades of green, red and gold when it reflected in the hundreds of stained glass windows. My favourite, "The Sacrifice of Ollanius Pius", stood at the tip of the smallest tower.
 
 I touched my signet, closed my eyes, and let the sound of a prayer inundate me with light.
 
@@ -126,7 +126,7 @@ The story of Ollanius Pius, how he saved our beloved Emperor by standing in the 
 
 Front pockets? No. "Oi! Your Holy Grace! I said move it! I can't be late again!"
 
-Breast pockets? No. "Sir, you you're blocking the queue". A gate guard was waving his arms, frantically signaling me to hurry.
+Breast pockets? No. "Sir, you you're blocking the queue". A gate guard was waving his arms, signaling me to hurry.
 
 "Yes, just a moment." I was completely cold now "I can't find my pass" 
 
@@ -144,15 +144,15 @@ I waved my arms, signalling to the guard that had hurried me before. He was pick
 
 "I'm sorry sir, you're going to have to come and pick this up later." The guard put the ring in his pocket.
 
-"No, I need that! I need Him..." 
+"No, I need that! I need Him --" 
 
 "Move along!" He commanded, and turned back to attend the incoming crowd.
 
-My heart was racing, and I felt week in my knees. I would have fallen down, if there had been a free inch of floor to do so. The thumps of pumping blood were ringing in my ears, just like last night. The burning city. Billions being massacred. The sharp lights of orbital lances sweeping across districts. Chain explosions following a second later. The fire, the screams, the stench of burning flesh. "Oh no, oh Emperor please -"
+My heart was racing, and I felt weak in my knees. I would have fallen down, if there had been a free inch of floor to do so. The thumps of pumping blood were ringing in my ears, just like last night. The burning city. Billions being massacred. The sharp lights of orbital lances sweeping across districts. Chain explosions following a second later. The fire, the screams, the stench of burning flesh. "Oh no, oh Emperor please -"
 
 "You 'eard 'im, move it!" Two strong hands turned me towards the ascending staircase, and shoved me forward.
 
-I snapped out of it. The smell of smoke lingered, but before me no longer stood the ashen plain. Instead, a great staircase spiralled towards the high cealing, connecting the different sections of the Grand Archive.
+I snapped out of it. The smell of smoke lingered, but before me no longer stood the ashen plain. Instead, a great staircase spiralled towards the high ceiling, connecting the different sections of the Grand Archive.
 
 I forced myself to take a step forward. Then another one. Stumbling, I joined the crowd once again, making my way towards Cognitor 36B, Sectio Ordos.
 
@@ -175,7 +175,7 @@ The words made my hands a little bit warmer. I clenched my fists, and carried on
 Cognitor 36B, Sectio Ordos was cold that day. Two men in janitor uniforms were cleaning the green carpet surrounding the ten Retriever stations, in preparation for the shift change.
 
 
-When I got into the room, Adeptus Mechanicum Magos Cognitor Arsenus emmitted a series of electrical buzzes punctuated by a steam cloud that sprouted from an opening in his red robes, where his mouth would have been. The Magos had a perfect view of the room from the plinth he was affixed to, and he had the custom to greet his Retrievers at the start of each shift.
+When I got into the room, Magos Cognitor Arsenus emmitted a series of electrical buzzes, punctuated by a steam cloud that sprouted from an opening in his red robes where his mouth would have been. The Magos had a perfect view of the room from the plinth he was affixed to, and he had the rare custom to greet his Retrievers at the start of each shift.
 
 "Good morning to you as well, Magos" I returned the greeting, as I walked around the circle of leatherbound armchairs, to station 8.
 
