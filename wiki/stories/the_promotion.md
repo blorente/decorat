@@ -170,40 +170,41 @@ Yes, it was hard work to retrieve and process documents for the Inquisition. Yes
 
 The words made my hands a little bit warmer. I clenched my fists, and carried on, up to my station.
 
+
 ---
+
 
 Cognitor 36B, Sectio Ordos was cold that day. Two men in janitor uniforms were cleaning the green carpet surrounding the ten Retriever stations, in preparation for the shift change.
 
+When I got into the room, Magos Cognitor Arsenus emmitted a series of electrical buzzes, punctuated by a steam cloud that sprouted from an opening in his red robes, where his mouth would have been. The Magos had a perfect view of the room from the plinth he was affixed to, and he had the rare custom to greet his Retrievers at the start of each shift.
 
-When I got into the room, Magos Cognitor Arsenus emmitted a series of electrical buzzes, punctuated by a steam cloud that sprouted from an opening in his red robes where his mouth would have been. The Magos had a perfect view of the room from the plinth he was affixed to, and he had the rare custom to greet his Retrievers at the start of each shift.
+"Good morning to you as well, Magos" I returned the greeting as I walked around the circle of leatherbound armchairs, to station 8.
 
-"Good morning to you as well, Magos" I returned the greeting, as I walked around the circle of leatherbound armchairs, to station 8.
-
-My station was empty. "Excuse me, do you know what happened to Herc?" I asked the night shift Retriever to my right, as she was rising from her station, getting ready to leave.
+My station was empty. "Excuse me, do you know what happened to Herc?" I asked the night shift Retriever to my right, as she was rising from her armcahair, getting ready to leave.
 
 "Damn ninker never showed up." She said. Her breath was still irregular from the last dive, her pupils dilated. "He better come back with a good excuse and a bottle of amasec to share. Now if you'll excuse me, I can't be here anymore." Without one more word, she shambled down the room.
 
-The rest of my shift were already connected. I sat on my station, readying myself. A chill ran down my spine as the HUD of my helmet lit up. I felt my pulse rise again, and I touched the place where my ring had been moments ago. I grimaced in pain as my fingers brushed the bandages of this morning's cut.
+The rest of people in my shift were already connected. I sat on my station, readying myself. A chill ran down my spine as the HUD of my helmet lit up. I felt my pulse rise again, and I touched the place where my ring had been moments ago. I grimaced in pain as my fingers brushed the bandages of this morning's cut.
 
 I managed to coerce my shaky hands to strap the belts and perform final checks. "The Emperor is with me. The Emperor protects." It was going to be a long day.
 
 My display signalled the successful connection, and ten mind prepared to dive into the depths of the Archive. Reading, watching, sifting, trying to find answers to the queries of the Imperium.
 
-"WELCOME, RETRIEVERS OF THE ORDOS." Even through the ThinkPod helmet interface, Cognitor Arsenus's voice was canny, more machine than human.
+"WELCOME, RETRIEVERS OF THE ORDOS." Even through the helmet's vox interface, Cognitor Arsenus's voice was canny, more machine than human.
 
 "THE GRAND ARCHIVE THANKS YOU FOR YOUR SERVICE. YOU ARE THE BEST RETRIEVERS IN DECORAT, FOR WHICH YOU WERE CHOSEN. YOU ARE THE ELITE. MAKE US PROUD." These words marked the imminent dive. Usually, hearing them made me feel proud to be serving the Emperor. Today, they made me taste vomit at the back of my throat.
 
-A cold hand gripped my heart. I wasn't ready for this, not again. Cannonfire raged in the distance. I closed my eyes until white dots were dancing inside my pupils and gripped the leather of the armrests, trying to make it go away. Trying to prepare for--
+A cold hand gripped my heart. I wasn't ready for this, not again. Cannonfire raged in the back of my mind. I closed my eyes until white dots were dancing inside my pupils and gripped the leather of the armrests, trying to make it go away. Trying to prepare for--
 
 "CAPTAIN ARGOLES, CHAPTER AURORA, THE DISASTER OF THRACIAN PRIMARIS. 338.M41. FILE PREFIXES 50123 TO 109034" declared Arsenus.
 
 "LET US BEGIN" And we plunged into a sea of data.
 
-I found a set of recordings, and I opened it. Within nanoseconds, I was seeing from the cockpit of a fighter jet, flying over a majestic parade. Millions of souls cheered as the Imperium's finest marched by. I started feeling a sense of pride as I watched the impecable legions of the Emperor.
+I opened a set of recordings. Within nanoseconds, I was seeing the world from the cockpit of a fighter jet, flying over a majestic parade. Millions of souls cheered as the Imperium's finest marched by. I started feeling a sense of pride as I watched the impeccable legions of the Emperor.
 
-It didn't last long. When we were reaching the crowd, the fighter dived into it, and opened fire. I realized this recording was one of the traitor pilots while they raked through the crowds. I felt sick as I spectated first hand the flier's guns cutting down thousands of civilians, seconds before precipitating to a fiery, sudden death when the Imperium opened fire. No sign of Argoles.
+It didn't last long. When we were reaching the crowd, the fighter dived into it, and opened fire. As the automatic guns raked through the crowds, I realized this recording was one of the traitor pilots. I felt sick as I spectated first hand the flier's guns cutting down thousands of civilians, seconds before precipitating to a fiery, sudden death when the Imperium opened fire. No sign of Argoles.
 
-I had to keep searching. My mind jumped from file to file, processing each one before moving to the next one. I found picts of burning buildings, sound recordings of agonizing people, and death rolls that numbered the thousands. But no Argoles.
+I had to keep searching. My mind jumped from file to file, processing each before moving on to the next one. I found picts of burning buildings, sound recordings of agonizing people, and death rolls that numbered the thousands. But no Argoles.
 
 "Found it!" Said one of the other Retrievers.
 
@@ -219,7 +220,7 @@ And we sunk, back to fire and blood.
 ---
 
 
-By the tenth query, my head was about to explode. Quick breaths drew the smell of blood, coming from the wound in my hand. I must have opened it again by gripping too hard.
+By the tenth query, my head was about to explode. Quick breaths drew the smell of blood, coming from the wound in my hand. I must have opened it again by gripping my chair too hard.
 
 My legs were still shaking from the impact of the last explosion. A bolt-round from a traitor Astartes splitting some Comissar Friedrik in half.
 
@@ -229,7 +230,7 @@ My legs were still shaking from the impact of the last explosion. A bolt-round f
 
 "LET US CONTINUTE. INQUISITOR GIDEON RAVENOR, ORDO XENOS, --".
 
-In my confusion, I missed the file coordinates. Desperate, I opened the first recording I found. I was trapped in a box of steel, surrounded by 3 other people. A horde of alien beasts were charging towards the group. The three other people opened fire trying to slow them down. I heard psi-cannons coming from my cage join the cacophony. It wasnt enough to stop them.
+In my confusion, I missed the file coordinates. Desperate, I opened the first recording I found. I was trapped in a box of steel, surrounded by several other people. A horde of alien beasts were charging towards the group. The others opened fire trying, to slow them down. I heard the roar of psi-cannons coming from my cage join the cacophony. It wasn't enough.
 
 The ravenous beasts didnt even need to stop as their long, blade-like claws tore through the people around me. Some of them attacked the box, and their blade-like limbs ringed with the sound of metal on metal: _clang, clang, clang_.
 
@@ -243,7 +244,7 @@ My head exploded, and the world went white.
 ---
 
 
-The echoes of metal claws ringing wakes me up. _clang, clang, clang_. As I come to, eyes still closed, I realize it's a different sound. 
+I wake up to the echoes of metal claws ringing in my ears. _clang, clang, clang_. As I come to, eyes still closed, I realize it's a different sound. 
 
 _Tap, tap, tap_. 
 
@@ -253,13 +254,13 @@ Fresh sheets.
 
 This isn't my station.
 
-"Good morning, Faustus" I hear a male voice say. The tapping stops for a second.
+"Good morning, Faustus" I hear a voice say. The tapping stops for a second.
 
 I try to open my eyes, but only the left one obeys. The right one responds with a sharp stab of pain instead.
 
 "I wouldn't do that if I were you. That's a nasty bruise you have there."
 
-The well-lit room is empty, except for a single man sitting on a chair, talking to me. He is dressed in starched Medicae uniform, and is scratching the glossy surface of his dataslate as he scribbles something. _Tap, tap, tap_.
+My sight finally comes into focus. The well-lit room is empty, except for a single woman sitting on a chair, talking to me. She is dressed in starched Medicae uniform, and is scratching the glossy surface of her dataslate as he scribbles something. _Tap, tap, tap_.
 
 "Wh-Where am I?" My lips feel heavy and dry. I can barely form the words.
 
@@ -267,35 +268,35 @@ The well-lit room is empty, except for a single man sitting on a chair, talking 
 
 At that mention, I see a flash of sharp, bloody metal claws. My heart skips a beat. I take a deep breath, pushing the memory away.
 
-"What's going to happen to me?" A note of desperation betrays my feigned confidence. I don't think my bruises are the reason I'm in the Fingers, and I suspect he doesn't either.
+"What's going to happen to me?" A note of desperation betrays my feigned confidence. I don't think my bruises are the reason I'm in the Fingers -- I suspect she doesn't, either.
 
-"Well, Faustus, we're going to make you all better." The man's lips form a practiced smile. His eyes don't. "Don't you worry. Soon, you'll feel... good as new" _Tap, Tap, Tap_.
+"Well, Faustus, we're going to make you all better." The woman's lips form a practiced smile. Hes eyes don't. "Don't you worry. Soon, you'll feel... good as new" _Tap, Tap, Tap_.
 
-I swallow hard. So it _is_ a reset. I try to raise my hands, but tight leather bondages bite into my wrists. The man's note-taking intensifies as he sees my struggle.
+I swallow hard. So it _is_ a reset. I try to raise my hands, but tight leather bondages bite into my wrists. The woman's note-taking accelerates as she sees my struggle.
 
 "Please Faustus, try to calm down".
 
-My head starts spinning, and my heart racing. Those damn taps turn back into resounding _Clangs_.
+My head starts spinning, and my heart racing. Those damn taps turn back into resounding claws: _Clang, clang, clang_.
 
 "You can't do this to me! I'm working for the Ordos! The Emperor needs me!" I'm seeing flashes of red now. Flying, thick, wet streaks of blood red. My whole body's shaking, trying to get out of this damn bed.
 
-The man shrugs, putting the dataslate down. "Have it your way." The smile gone from his lips. The tapping has stopped, but the damage is done. I can barely hear his footsteps approaching through the sounds of battle, but I do feel his hand touching a control beside my head.
+She shrugs, putting the dataslate down. "Have it your way." The smile gone from her lips. The tapping has stopped, but the damage is done. I can barely hear her footsteps approaching through the sounds of battle, but I do feel her hand touching a control beside my head.
 
-Immediately, my body goes numb, and my eyes feel heavy. The blood washes away, like the the rain wiping off the windows of a train.
+Immediately, my body goes numb, and my eyes feel heavy. The blood washes away from my sight, like the the rain wiping off the windows of a train.
 
 "Now, go to sleep"
 
-As I submerge in a pool of nothingness, I hear the man's footsteps going away. The door slams shut, leaving me alone in the room.
+As I submerge in a pool of nothingness, I hear the woman's footsteps going away. The door slams shut, leaving me alone in the room.
 
-"Prepare worker FA-X16S for reset" I can barely hear him now, talking to someone outside. 
+"Prepare worker FA-X16S for reset" She's talking to someone outside. I can barely hear her.  
 
-"Again, sir? Less than a year after the last one? The odds of recovery are --"
+"Again, ma'am? Less than a year after the last one? The odds of recovery are --"
 
-"He's critical. We don't want another case like that monster Jorrick." The man pauses. Through the haze of the sedatives, Jorrick's name sounds familiar.
+"He's critical. We don't want another case like that monster Jorrick." The woman pauses, and I hear the tapping sound again. Through the haze of the sedatives, The name _Jorrick_ sounds familiar.
 
-"Oh, would you look at that! According to the file, he and the patient were friends before the man finally snapped and did a number on The Grids. Had to put him down. Now, we don't want another one of those, do we?"
+"Oh, would you look at that! According to the file, he and the patient were friends before the man finally snapped and did a number on The Grids. Had to put him in the tower. Now, we don't want another one of those, do we?"
 
-"Of course not, sir."
+"Of course not, ma'am."
 
 "Well then get to it. Not like he'll be missed."
 
@@ -303,4 +304,4 @@ As the footseps fade away into the corridor, the room goes dark.
 
 From a corner of the empty room, I hear Jorrick's voice.
 
-"Told'ya mate. Guess you didn't have that long after all."
+"Guess you didn't have that long after all, mate."
