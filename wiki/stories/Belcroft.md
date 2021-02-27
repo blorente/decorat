@@ -77,31 +77,31 @@ Story template from: [That one youtuber's channel](https://gallery.mailchimp.com
 - **Scene:** At the magistratum
   - **External**
     - **What Happens:** Erika goes to the Magistratum. Using her influence, gets an audience with the people assigned to the case of the man yesterday. They tell her he's been charged with Heresy, and put in the arm.
-    - **The Consequence:** Erika realized what I say in the realization. She makes an excuse and goes away.
+    - **The Consequence:** Erika realized what I say in the realization. She decides (mini-panics) that she has to get to the truth before they can get to her father. She finds out the address of the person and goes away.
     - **Subplots:** Rien has been following her, and 
   - **Internal**
     - **Why it matters:** Sets Erika in motion for the rest of the novel. Going to the lowerhive is pretty uncomfortable for her.
     - **The realization:** Erika realizes that she's going to find things before the magistratum (to avoid revelaing her father's illness), and that she'll have to go to the Grids and the mid-lower hive to investigate.
   - **Setup for next scene:** She storms off, heading to her car, ready to take it to the lower hive.
 
-- **Scene:** Meeting Rien
+- **Scene:** At the man's house. Is this Faustus?
   - **External**
-    - **What Happens:** Erika goes to her car, but Rien approaches her. They fight (using Tristan), until Erika sees that Rien is "just a boy". They talk, and Rien explains that she will need a guide. I think Rien doesn't tell Erika why he needs her help.
-    - **The Consequence:** They go together to the underhive.
-    - **Subplots:** Rien hides his real motivation, instead citing money.
+    - **What Happens:** Erika arrives at the house, and finds the door open and two people fighting inside. Rien and a thug. Erika dispatches the thug, and almost goes to Rien as well. Rien and Erika have a conversation, which is cut short by the Arbites sirens approaching.
+    - **The Consequence:** Rien alerts Erika, and they hide while the arbites register the house. When the danger is gone, Erika tries to dispatch Rien. Rien tries to argue with her that she has a better shot at finding the culprit with him.
+    - **Subplots:**
   - **Internal**
-    - **Why it matters:** Because we see the two characters interact. We see how Erika treats Rien, how he doesn't trust him, and how Rien hides his intetions. Erika sees he's scared. She may think it's of her, but it's actually of them discovering his sister.
-    - **The realization:** Erika doesn't trust Rien, but she is forced to stick with him because he is obviously from the Grid.
-  - **Setup for next scene:** They go to that man's house, which Rien knows how to get to.
+    - **Why it matters:** Erika crosses a line, inadvertently helping Rien.
+    - **The realization:** Erika realizes that she is outside of the normal regulations now.
+  - **Setup for next scene:** They head for a drink.
 
 #### The Build-up
-- **Scene:**
+- **Scene:** At the bar.
   - **External**
     - **What Happens:**
     - **The Consequence:**
     - **Subplots:**
   - **Internal**
-    - **Why it matters:**
+    - **Why it matters:** This is the dialogue scene where Rien makes Erika face the fact that she is now an undergrounder, and she'll have to operate in the shadows. In addition, she'll have to trust him.
     - **The realization:**
   - **Setup for next scene:**
 
