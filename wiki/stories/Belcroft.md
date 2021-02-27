@@ -111,8 +111,10 @@ Erika is afraid for the Family's honor, and actively seeks out his father's caus
 
 ### Midpoint
 - Pinch Point: They realize that the plan is to infect the Grand Archive
+
 ### Act 2.2: Proacting
 Now the goal is to stop the infection.
+
 ### Act 3: The Resolution
 #### Supposed Victory
 #### Disaster
