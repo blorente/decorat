@@ -3,8 +3,6 @@ Belcroft
 
 A novel of introversion, set in Decorat.
 
-Outline
--------
 
 Titles are part of the template. List items are scenes.
 A scene follows the following template: [Template](https://gallery.mailchimp.com/a761264f84ac176a17ff801a3/files/caf347e8-8a11-4b30-b2fc-145b94851e84/The_Ultimate_Scene_Card_TEMPLATE.02.pdf)
@@ -22,6 +20,8 @@ A scene follows the following template: [Template](https://gallery.mailchimp.com
 ```
 
 Story template from: [That one youtuber's channel](https://gallery.mailchimp.com/a761264f84ac176a17ff801a3/files/fa86076d-edd7-4476-8112-3e2ac501536d/3_ACT_STORY_STRUCTURE_PRINTABLE.pdf)
+
+## Outline
 
 ### Act 1: The Setup
 #### Hook
@@ -84,6 +84,8 @@ Story template from: [That one youtuber's channel](https://gallery.mailchimp.com
     - **The realization:** Erika realizes that she's going to find things before the magistratum (to avoid revelaing her father's illness), and that she'll have to go to the Grids and the mid-lower hive to investigate.
   - **Setup for next scene:** She storms off, heading to her car, ready to take it to the lower hive.
 
+#### The Build-up
+
 - **Scene:** At the man's house. Is this Faustus?
   - **External**
     - **What Happens:** Erika arrives at the house, and finds the door open and two people fighting inside. Rien and a thug. Erika dispatches the thug, and almost goes to Rien as well. Rien and Erika have a conversation, which is cut short by the Arbites sirens approaching.
@@ -94,7 +96,8 @@ Story template from: [That one youtuber's channel](https://gallery.mailchimp.com
     - **The realization:** Erika realizes that she is outside of the normal regulations now.
   - **Setup for next scene:** They head for a drink.
 
-#### The Build-up
+#### 1st Plot Point
+
 - **Scene:** At the bar.
   - **External**
     - **What Happens:**
@@ -102,18 +105,20 @@ Story template from: [That one youtuber's channel](https://gallery.mailchimp.com
     - **Subplots:**
   - **Internal**
     - **Why it matters:** This is the dialogue scene where Rien makes Erika face the fact that she is now an undergrounder, and she'll have to operate in the shadows. In addition, she'll have to trust him.
-    - **The realization:**
+    - **The realization:** Erika realizes she is locked into pursuing this investigation with that street rat, and that she will have to lean on him? Or maybe she'll have to investigate the underhive.
   - **Setup for next scene:**
 
-#### 1st Plot Point
 #### 1st Pinch Point
 ### Act 2.1: Reacting
+
 Erika is afraid for the Family's honor, and actively seeks out his father's cause of madness.
 
 ### Midpoint
+
 - Pinch Point: They realize that the plan is to infect the Grand Archive
 
 ### Act 2.2: Proacting
+
 Now the goal is to stop the infection.
 
 ### Act 3: The Resolution
