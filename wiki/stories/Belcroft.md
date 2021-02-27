@@ -104,6 +104,7 @@ Story template from: [That one youtuber's channel](https://gallery.mailchimp.com
     - **Why it matters:**
     - **The realization:**
   - **Setup for next scene:**
+
 #### 1st Plot Point
 #### 1st Pinch Point
 ### Act 2.1: Reacting
