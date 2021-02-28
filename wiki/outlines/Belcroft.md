@@ -89,26 +89,27 @@ Story template from: [That one youtuber's channel](https://gallery.mailchimp.com
 - **Scene:** At the man's house. Is this Faustus?
   - **External**
     - **What Happens:** Erika arrives at the house, and finds the door open and two people fighting inside. Rien and a thug. Erika dispatches the thug, and almost goes to Rien as well. Rien and Erika have a conversation, which is cut short by the Arbites sirens approaching.
-    - **The Consequence:** Rien alerts Erika, and they hide while the arbites register the house. When the danger is gone, Erika tries to dispatch Rien. Rien tries to argue with her that she has a better shot at finding the culprit with him.
+    - **The Consequence:** Rien alerts Erika, and they hide while the arbites register the house. When the danger is gone, Erika tries to dispatch Rien. Rien tries to argue with her that she has a better shot at finding the culprit with him, and shows her a token of Costanza's to prove it (that he got from the house of the man). She takes the token, but refuses to partner up, not trusting the boy, and insists they go their separate ways.
     - **Subplots:**
   - **Internal**
     - **Why it matters:** Erika crosses a line, inadvertently helping Rien.
     - **The realization:** Erika realizes that she is outside of the normal regulations now.
-  - **Setup for next scene:** They head for a drink.
+  - **Setup for next scene:** She is headed to Costanza's 
 
 #### 1st Plot Point
 
-- **Scene:** At the bar.
+- **Scene:** She mucks up
   - **External**
-    - **What Happens:**
-    - **The Consequence:**
-    - **Subplots:**
+    - **What Happens:** Erika tries to force people in a bar to give her information, trying to intimidate them and pull rank. The barman seems to follow suit, but is actually giving her false information, directing her to a trap.
+    - **The Consequence:** She doesn't realize it, but she's headed to a trap.
+    - **Subplots:** Rien goes to the bar a few moments after she leaves, and has asked Costanza where the iron lady went. He figures it's a trap, and she might need help.
   - **Internal**
-    - **Why it matters:** This is the dialogue scene where Rien makes Erika face the fact that she is now an undergrounder, and she'll have to operate in the shadows. In addition, she'll have to trust him.
-    - **The realization:** Erika realizes she is locked into pursuing this investigation with that street rat, and that she will have to lean on him? Or maybe she'll have to investigate the underhive.
-  - **Setup for next scene:**
+    - **Why it matters:** This is the setup for Erika's realization that she's out of her depth, and doesn't know how to navigate the streets of the lower hive. The goal is to show to the audience that it's a trap, but not let her see it.
+    - **The realization:** This scene is almost purely setup.
+  - **Setup for next scene:** 
 
 #### 1st Pinch Point
+
 ### Act 2.1: Reacting
 
 Erika is afraid for the Family's honor, and actively seeks out his father's cause of madness.
