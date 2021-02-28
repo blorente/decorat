@@ -21,6 +21,9 @@ A scene follows the following template: [Template](https://gallery.mailchimp.com
 
 Story template from: [That one youtuber's channel](https://gallery.mailchimp.com/a761264f84ac176a17ff801a3/files/fa86076d-edd7-4476-8112-3e2ac501536d/3_ACT_STORY_STRUCTURE_PRINTABLE.pdf)
 
+## Open Questions
+- How do we feel about the lack of side characters/locations? Is the bad guy too obvious?
+
 ## Outline
 
 ### Act 1: The Setup
