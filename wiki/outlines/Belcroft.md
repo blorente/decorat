@@ -133,7 +133,17 @@ Story template from: [That one youtuber's channel](https://gallery.mailchimp.com
 
 ### Act 2.1: Reacting
 
-Erika is afraid for the Family's honor, and actively seeks out his father's cause of madness.
+What is her plan? She must have connections in the scholam, and she needs to go there because it's so cool. But not yet, because it's not powerful enough.
+
+She and Rien go back to her house, and she goes to heal her wounds, and try to contact her friends at the Scholam. She leaves Rien locked up in the parlor. Rien escapes (he's a Ram after all) because he's bored, and has a chat with the butler. He gains the affections of the butler, maybe with a sob story about his sister, and then tells him about the setup at Costanza's. The butler tells Rien that Mr. Belcroft used to visit that place as well, regrettably, ever since the mother died. They both rush up to talk with Erika, who is doing something interesting. Erika is a irate at Rien for escaping, but also a little impressed that he managed to pick the lock. The butler manages to calm her down.
+
+Maybe then they are attacked, punishing her further for going bluntly?
+
+Maybe they focus on sneaking for now, and working alone, and slowly Erika must realize that the help of the underground is very damn useful?
+
+Maybe 
+
+
 
 ### Midpoint
 
