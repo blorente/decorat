@@ -22,7 +22,10 @@ A scene follows the following template: [Template](https://gallery.mailchimp.com
 Story template from: [That one youtuber's channel](https://gallery.mailchimp.com/a761264f84ac176a17ff801a3/files/fa86076d-edd7-4476-8112-3e2ac501536d/3_ACT_STORY_STRUCTURE_PRINTABLE.pdf)
 
 ## Open Questions
-- How do we feel about the lack of side characters/locations? Is the bad guy too obvious?
+- How do we feel about the lack of side characters/locations? Is the bad guy too obvious? I'm 30-odd scenes in, I still have some space to play with a fun character and location.
+  - Maybe somewhere in the grand archive?
+  - Maybe she uses her connection with Arseuns to consult about some particular ramblings that person had.
+  
 
 ## Outline
 
@@ -142,6 +145,7 @@ She and Rien go back to her house, and she goes to heal her wounds, and try to c
 
 Ideas:
 - Maybe Erika she decides that she'll visit her old headmaster, because she has to wait until night to go into Constanza's through the backdoor. Maybe she says she's there to ask for a job, but in reality she confides with him about her situation.
+- Maybe after she goes to the grand archive, and inquires about the name of the Daemon the crazy guy was uttering. There is an Interrogator inspecting all the MILITARY and ORDOS queries, as a precaution for all the commotion, and in preparation for the entry rites. They have a brief converstation where the interrogator implies that Erika should be careful, lest this miserious malady will affect her as well. Maybe Erika feels threatened by this.
 - Maybe then they go into Constanza's, and they discover something, and the boy does something foolhardy (maybe look for her sister's records), and he gets them caught by the owner of the shop.
 - Maybe there is an interrogation scene, where she can outmaneuvre them intellectually to get information, while Rien works on the locks.
 - Maybe there is a firefight, and they escape by the skin of their teeth, and then Erika takes Rien to one of the midhive bars, after cleaning up a bit.
