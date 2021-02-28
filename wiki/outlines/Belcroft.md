@@ -137,27 +137,46 @@ What is her plan? She must have connections in the scholam, and she needs to go 
 
 She and Rien go back to her house, and she goes to heal her wounds, and try to contact her friends at the Scholam. She leaves Rien locked up in the parlor. Rien escapes (he's a Ram after all) because he's bored, and has a chat with the butler. He gains the affections of the butler, maybe with a sob story about his sister, and then tells him about the setup at Costanza's. The butler tells Rien that Mr. Belcroft used to visit that place as well, regrettably, ever since the mother died. They both rush up to talk with Erika, who is doing something interesting. Erika is a irate at Rien for escaping, but also a little impressed that he managed to pick the lock. The butler manages to calm her down.
 
-Maybe then they are attacked, punishing her further for going bluntly?
+Ideas:
+- Maybe Erika she decides that she'll visit her old headmaster, because she has to wait until night to go into Constanza's through the backdoor. Maybe she says she's there to ask for a job, but in reality she confides with him about her situation.
+- Maybe then they go into Constanza's, and they discover something, and the boy does something foolhardy (maybe look for her sister's records), and he gets them caught by the owner of the shop.
+- Maybe there is an interrogation scene, where she can outmaneuvre them intellectually to get information, while Rien works on the locks.
+- Maybe there is a firefight, and they escape by the skin of their teeth, and then Erika takes Rien to one of the midhive bars, after cleaning up a bit.
+- Maybe they go to the bar, and Erika is pissed off at Rien for the stupid thing he did, and Rien explains about his sister, and Erika feels empathy for him. Maybe Rien lightens the mood with some excessive drinking?
 
-Maybe they focus on sneaking for now, and working alone, and slowly Erika must realize that the help of the underground is very damn useful?
+### Midpoint Twist
 
-Maybe 
-
-
-
-### Midpoint
-
-- Pinch Point: They realize that the plan is to infect the Grand Archive
+- Maybe Erika and Rien go back to Belcroft house, just to find it trashed. Some bad guys have come, killed the butler and the servitors, and taken (or even killed) her father. Erika is forced to go lay low with Rien, and regroup.
+- Crisis scene. This is no longer about honor, or secrecy. This is personal.
+- Pinch Point: The audience gets the reveal that the headmaster is the bad guy, and he wanted to kill Erika, and he didn't find her. 
 
 ### Act 2.2: Proacting
 
-Now the goal is to stop the infection.
+- She must infiltrate the Arm, whith the help of Rien, to recover the crazy man.
+- There must be a couple of scenes where Erika feels really bad about infiltrating the arm, and she does it regardless. Maybe this is a good opportunity to revisit some of the other crewmembers.
+- They recover the man, and amongst her ravings Rien (of maybe his sister?) remembers that this is very similar to that guy Jorrick. They got the assignment at Constanza's...
+- She goes back to the kingpin of Constanza's, and collaborates with him. He lends his psykers, who recover from the bartender the memory of the guy that made the order in the first place.
+
 
 ### Act 3: The Resolution
 #### Supposed Victory
+- She goes to confront the headmaster, and the goose is up. The headmaster escapes "you have no idea what's coming..."
+
 #### Disaster
+- How do they realize that the actual plan is to infect the things in the rites of entry?
+
 #### Dark Moment
+- Her father is dead. Was it all in vain?
+
 #### Recovery
+- Reinforcements? I stand for order and the Imperium. **True nobility is to fight for what's right.**
+
 #### Climactic Confrontation
+- Preparation Montage.
+- Crashing the rites.
+
 #### Victory
+- Yay!
+
 #### The Resolution
+- Erika is new headmistress of the scholam, and Rien is in training.
