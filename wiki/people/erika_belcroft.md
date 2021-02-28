@@ -10,9 +10,9 @@ THE BASICS:
 INTERNAL: THE MOST IMPORTANT THINGS YOU NEED TO KNOW ABOUT YOUR CHARACTER
 
 **What is his/her greatest fear:** To lose the honor of her house.
-**Inner motivation:** 
+**Inner motivation:** A burning desire to gain the approval of her father and the rest of the Imperium.
 **Kryptonite:** She doesn't have patience for those she thinks are less skilled than her.
-**What is his/her misbelief about the world:** 
+**What is his/her misbelief about the world:** Status and honor are the most important things.
 **Lesson he/she needs to learn:** People are not just status. There is potential (and goodness) in everyone.
 **What is the best thing in his/her life:** She has a pretty comfortable life, but she has grown very fond of Tristan's company.
 **What is the worst thing in his/her life:** She is surrounded by incompetents. In this particular story, her father's condition doesn't help either.
