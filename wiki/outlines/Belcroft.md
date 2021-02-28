@@ -106,9 +106,30 @@ Story template from: [That one youtuber's channel](https://gallery.mailchimp.com
   - **Internal**
     - **Why it matters:** This is the setup for Erika's realization that she's out of her depth, and doesn't know how to navigate the streets of the lower hive. The goal is to show to the audience that it's a trap, but not let her see it.
     - **The realization:** This scene is almost purely setup.
+  - **Setup for next scene:** I can give a hint that she's heading to a trap.
+
+
+- **Scene:** It's a trap
+  - **External**
+    - **What Happens:** Erika heads to the address given by the barman. I can invent the setting on the spot (what is interesting for a firefight?), but it's a set-up. Someone is watching her. Suddenly, that someone screams _be careful!_, just in time for her to avoid the shot of a gun. A fight ensues, which Erika and Co. win. The voice is Rien's, which wasn't very useful in the fight.
+    - **The Consequence:** Erika has a dialogue with Rien, and she reluctantly agrees to partner with him.
+    - **Subplots:** 
+  - **Internal**
+    - **Why it matters:** Erika is confronted with the fact that she messed up, and her usual methods don't work.
+    - **The realization:**  By agreeing to partner up with Rien, Erika is giving two big steps: She is acknowledging that her methods (and, more importantly, her rank) will very likely not work, and she needs to try new things, and she is placing (some of) her trust in an underhiver. 
   - **Setup for next scene:** 
 
 #### 1st Pinch Point
+
+- **Scene:**
+  - **External**
+    - **What Happens:** We cut to the barman, who recieves a visit from the sub-badguy.
+    - **The Consequence:**
+    - **Subplots:**
+  - **Internal**
+    - **Why it matters:**
+    - **The realization:**
+  - **Setup for next scene:**
 
 ### Act 2.1: Reacting
 
