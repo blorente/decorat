@@ -13,6 +13,7 @@ Ideas:
 - Maybe a colleage from the scholam, who she was always competing with. He had to turn to chaos to gain even a measure of the power that she wielded?
 - Maybe it's a local leader of a cult, that in actuality just wants to free people's minds.
 
+### Molotch
 What did I like about Molotch?
 - He is extremely competent, and plays the long con.
 - He is confident, even in tough situations.
