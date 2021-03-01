@@ -36,7 +36,12 @@ _It's about time_. Erika thought. The crowd started dispersing with a distinct s
 
 By the time the fliers had made it to ground, Erika, Tristan and the sprawled man were the only souls left on the street. The polished steel doors opened with a hiss of steam, and two figures stepped out of the vehicles.
 
-"What's going on here?" said the first Arbites. Her voice denoted her as a woman, though it was hard to distinguish through her uniform's breastplate and black visor. She wasn't  She was followed by another, taller figyre 
+"What's going on here?" said the first Arbites. Her voice denoted her as a woman, though it was hard to distinguish through her uniform's breastplate and black visor. She had drawn her baton, and was followed by another, taller figure, holding a riot gun.
+
+"Just doing your job, agent." Erika replied, hands still up. "I am Erika of House Belcroft. This man was spewing heresy and instilling disorder." _and worse than that, he was in my way_. TODO maybe this is too much.
+Erika lowered her head, directing the agent's eyes towards the house insignia etched on the breastpocket of her military coat. "May I show you my identification?"
+
+
 
 
 
