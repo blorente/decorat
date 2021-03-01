@@ -45,9 +45,13 @@ The agent nodded, and Erika handed the guard her ID card.
 
 "Major Belcroft, Decoratian 25th infantry." Read the officer. She handed the documents to her partner. "Check the records, Igor". She turned back to Erika, "We're going to need you to come with us, for questioning."
 
-"I don't think so, officer." Said Erika, lowering her hands. "I'm expected at House Belcroft this evening."
+"I don't think so, officer." Said Erika, lowering her hands. Tristan dropped from his perch with a _clang_ and fixed his eyes on the agent's visor. "I'm expected at House Belcroft this evening." Said Erika, kneeling to pet her cat.
 
+"I'm afraid I must insist, Lady Belcroft. This case falls under an active investigation, and we need your testimony."
 
+_Now that's interesting. So this is not an isolated incident_. "Have there been many cases like this one?"
+
+"That's none of your concern, Lady Belcroft."
 
 
 
