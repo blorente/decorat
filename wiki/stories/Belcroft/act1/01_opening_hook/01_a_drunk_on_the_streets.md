@@ -16,7 +16,9 @@ With the cat safely perched on her back, Erika waded through the crowd to the ed
 
 "Sir, in the name of House Belcroft, I'm going to need you to calm down and shut up." Said Erika, as she popped out of the wall of pedestrians less graciously than she'd hoped.
 
+"Czokron! Scerzhond! Zhamnuz! They're coming! I've seen it! You will all fall, only their true servants will thrive! You'll see them and despair!" A drip of spit made its way into Erika's cheek, propelled by the hysteric proclamations of the flailing man.
 
+Erika wiped the spit from her cheek _alright, that does it_. She lurched forward, 
 
 
 
