@@ -30,9 +30,13 @@ Erika took out the handkerchief from her stormcoat, wiped the man's snot from he
 
 "FREEZE!"
 
-Erika -- and the rest of the crowd -- looked up. Bright spotlights pierced the clouds, lighting Erika and the fallen man. They were shortly followed by two Arbites fliers making their way down to the scene. 
+Erika -- and the rest of the crowd -- looked up. Bright spotlights pierced the night, lighting Erika and the fallen man. They were shortly followed by two Arbites fliers making their way down to the scene. 
 
 _It's about time_. Erika thought. The crowd started dispersing with a distinct sense of urgency. The Arbites do that to the people. She sighed, and raised her hands. She didn't like to be kept waiting.
+
+By the time the fliers had made it to ground, Erika, Tristan and the sprawled man were the only souls left on the street. The polished steel doors opened with a hiss of steam, and two figures stepped out of the vehicles.
+
+"What's going on here?" said the first Arbites. Her voice denoted her as a woman, though it was hard to distinguish through her uniform's breastplate and black visor. She wasn't  She was followed by another, taller figyre 
 
 
 
