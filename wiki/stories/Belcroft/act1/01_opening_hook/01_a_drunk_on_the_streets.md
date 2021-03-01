@@ -41,7 +41,7 @@ By the time the fliers had made it to ground, Erika, Tristan and the sprawled ma
 "Just doing your job, agent." Erika replied, hands still up. "I am Erika of House Belcroft. This man was spewing heresy and instilling disorder." _and worse than that, he was in my way_. TODO maybe this is too much.
 Erika lowered her head, directing the agent's eyes towards the house insignia etched on the breastpocket of her military coat. "May I show you my identification?"
 
-
+The agent nodded
 
 
 
