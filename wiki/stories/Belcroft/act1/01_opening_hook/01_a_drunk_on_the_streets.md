@@ -14,11 +14,24 @@ _No Arbites in sight_. She sighed. She would have to do something about this her
 
 With the cat safely perched on her back, Erika waded through the crowd to the edge of the clearing.
 
-"Sir, in the name of House Belcroft, I'm going to need you to calm down and shut up." Said Erika, as she popped out of the wall of pedestrians less graciously than she'd hoped.
+"Sir, in the name of House Belcroft, I'm going to need you to calm down and shut up." Said Erika, as she popped out of the wall of pedestrians somewhat less graciously than she'd hoped.
 
-"Czokron! Scerzhond! Zhamnuz! They're coming! I've seen it! You will all fall, only their true servants will thrive! You'll see them and despair!" A drip of spit made its way into Erika's cheek, propelled by the hysteric proclamations of the flailing man.
+"Foolish girl! They're coming!" said the man. Erika felt the crowd retract behind her as the man stomped towards her. _heh. It's been a while since somebody called me "girl"_.
 
-Erika wiped the spit from her cheek _alright, that does it_. She lurched forward, 
+As the man got within an inch of her face, Erika noticed the man's eyes. He was so close Erika could smell the cheap amasec in his breath, but he wasn't looking at her. He was looking _past_ her, as if staring into the horizon. Despite that, Erika lowered her left hand to grip the hilt of her power estoc. 
+
+"Sir, I'm asking you nicely. Please calm down, and step away". Erika didn't have too much hope now, but she had to make it look like she was trying.
+
+"Czokron! Scerzhond! Zhamnuz! They're coming! I've seen it! You will all fall, only their true servants will thrive! You'll see them and despair!" At "despair", a drip of wet gooey spit propelled out of the man's mouth, making its way onto Erika's cheek.
+
+_Alright, that does it_. She rose the pummel of her sword, catching the man's diaphragm. The man gasped for air, and doubled over himself in pain. Before the crowd had time to react, a quick sidestep and a trained punch to the back of the head finished the job. The man unconscious before he touched the ground.
+
+Erika took out the handkerchief from her stormcoat, and wiped the man's snot from her cheek.
+
+"FREEZE!"
+
+Erika -- and the rest of the crowd -- looked up. Bright spotlights pierced the clouds, lighting Erika and the fallen man. They were shortly followed by two Arbites fliers, which stopped right above dispersing crowd. 
+
 
 
 
