@@ -26,11 +26,14 @@ As the man got within an inch of her face, Erika noticed the man's eyes. He was 
 
 _Alright, that does it_. She rose the pummel of her sword, catching the man's diaphragm. The man gasped for air, and doubled over himself in pain. Before the crowd had time to react, a quick sidestep and a trained punch to the back of the head finished the job. The man unconscious before he touched the ground.
 
-Erika took out the handkerchief from her stormcoat, and wiped the man's snot from her cheek.
+Erika took out the handkerchief from her stormcoat, wiped the man's snot from her cheek, and pet Tristan. "We'll be home soon, dear".
 
 "FREEZE!"
 
-Erika -- and the rest of the crowd -- looked up. Bright spotlights pierced the clouds, lighting Erika and the fallen man. They were shortly followed by two Arbites fliers, which stopped right above dispersing crowd. 
+Erika -- and the rest of the crowd -- looked up. Bright spotlights pierced the clouds, lighting Erika and the fallen man. They were shortly followed by two Arbites fliers making their way down to the scene. 
+
+_It's about time_. Erika thought. The crowd started dispersing with a distinct sense of urgency. The Arbites do that to the people. She sighed, and raised her hands. She didn't like to be kept waiting.
+
 
 
 
