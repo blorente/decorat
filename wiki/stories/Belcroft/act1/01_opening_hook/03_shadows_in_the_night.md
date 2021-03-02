@@ -38,4 +38,5 @@ Lucitav lowered his voice, and then his eyes. Rien felt a pang of guilt in the c
 
 Lucitav chuckled drily, and the door to his hab slid closed.
 
+Rien took a deep breath, preparing himself for what came next. He climbed two more floors and walked left until he got to Hab Block 1337, Level 158. Home.
 
