@@ -8,5 +8,4 @@ At this mention, the shadow that was sticking out of one of the street corner di
 
 "I wonder what Papa will say when he sees you" Said Erika to Tristan. The cat didn't respond. "TODO butler name said he's sick, but he didn't say how. The man seemed beside himself in the communique, but he insisted on not telling me." 
 
-She had spent most of her journey thinking about it, but she hand't been able to come up with a good guess regarding her father's illness. _Papa was also a decorated veteran, TODO butler name knows what kind of strings I've had to pull to be allowed to return here. What could be so bad to make me abandon the frontline?_
-
+She had spent most of her journey thinking about it, but she hand't been able to come up with a good guess regarding her father's illness. _Papa was also a decorated veteran, TODO butler name knows what kind of strings I've had to pull to be allowed to return here. What could be so bad to make me abandon the frontline?_ Her storm coat couldn't guard her from the chill that ran down her spine at that thought. Almost inadvertently, she quickened her pace towards her home.
