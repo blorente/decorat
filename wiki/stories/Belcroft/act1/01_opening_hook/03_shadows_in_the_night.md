@@ -12,7 +12,7 @@ With a slight limp to avoid overbearing his toe, Rien headed towards one of the 
 
 _Huh. I wonder how long that's been there. They should get that fixed._ Then he stopped, and chuckled. He had spent too much time uphive, we was turning posh. He shook his head, continuing towards the lights of the Grid.
 
-When he finally made it 
+As he approached the giant wall of hab-blocks, he started looking for the usual faces in the usual spots. The Grids were usually quiet at night, but one could still see the facade peppered with small groups of people sharing a smoke and the news of the day. In fact, one could see almost everything that was happening outside of the cramped hab-blocks; 
 
 
 
