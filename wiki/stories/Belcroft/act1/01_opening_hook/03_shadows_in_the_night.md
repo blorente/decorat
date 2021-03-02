@@ -34,6 +34,8 @@ Lucitav lowered his voice, and then his eyes. Rien felt a pang of guilt in the c
 
 "You better be, kid. You better be." Said Lucitav, his eyes still fixed on the millions of lights before them. "I'm tired, I'm going to bed. You have a good night, and tell your sister I say hi." He said. He got up, using his crutches to make up for his missing right leg. The door to his hab slid open with a hiss and a clang, and the broken man limped inside.
 
+"Good night, old man" Rien said, trying to lighten the mood.
 
+Lucitav chuckled drily, and the door to his hab slid closed.
 
 
