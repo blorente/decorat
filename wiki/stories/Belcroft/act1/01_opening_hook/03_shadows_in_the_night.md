@@ -12,7 +12,24 @@ With a slight limp to avoid overbearing his toe, Rien headed towards one of the 
 
 _Huh. I wonder how long that's been there. They should get that fixed._ Then he stopped, and chuckled. He had spent too much time uphive, we was turning posh. He shook his head, continuing towards the lights of the Grid.
 
-As he approached the giant wall of hab-blocks, he started looking for the usual faces in the usual spots. The Grids were usually quiet at night, but one could still see the facade peppered with small groups of people sharing a smoke and the news of the day. In fact, one could see almost everything that was happening outside of the cramped hab-blocks; 
+As he approached the giant wall of hab-blocks, he started looking for the usual faces in the usual spots. The Grids were usually quiet at night, but one could still see the facade peppered with small lights coming from the small windows on the hab doors. In fact, from where Rien was, one could see almost everything that was happening outside of the cramped hab-blocks: The small groups of people quietly sharing a smoke and the news of the day. The people marching to the communal bathrooms looking for late night relief. The teenagers, sneaking out to meet with their friends or lovers. The people here didn't have much, Rien felt more at home than he had all day, pursuing the madman through the upper hive. Even the smog felt somehow easier to breathe.
 
+Rien was pondering this as he made his way up the stairs to his hab in Level 158, when a familiar voice called his name.
+
+"Hey, kid! What'cha up to this late at night?"
+
+Rien looked to his right. Lucitav was making signs from his chair. Rien approached the man, smiling. 
+
+"Not much, Lucy. Just wanted to see the sky is all" Lucitav wouldn't buy today's excuse either, and Rien knew that already. He'd even made a game out of it, every night trying to come up with a wilder excuse than the last. Lucy wasn't smiling.
+
+"You know I don't like you messing with the upper crusters. Nothing good can come out of it. You should focus on doing good at Constanza's, and leave the big problems for the big wigs." That speech, on the other hand, didn't change at all from night to night.
+
+"I know, Lucy. Don't worry old man, I can cover my ass." _and it's not like I have a choice, anyway_.
+
+"Don't call me old man, you ninker!" He wasn't really that old, barely hitting 40. But 40 years were a long time in the Grids, and more for someone with Lucitav's life. Plus, Rien loved to tease him about it. "You better be right about covering your ass, otherwise you'll end up like... like..."
+
+Lucitav lowered his voice, and then his eyes. Rien felt a pang of pain in the chest _like Moira_, he thought. They both looked outside, to the cascade of lights that was Decorat's nightlife, letting the seconds pass. Remembering.
+
+"I'm sorry, Lucy. I'll be careful, I promise."
 
 
