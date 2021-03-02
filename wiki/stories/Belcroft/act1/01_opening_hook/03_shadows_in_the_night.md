@@ -28,8 +28,12 @@ Rien looked to his right. Lucitav was making signs from his chair. Rien approach
 
 "Don't call me old man, you ninker!" He wasn't really that old, barely hitting 40. But 40 years were a long time in the Grids, and more for someone with Lucitav's life. Plus, Rien loved to tease him about it. "You better be right about covering your ass, otherwise you'll end up like... like..."
 
-Lucitav lowered his voice, and then his eyes. Rien felt a pang of pain in the chest _like Moira_, he thought. They both looked outside, to the cascade of lights that was Decorat's nightlife, letting the seconds pass. Remembering.
+Lucitav lowered his voice, and then his eyes. Rien felt a pang of guilt in the chest for picking on the man. _Like Moira_, he thought. A silence fell on the balcony and they both looked outside, to the cascade of lights that was Decorat's nightlife, letting the seconds pass. Remembering.
 
 "I'm sorry, Lucy. I'll be careful, I promise."
+
+"You better be, kid. You better be." Said Lucitav, his eyes still fixed on the millions of lights before them. "I'm tired, I'm going to bed. You have a good night, and tell your sister I say hi." He said. He got up, using his crutches to make up for his missing right leg. The door to his hab slid open with a hiss and a clang, and the broken man limped inside.
+
+
 
 
