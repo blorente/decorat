@@ -36,24 +36,28 @@ _It's about time_. Erika thought. The crowd started dispersing with a distinct s
 
 By the time the fliers had made it to ground, Erika, Tristan and the sprawled man were the only souls left on the street. The polished steel doors opened with a hiss of steam, and two figures stepped out of the vehicles.
 
-"What's going on here?" said the first Arbites. Her voice denoted her as a woman, though it was hard to distinguish through her uniform's breastplate and black visor. She had drawn her baton, and was followed by another, taller figure, holding a riot gun.
+"What's going on here?" said the first Arbites. Her voice denoted her as a woman, though it was hard to distinguish through her uniform's breastplate and black visor. She was pointing her stub gun towards Erika, and was followed by another, taller figure, holding a riot gun.
 
 "Just doing your job, agent." Erika replied, hands still up. "I am Erika of House Belcroft. This man was spewing heresy and instilling disorder." _and worse than that, he was in my way_. TODO maybe this is too much.
 Erika lowered her head, directing the agent's eyes towards the house insignia etched on the breastpocket of her shirt. "May I show you my identification?"
 
 The agent nodded, and Erika handed the guard her ID card.
 
-"Major Belcroft, Decoratian 25th infantry." Read the officer. She handed the documents to her partner. "Check the records, Igor". She turned back to Erika, "We're going to need you to come with us, for questioning."
+"Major Erika Belcroft, Decoratian 25th infantry." Read the officer. She handed the documents to her partner. "Check the records, Igor". And the bulky figure stepped back towards the fliers. She turned back to Erika, still pointing her gun towards her -- "Now, don't move. Neither of us wants this to go bad"
 
-"I don't think so, officer." Said Erika, lowering her hands. Tristan dropped from his perch with a _clang_ and fixed his eyes on the agent's visor. "I'm expected at House Belcroft this evening." Said Erika, kneeling to pet her cat.
+"Of course, officer." Said Erika. Tristan dropped from his perch with a _clang_ and fixed his eyes on the agent's visor. "Don't worry, he's harmless."
 
-"I'm afraid I must insist, Lady Belcroft. This case falls under an active investigation, and we need your testimony."
+"ID checks out!" shouted the tall man. The female Arbites let out a sigh of relief, and her body became visibly relaxed. She holstered her gun and slid her visor up, revealing a tired young face. There was a fierce determination behind the exhaustion in her eyes.
 
-_Now that's interesting. So this is not an isolated incident_. "Have there been many cases like this one?"
+"We're going to need you to come with us, for questioning." 
 
-"That's none of your concern, Lady Belcroft."
+"I'm afraid I can't do that." Said Erika, lowering her hands and kneeling to pet Tristan. "What's your name, officer?"
 
+"Derida Minsk," Said the officer, " and I'm afraid I must insist, Mamzel Belcroft. This incident falls under an active investigation for the Ministorum, and we need everything we can get."
 
+_Now, that's interesting. Is this not an isolated incident?_
 
+"Enforcer Minsk, I commend your diligence. However, I'm expected at House Belcroft this evening, and I'm never late. You know my name, and therefore you know you can't forcibly arrest me. Furthermore, this is an active investigation, so you know that I didn't do anything wrong, and I was acting in self-defense. You're going to have to let this one go." The Minsk tried to remain impassible, but Erika caught her gritting her teeth in frustration.
 
+"However, I do not want to stand in the way of our dear Enforcers." Continued Erika "So, now that I have your name, I give you my word that I will visit you soon, to provide testimony." 
 
