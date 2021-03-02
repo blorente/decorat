@@ -55,7 +55,7 @@ The agent nodded, and Erika handed the guard her ID card.
 
 "Derida Minsk," Said the officer, " and I'm afraid I must insist, Mamzel Belcroft. This incident falls under an active investigation for the Ministorum, and we need everything we can get."
 
-Now, that's interesting. Is this not an isolated incident?
+_Now, that's interesting. Is this not an isolated incident?_
 
 "Enforcer Minsk, I commend your diligence. However, I'm expected at House Belcroft this evening, and I'm never late. You know my name, and therefore you know you can't forcibly arrest me. Furthermore, this is an active investigation, so you can imagine what happened, and you know that I didn't do anything wrong, and I was acting in self-defense. You're going to have to let this one go." Minsk remained impassible, but Erika's augmetic left eye caught her teeth, gritting in frustration.
 
