@@ -1,8 +1,7 @@
-Belcroft
-========
+Belcroft: Outline
+=================
 
-A novel of introversion, set in Decorat.
-
+A mistery thriller, set in Decorat.
 
 Titles are part of the template. List items are scenes.
 A scene follows the following template: [Template](https://gallery.mailchimp.com/a761264f84ac176a17ff801a3/files/caf347e8-8a11-4b30-b2fc-145b94851e84/The_Ultimate_Scene_Card_TEMPLATE.02.pdf)
@@ -141,10 +140,38 @@ Story template from: [That one youtuber's channel](https://gallery.mailchimp.com
 
 What is her plan? She must have connections in the scholam, and she needs to go there because it's so cool. But not yet, because it's not powerful enough.
 
-She and Rien go back to her house, and she goes to heal her wounds, and try to contact her friends at the Scholam. She leaves Rien locked up in the parlor. Rien escapes (he's a Ram after all) because he's bored, and has a chat with the butler. He gains the affections of the butler, maybe with a sob story about his sister, and then tells him about the setup at Costanza's. The butler tells Rien that Mr. Belcroft used to visit that place as well, regrettably, ever since the mother died. They both rush up to talk with Erika, who is doing something interesting. Erika is a irate at Rien for escaping, but also a little impressed that he managed to pick the lock. The butler manages to calm her down.
+
+- **Scene:** Back at house belcroft, with Rien
+  - **External**
+    - **What Happens:** She and Rien go back to her house, and she goes to heal her wounds, and try to contact her friends at the Scholam. She leaves Rien locked up in the parlor. Rien escapes (he's a Ram after all) because he's bored, and has a chat with the butler. He gains the affections of the butler, maybe with a sob story about his sister, and then tells him about the setup at Costanza's. The butler tells Rien that Mr. Belcroft used to visit that place as well, regrettably, ever since the mother died. They both rush up to talk with Erika, who is trying to get an appointment with the headmaster of the scholam. Erika is a irate at Rien for escaping, but also a little impressed that he managed to pick the lock. The butler manages to calm her down.
+    - **The Consequence:** 
+    - **Subplots:** Rien gets a taste of the uphive, and sees how different their live is from his.
+  - **Internal**
+    - **Why it matters:** Because Erika gets a chance to see Rien's competence, and is angry but impressed. 
+    - **The realization:** Rien is capable of some good things, and more trustworthy than it seems.
+  - **Setup for next scene:** They decide to slip into Constanza's (or the bosse's) at night, but visit the Scholam in the morning.
+
+- **Scene** Rien wanders the Scholam
+  - **External**
+    - **What Happens:** Rien is sneaking about the Scholam. He notices the preparations for the Rites of Entry -- The scholam will organize a parade of their best --. Maybe he catches a glimpse of a Cognitor, maybe two people start fighting and they get taken away, who knows where. Maybe we can leave a clue here for later, somebody gets hit in the leg and one of the soldiers has a limp, or something. An Interrogator catches him looking at the cognitors. Rien has only seen PleaseCogs at Memory Bars, so he's taken aback by how intense the trainings are. The interrogator notices his poor clothes or his way of speaking, and after introductions decides that Rien is not dangerous. A conversation ensues. The interrogator explains about Militia and Ordos level cognitors, and Rien realizes that this is related to Chaos, those are the names of daemons, and the interrogator is so cool.
+    - **The Consequence:** Rien learns that this is a chaos attack, the audience gets many many clues. We also start setting up the Rites.
+    - **Subplots:** Rien starts admiring the Ordos.
+  - **Internal**
+    - **Why it matters:** Rien gets to experience the scholam, and his respect for Erika grows. He also gets to meet an inquisitor, who is so cool.
+    - **The realization:**
+  - **Setup for next scene:** Camera cuts to inside the headmaster's office.
+  
+- **Scene:** Old mentors
+  - **External**
+    - **What Happens:** Erika she decides that she'll visit her old headmaster, because she has to wait until night to go into Constanza's through the backdoor. Maybe she says she's there to ask for a job, but in reality she confides with him about her situation. The headmaster says he'll try to help, and mentions some cultists that have been stirring up trouble in the underhive. 
+    - **The Consequence:** Erika is thrown a red herring, and is now pursuing a chaos cult in the underhive.
+    - **Subplots:**
+  - **Internal**
+    - **Why it matters:** Erika finds an "ally", and a new set of clues.
+    - **The realization:**
+  - **Setup for next scene:**
 
 Ideas:
-- Maybe Erika she decides that she'll visit her old headmaster, because she has to wait until night to go into Constanza's through the backdoor. Maybe she says she's there to ask for a job, but in reality she confides with him about her situation.
 - Maybe after she goes to the grand archive, and inquires about the name of the Daemon the crazy guy was uttering. There is an Interrogator inspecting all the MILITARY and ORDOS queries, as a precaution for all the commotion, and in preparation for the entry rites. They have a brief converstation where the interrogator implies that Erika should be careful, lest this miserious malady will affect her as well. Maybe Erika feels threatened by this.
 - Maybe then they go into Constanza's, and they discover something, and the boy does something foolhardy (maybe look for her sister's records), and he gets them caught by the owner of the shop.
 - Maybe there is an interrogation scene, where she can outmaneuvre them intellectually to get information, while Rien works on the locks.
