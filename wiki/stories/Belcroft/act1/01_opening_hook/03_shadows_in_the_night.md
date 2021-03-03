@@ -43,7 +43,7 @@ Lucitav chuckled drily, and the door to his hab slid closed.
 
 Rien climbed two more floors and walked left until he got to Hab Block 1337, Level 158. _Home_. He took a deep breath, preparing himself for what came next.
 
-Fortunately, she was still sleeping when the hab door slid open. Rien entered the hab, quietly taking his boots off. He moved sideways, in the space between their bed and the left wall. He was so focused on stealth that his left foot bumped on the chair, dropping some of her medicine bottles to the floor with a loud thud. 
+Fortunately, she was still sleeping when the hab door slid open. Rien entered the hab, quietly taking his boots off. He moved sideways, feeling the cold rockrete in the space between their bed and the left wall. He was so focused on stealth that his left foot bumped on the chair, dropping some of her medicine bottles to the floor with a loud thud. 
 
 "Frek!" He exclaimed, pain flaring from his toes up his calf. That was the foot he'd stubbed earlier. Cel groaned, stirred and turned, taking the bedsheets with her. Heart pounding, Rien stood perfectly still, counting to ten.
 
