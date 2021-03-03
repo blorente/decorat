@@ -55,7 +55,7 @@ The agent nodded, and Erika handed the guard her ID card.
 
 "I'm afraid I can't do that." Said Erika, lowering her hands and kneeling to pet Tristan. "What's your name, officer?"
 
-"Derida Minsk," Said the officer, " and I'm afraid I must insist, Mamzel Belcroft. This incident falls under an active investigation for the Ministorum, and we need everything we can get."
+"Derida Minsk," Said the officer, " and I'm afraid I must insist, Major Belcroft. This incident falls under an active investigation for the Ministorum, and we need everything we can get."
 
 _Now, that's interesting. Is this not an isolated incident?_
 
