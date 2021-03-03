@@ -13,5 +13,28 @@ At this mention, the shadow that was sticking out of one of the street corner so
 
 She had spent most of her journey thinking about it, but she hand't been able to come up with a good guess. _Olin knows what kind of strings I'd have to pull to be allowed to return here. What could be so bad to make me abandon the frontline?_ Her storm coat couldn't guard her from the chill that ran down her spine at that thought. Almost inadvertently, she quickened her pace towards the spires.
 
-She arrived at the spires 
+At the end of Viam Victoria, right before arriving at the Grand Archive, Erika turned left towards the Spiregate. 
+
+She'd always liked how the gates towered well over anyone who approached. She usually liked how the lights of fliers passing to and from reflected off the polished adamantium, creating interesting patterns. Right now, she loved how there was nobody but a guard around her. Most people weren't allowed through those doors, and nobles rarely crossed them by foot, particularly during a winter night such as this one.
+
+She stood still for a moment, enjoying a rare moment of silence and solitude, and approached the door.
+
+TODO conflict with the guard?
+
+Half an hour later, she was standing at the doors of House Belcroft. Though small when compared to the biggest houses in Decorat, her family's seat could comfortably house fifty people. Erika remembered the balls she'd attended as a child. Now, an air of abandon painted the facade of the mansion. Most windows were shut and caked with dust, and the ornate marble stairway leading to the door was covered in fallen leaves from the garden's trees. A single light came out of the building, _Papa's study_ Erika remembered.
+
+Erika felt Tristan tense as they approached the main entrance. By the time she knocked at the wooden gate, he was growling.
+
+"Shhh, dear. Everything's fine." She knew better than to try to pet the cat now, but her words seemed to calm him somewhat.
+
+"We're not expecting visitors. Please leave the premises immediately." Said a familiar -- but rather agitated -- voice from the other side of the door.
+
+"It's me, Olin. Erika" she answered. Then, turning to Tristan "see? It's just Olin!"
+
+"Mamzel? Could that really be you? Pardon my impropriety, please come in, come in!" A loud clink, a pneumatic hiss and a metallic thud followed those words, unbolting the door. The reinforced blast door started moving into the house, revealing the old butler's shriveled figure. "I beg your pardon, but one needs be careful these times."
+
+"Careful with what, Olin?" asked Erika. What could be so bad that it could threaten them here, in the Spires?
+
+
+
 
