@@ -65,7 +65,7 @@ Erika stopped petting Tristan and stood up, addressing the Enforcer directly. "H
 
 This was the best Minsk was going to get, and they both knew it. Erika could make a lot more trouble for Minsk that this case ever could. The Enforcer sighed, defeated.
 
-"Now, if you'll excuse me, I need to be on my way." Said Erika, turning towards the now empty street. "Tristan, up!" She took a deep breath, feeling the night's chill fill her lungs. She could make out the outline of the Grand Archive in the distance, at the other end of Viam Victoria. Belcroft House was not far from there.
+"Now, if you'll excuse me, I need to be on my way." Said Erika, turning towards the now empty street. "Tristan, up!" She took a deep breath, feeling the night's chill fill her lungs. She could make out the outline of the Grand Archive in the distance, at the other end of Viam Victoria. Behind it, the Spires pierced the night sky. _Home_, thuoght Erika.
 
 "See you soon!" She said to the Minsk, who had already started loading the man's inert body in her flier.
 
