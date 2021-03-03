@@ -172,7 +172,7 @@ What is her plan? She must have connections in the scholam, and she needs to go 
   - **Setup for next scene:**
 
 Ideas:
-- Maybe after she goes to the grand archive, and inquires about the name of the Daemon the crazy guy was uttering. There is an Interrogator inspecting all the MILITARY and ORDOS queries, as a precaution for all the commotion, and in preparation for the entry rites. They have a brief converstation where the interrogator implies that Erika should be careful, lest this miserious malady will affect her as well. Maybe Erika feels threatened by this.
+- Maybe after she goes to the grand archive, and inquires about the name of the Daemon the crazy guy was uttering. There is an Interrogator inspecting all the MILITARY and ORDOS queries, as a precaution for all the commotion, and in preparation for the entry rites. They have a brief converstation where the interrogator implies that Erika should be careful, lest this miserious malady will affect her as well. Maybe Erika feels threatened by this. Maybe this part doesn't take us anywhere.
 - Maybe then they go into Constanza's, and they discover something, and the boy does something foolhardy (maybe look for her sister's records), and he gets them caught by the owner of the shop.
 - Maybe there is an interrogation scene, where she can outmaneuvre them intellectually to get information, while Rien works on the locks.
 - Maybe there is a firefight, and they escape by the skin of their teeth, and then Erika takes Rien to one of the midhive bars, after cleaning up a bit.
@@ -180,16 +180,16 @@ Ideas:
 
 ### Midpoint Twist
 
-- Maybe Erika and Rien go back to Belcroft house, just to find it trashed. Some bad guys have come, killed the butler and the servitors, and taken (or even killed) her father. Erika is forced to go lay low with Rien, and regroup.
+- Maybe Erika and Rien go back to Belcroft house, just to find it trashed. Some bad guys have come, killed the butler and the servitors, and taken (or even killed) her father. Maybe a firefight, maybe an anbush, maybe Olin is not quite dead yet. Erika is forced to go lay low with Rien, and regroup.
 - Crisis scene. This is no longer about honor, or secrecy. This is personal.
-- Pinch Point: The audience gets the reveal that the headmaster is the bad guy, and he wanted to kill Erika, and he didn't find her. 
+- Pinch Point: The audience gets to hear about the headmaster's plan, but not see him or know who it is. All very dark, like in the movies. It's probably a henchman calling him, and him being pissed that they didn't get Erika. 
 
 ### Act 2.2: Proacting
 
 - She must infiltrate the Arm, whith the help of Rien, to recover the crazy man.
 - There must be a couple of scenes where Erika feels really bad about infiltrating the arm, and she does it regardless. Maybe this is a good opportunity to revisit some of the other crewmembers.
 - They recover the man, and amongst her ravings Rien (of maybe his sister?) remembers that this is very similar to that guy Jorrick. They got the assignment at Constanza's...
-- She goes back to the kingpin of Constanza's, and collaborates with him. He lends his psykers, who recover from the bartender the memory of the guy that made the order in the first place.
+- She goes back to the kingpin of Constanza's, and collaborates with him. He lends his psykers, who recover from the bartender the memory of the guy that made the order in the first place. Surprise surprise, it's the headmaster!
 
 
 ### Act 3: The Resolution
