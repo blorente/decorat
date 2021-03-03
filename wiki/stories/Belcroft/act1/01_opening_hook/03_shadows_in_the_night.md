@@ -40,3 +40,10 @@ Lucitav chuckled drily, and the door to his hab slid closed.
 
 Rien climbed two more floors and walked left until he got to Hab Block 1337, Level 158. _Home_. He took a deep breath, preparing himself for what came next.
 
+Fortunately, she was still sleeping. Rien entered the hab, quietly taking his shoes off. He moved sideways, in the space between their bed and the left wall. He was so focused on stealth that his left foot bumped on the chair, dropping some of her medicine bottles to the floor, with a loud thud. 
+
+"Frek!" He exclaimed, pain flaring from his toes up his thigh. That was the foot he'd stubbed earlier. Cel groaned, stirred and turned, taking the bedsheets with her. Heart pounding, Rien stood perfectly still, counting to ten.
+
+Trying not to make a sound that would disturb his sister's peace, Rien bent over to pick up the fallen vial. _Thank the Emperor, it's still intact._ Rien thought. The last thing he needed was to have to go buy another dose. One last look at Cel told him that it was probably safe to move again, and he started moving his way towards the sink, this time looking at where he was going.
+
+When he got to the 
