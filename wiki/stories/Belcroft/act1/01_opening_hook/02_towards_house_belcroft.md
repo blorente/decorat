@@ -33,7 +33,9 @@ Erika felt Tristan tense as they approached the main entrance. By the time she k
 
 "Mamzel? Could that really be you? Pardon my impropriety, please come in, come in!" A loud clink, a pneumatic hiss and a metallic thud followed those words, unbolting the door. The reinforced blast door started moving into the house, revealing the old butler's shriveled figure. "I beg your pardon, but one needs be careful these times."
 
-"Careful with what, Olin?" asked Erika. What could be so bad that it could threaten them here, in the Spires?
+"Careful with what, Olin?" asked Erika. What could be so bad that it could threaten them here, in the Spires? What could be so bad that Olin couldn't deal with it?
+
+
 
 
 
