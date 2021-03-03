@@ -1,3 +1,6 @@
+Shadows in the night
+--------------------
+
 Rien started to get annoyed on his way to the station. By the time he got on the empty midnight tram to the Grids, he was angry. As he stepped out of the train into the deserted station, he was fuming.
 
 _Two weeks! Two weeks I'd been following that ninker, and she comes off that big ship all fancy, and gets him arrested in two seconds! Didn't even get to ask his frakking name! Then I follow her, and that dimwit cat of hers tells her._
