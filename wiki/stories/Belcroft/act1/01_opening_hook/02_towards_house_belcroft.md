@@ -73,11 +73,13 @@ Erika's mind started firing, remembering the incident earlier that day. A chilin
 
 "Very well. Better to let him recover. I will talk with him in the morning, and we can see how to handle this."
 
-"As you please, Mamzel. I will leave you to accomodate now"
+"As you please, Mamzel. I will leave you to accomodate now." Olin turned towards the double-leaf doors " For what it's worth, I am very glad you're back, Mamzel. Even in these unfortunate circumstances."
 
-"Thank you, Olin."
+"Thank you, Olin. I'm glad to be back."
 
-At that moment, a servitor mounted on a grav-plate hovered into the room, holding a silver tray with a bottle of amasec and an empty glass. It set the items on the small table in front of Erika. She poured herself a glass, and sunk into the cushions of the tall back, thinking.
+As the butler made his exit, a servitor mounted on a grav-plate hovered into the room, holding a silver tray with a bottle of amasec and an empty glass. It set the items on the small table in front of Erika. She poured herself a glass, and sunk into the cushions of the tall back. Tristan curled onto her lap, purring. Erika started petting her companion's head, thinking.
+
+"We have a lot of work to do" she said, to nobody in particular.
 
 
 
