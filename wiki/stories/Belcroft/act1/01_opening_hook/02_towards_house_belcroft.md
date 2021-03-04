@@ -21,7 +21,7 @@ She stood still for a moment, enjoying a rare moment of silence and solitude, an
 
 TODO conflict with the guard?
 
-Half an hour later, she was standing at the doors of House Belcroft. Though small when compared to the biggest houses in Decorat, her family's seat could comfortably house fifty people. Erika remembered the balls she'd attended as a child. Now, an air of abandon painted the facade of the mansion. Most windows were shut and caked with dust, and the ornate marble stairway leading to the door was covered in fallen leaves from the garden's trees. A single light came out of the building, _Papa's study_ Erika remembered.
+Half an hour later, she was standing at the doors of House Belcroft. Though small when compared to the biggest houses in Decorat, her family's seat could comfortably house a hundred guests. Erika remembered the balls she'd attended as a child. Now, an air of abandon painted the facade of the mansion. Most windows were shut and caked with dust, and the ornate marble stairway leading to the door was covered in fallen leaves from the garden's trees. A single light came out of the building, _Papa's study_ Erika remembered.
 
 Erika felt Tristan tense on her shoulder as they approached the main entrance. By the time she knocked at the wooden gate, he was growling.
 
@@ -29,15 +29,63 @@ Erika felt Tristan tense on her shoulder as they approached the main entrance. B
 
 "We're not expecting visitors. Please leave the premises immediately." Said a familiar -- but rather agitated -- voice from the other side of the door.
 
-"It's me, Olin. Erika" she answered. Then, turning to Tristan "see? It's just Olin!"
+"It's me, Olin. Erika" she answered. Then, turning to Tristan "see? It's just Olin!" something in her tone made the cat relax a little bit.
 
-"Mamzel? Could that really be you? Pardon my impropriety, please come in, come in!" A loud clink, a pneumatic hiss and a metallic thud followed those words, unbolting the door. The reinforced blast door started moving into the house, revealing the old butler's shriveled figure. "I beg your pardon, but one needs be careful these times."
+"Mamzel? Could that really be you? Pardon my impropriety, please come in, come in!" A loud clink, a pneumatic hiss and a metallic thud followed those words, unbolting the door. The reinforced blast door started moving into the house, revealing the old butler's hunched figure. "I beg your pardon, but one needs be careful these times."
 
 "Careful with what, Olin?" asked Erika. What could be so bad that it could threaten them here, in the Spires? Even worse -- what could be so bad that _Olin_ couldn't deal with it?
 
-"Best not to discuss it here, Mamzel Erika. Come in, I'll have the servitors prepare refreshments".
+"Best not to discuss it here, Mamzel Erika. Come in, I'll have the servitors prepare refreshments." He signalled inside. As Erika stepped into the threshold, Olin said "will that... thing be joining us, Mamzel?"  Tristan's ears perked up at the mention. He chirped, and stared at the butler intently.
 
-"Do you hear that, Tristan? Olin is going to make us snacks, at last." 
+"Yes, Olin. Tristan will be joining us. He's been with me in TODO station, he's not staying outside now."
+ 
+"As you please, Mamzel. I only pray to the Throne he doesn't break anything." Tristan looked as innocent as he could.
+
+_He hasn't changed a bit_, Erika thought as they followed the old butler to the social room upstairs. He still wore the same black suit with the gold-embroidered lining around the cuffs and neck, and he walked with the same surprisingly brisk pace for someone his age.
+
+_The house, however, has changed somewhat in these forty years_. Erika couldn't put her finger on it, _it feels... colder_. Even when the butler turned on the light of the main hall, the echoes of their shoes stepping on the main stairwell contrasted resoundingly with Erika's memories of parties and society events.
+
+When they reached the social room on the first floor, Erika collapsed in one of the red velvet armchairs. Tristan jumped off her shoulder and started to move about the room, smelling everything.
+
+"A bit of amasec, please Olin" said Erika, rubbing her eyes. 
+
+"Of course, " Olin pressed a few buttons on the wall-mounted console "the servitors will bring it shortly".
+
+"So, tell me. Why am I here?" said Erika, sitting upright. It was time for some answers. Olin's face turned to her, and he adopted a grave expression.
+
+"It's Lord Belcroft, Mamzel. A short while after Lady Belcroft passed, he started having nightmares." Erika's mood sombered at the mention of her mother's death. She had recieved the news on the front: _"A mugging gone wrong", it said_. At least this journey would give her the chance of visiting her grave for an adequate goodbye, even if it was six years too late.
+
+"I'm sorry to hear that, but we both know that's not reason enough to pull me out of the frontline."
+
+"It is not. See, we didn't think much of them at first. Thone knows the Lord saw some unsavoury things before retiring, so I attributed it to the emotional blow awakening memories of some past battle." Olin's tone was growing darker, and a shadow started covering his eyes. "But they didn't stop, Mamzel, they got worse. Even well after he'd had time to mourn our dear Lady, the nightmares started coming more often, and more violently. Now, it is a rare night where the Lord doesn't wake up screaming."
+
+"That still doesn't explain what I can do to help."
+
+"Apologies, Mamzel. I was about to explain. Something has happened recently. Your father has become more... reclusive. He spends his days in his study, and will barely speak with me, never mind the rest of the staff. Sometimes, I can't help but overhear him talking to himself inside his room. If I didn't know better, I'd swear I heard him talk about matters of a deeply forbidden nature." Erika had never seen Olin's eyes stare so intensely as he was right now.
+
+Erika's mind started firing, remembering the incident earlier that day. A chiling suspicion started to creep into her mind.
+
+"I'm scared, Mamzel. Scared of what's happening to you dear father, and what this would mean to the House of Belcroft. I cleared the house of the other staff as a precaution, and denied every request for visit, citing your mother's departure as a reason for the Lord's indispositon. I called upon you, because I don't know who else can help us unravel this matter quietly."
+
+"I see... You did well, Olin" said Erika. She didn't like being pulled from the line of duty, but if her father was declared a heretic, there would be no duty to return to. "How is father now?"
+
+"He is resting, Mamzel. I was administering him a sedative when you arrived."
+
+"Very well. Better to let him recover. I will talk with him in the morning, and we can see how to handle this."
+
+"As you please, Mamzel. I will leave you to accomodate now"
+
+"Thank you, Olin."
+
+At that moment, a servitor mounted on a grav-plate hovered into the room, holding a silver tray with a bottle of amasec and an empty glass. It set the items on the small table in front of Erika. She poured herself a glass, and sunk into the cushions of the tall back, thinking.
+
+
+
+
+
+
+
+
 
 
 
