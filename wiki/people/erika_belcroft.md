@@ -9,7 +9,7 @@ THE BASICS:
 
 INTERNAL: THE MOST IMPORTANT THINGS YOU NEED TO KNOW ABOUT YOUR CHARACTER
 
-**What is his/her greatest fear:** To lose the honor of her house.
+**What is his/her greatest fear:** She thinks that it's to lose the honor of her house. In reality, it's to dissappoint her father.
 **Inner motivation:** A burning desire to gain the approval of her father and the rest of the Imperium.
 **Kryptonite:** She doesn't have patience for those she thinks are less skilled than her.
 **What is his/her misbelief about the world:** Status and honor are the most important things.
@@ -17,7 +17,7 @@ INTERNAL: THE MOST IMPORTANT THINGS YOU NEED TO KNOW ABOUT YOUR CHARACTER
 **What is the best thing in his/her life:** She has a pretty comfortable life, but she has grown very fond of Tristan's company.
 **What is the worst thing in his/her life:** She is surrounded by incompetents. In this particular story, her father's condition doesn't help either.
 **What does he/she most often look down on people for:** Having a lower status than her. This manifests in her dispassion, almost disgust for her subordinates, her assumptions when she meets Rien, and her reactions to various things in the underhive.
-**What makes his/her heart feel alive:** Outsmarting her opponent. 
+**What makes his/her heart feel alive:** Outsmarting her opponent. And firefights.
 **What makes him/her feel loved, and who was the last person to make them feel that way:** She is very fond of her father, a retired naval officer, who was her only parental figure after her mother died. However, Tristan is all the love she needs, or so she thinks. 
 **Top three things he/she values most in life:** 
  - Honor and duty

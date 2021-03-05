@@ -92,17 +92,17 @@ Story template from: [That one youtuber's channel](https://gallery.mailchimp.com
     - **The realization:** Erika realizes that she's going to find things before the magistratum (to avoid revelaing her father's illness), and that she'll have to go to the Grids and the mid-lower hive to investigate.
   - **Setup for next scene:** She storms off, heading to her car, ready to take it to the lower hive.
 
-- **Scene:** Finding out the man's address
+- **Scene:** Finding out about the sickness.
   - **External**
-    - **What Happens:** Somehow, Erika needs to manage to 
-    - **The Consequence:**
-    - **Subplots:**
+    - **What Happens:** Deciding to visit the man's house later that night, Erika goes to the Archive, to find out everything she can about the sickness. We get to see preparations for the data input rites. An Admech adept takes her to one of the higher up consultorum, very lavish with lots of velvet and leather. Nobody else is there. She starts looking for information regarding the three names. Some of it is classified, but some other has been accessed recently (she can tell by the loadtime). She then stops searching for that, and instead searches for the name of Faustus. She finds records of his last breakdown, and how he was reset, but deemed unable to work, a few years back. She gets the man's last known address. On her way out, She crosses paths with Inquisitor Ozmund Trygon, who is also just leaving He must have gotten in before her, because the other booths were empty. They exchange a few words, the Inquisitor is perfectly cordial, and he even mentions that he found his queries faster to answer than usual, looking at Erika.
+    - **The Consequence:** Erika determines to go to Faustus' house.
+    - **Subplots:** The Inquisitor starts suspecting Erika, based on the timing of the queries. Not a lot, just curious.
   - **Internal**
-    - **Why it matters:**
-    - **The realization:**
+    - **Why it matters:** Erika finds out the address of the man, and goes to investigate.
+    - **The realization:** The inquisition is on the case -- That's a whole nother ballgame, and the pressure is on.
   - **Setup for next scene:**
 
-- **Scene:** At the man's house. Is this Faustus?
+- **Scene:** At the man's house. Is this Faustus? This is too weak, I don't think she should meet Rien here? Maybe yes, but then how does Rien know this is the place?
   - **External**
     - **What Happens:** Erika arrives at the house, and finds the door open and two people fighting inside. Rien and a thug. Erika dispatches the thug, and almost goes to Rien as well. Rien and Erika have a conversation, which is cut short by the Arbites sirens approaching.
     - **The Consequence:** Rien alerts Erika, and they hide while the arbites register the house. When the danger is gone, Erika tries to dispatch Rien. Rien tries to argue with her that she has a better shot at finding the culprit with him, and shows her a token of Costanza's to prove it (that he got from the house of the man). She takes the token, but refuses to partner up, not trusting the boy, and insists they go their separate ways.

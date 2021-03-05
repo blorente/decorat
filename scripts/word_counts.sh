@@ -2,7 +2,7 @@
 
 function count() {
     file=$1
-    filtered=$(cat $file | sed 's:^//.*$::')
+    filtered=$(cat $file | sed 's:^//.*$::' | sed 's:^ *- \*.*$::')
     words=$(echo $filtered | wc -w)
     echo "$file,$words"
 }
