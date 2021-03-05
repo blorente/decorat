@@ -6,6 +6,7 @@ jobs:
   publish-pdfs:
     name: Publish PDFs for the stories
     runs-on: ubuntu-18.04
+    if: "contains(github.event.head_commit.message, 'build')"
 
     steps:
       - name: Checkout code
@@ -22,12 +23,23 @@ jobs:
           args: >-
             --toc
             --output=output/Stories_from_Decorat.pdf scripts/header.md ${{ env.INFILES }}
+      
+      - name: Word Counts
+        run: |
+          chmod +x scripts/word_counts.sh
+          ./scripts/word_counts.sh wiki/stories/ > output/word_counts.csv
 
-      - name: Publsh artifact
+      - name: Publish artifact - PDF
         uses: actions/upload-artifact@master
         with:
           name: output
           path: output/Stories_from_Decorat.pdf
+
+      - name: Publish artifact - Word Counts
+        uses: actions/upload-artifact@master
+        with:
+          name: output
+          path: output/word_counts.csv
 
       - name: Create Release
         id: create_release
@@ -40,7 +52,7 @@ jobs:
           draft: true
           prerelease: false
 
-      - name: Upload Release Asset
+      - name: Upload Release Asset - PDF
         id: upload-release-asset 
         uses: actions/upload-release-asset@v1
         env:
@@ -50,4 +62,15 @@ jobs:
           asset_path: output/Stories_from_Decorat.pdf
           asset_name: Stories_from_Decorat.pdf
           asset_content_type: application/pdf
+
+      - name: Upload Release Asset - Word Counts
+        id: upload-release-asset 
+        uses: actions/upload-release-asset@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          upload_url: ${{ steps.create_release.outputs.upload_url }}
+          asset_path: output/word_counts.csv
+          asset_name: word_counts.csv
+          asset_content_type: text/csv
 

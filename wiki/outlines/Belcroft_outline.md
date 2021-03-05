@@ -185,6 +185,7 @@ What is her plan? She must have connections in the scholam, and she needs to go 
 Ideas:
 - Maybe after she goes to the grand archive, and inquires about the name of the Daemon the crazy guy was uttering. There is an Interrogator inspecting all the MILITARY and ORDOS queries, as a precaution for all the commotion, and in preparation for the entry rites. They have a brief converstation where the interrogator implies that Erika should be careful, lest this miserious malady will affect her as well. Maybe Erika feels threatened by this. Maybe this part doesn't take us anywhere.
 - Maybe then they go into Constanza's, and they discover something, and the boy does something foolhardy (maybe look for her sister's records), and he gets them caught by the owner of the shop.
+- Red Herring: Maybe Constanza's looks like the front to a cult, but it's actually a front to an underground sanitarium, where Gridders are taking care of people that are sick with the malady, so that they don't end up in the arm.
 - Maybe there is an interrogation scene, where she can outmaneuvre them intellectually to get information, while Rien works on the locks.
 - Maybe there is a firefight, and they escape by the skin of their teeth, and then Erika takes Rien to one of the midhive bars, after cleaning up a bit.
 - Maybe they go to the bar, and Erika is pissed off at Rien for the stupid thing he did, and Rien explains about his sister, and Erika feels empathy for him. Maybe Rien lightens the mood with some excessive drinking?
