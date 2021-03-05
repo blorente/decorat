@@ -102,7 +102,7 @@ Story template from: [That one youtuber's channel](https://gallery.mailchimp.com
     - **The realization:** The inquisition is on the case -- That's a whole nother ballgame, and the pressure is on.
   - **Setup for next scene:**
 
-- **Scene:** At the man's house. Is this Faustus? This is too weak, I don't think she should meet Rien here? Maybe yes, but then how does Rien know this is the place?
+- **Scene:** At the man's house. This is too weak, I don't think she should meet Rien here? Maybe yes, but then how does Rien know this is the place?
   - **External**
     - **What Happens:** Erika arrives at the house, and finds the door open and two people fighting inside. Rien and a thug. Erika dispatches the thug, and almost goes to Rien as well. Rien and Erika have a conversation, which is cut short by the Arbites sirens approaching.
     - **The Consequence:** Rien alerts Erika, and they hide while the arbites register the house. When the danger is gone, Erika tries to dispatch Rien. Rien tries to argue with her that she has a better shot at finding the culprit with him, and shows her a token of Costanza's to prove it (that he got from the house of the man). She takes the token, but refuses to partner up, not trusting the boy, and insists they go their separate ways.
