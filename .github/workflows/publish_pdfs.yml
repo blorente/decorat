@@ -53,7 +53,7 @@ jobs:
           prerelease: false
 
       - name: Upload Release Asset - PDF
-        id: upload-release-asset 
+        id: upload-release-asset-pdf
         uses: actions/upload-release-asset@v1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -64,7 +64,7 @@ jobs:
           asset_content_type: application/pdf
 
       - name: Upload Release Asset - Word Counts
-        id: upload-release-asset 
+        id: upload-release-asset-word-counts 
         uses: actions/upload-release-asset@v1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
