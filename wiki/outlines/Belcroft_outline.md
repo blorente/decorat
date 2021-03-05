@@ -79,6 +79,9 @@ Story template from: [That one youtuber's channel](https://gallery.mailchimp.com
     - **The realization:** Erika realizes her father has the same thing as the man on the docks. She needs to investigate this, and make it better, in order to fix it for her father. 
   - **Setup for next scene:**
 
+
+#### The Build-up
+
 - **Scene:** At the magistratum
   - **External**
     - **What Happens:** Erika goes to the Magistratum. Using her influence, gets an audience with the people assigned to the case of the man yesterday. They tell her he's been charged with Heresy, and put in the arm.
@@ -89,7 +92,15 @@ Story template from: [That one youtuber's channel](https://gallery.mailchimp.com
     - **The realization:** Erika realizes that she's going to find things before the magistratum (to avoid revelaing her father's illness), and that she'll have to go to the Grids and the mid-lower hive to investigate.
   - **Setup for next scene:** She storms off, heading to her car, ready to take it to the lower hive.
 
-#### The Build-up
+- **Scene:** Finding out the man's address
+  - **External**
+    - **What Happens:** Somehow, Erika needs to manage to 
+    - **The Consequence:**
+    - **Subplots:**
+  - **Internal**
+    - **Why it matters:**
+    - **The realization:**
+  - **Setup for next scene:**
 
 - **Scene:** At the man's house. Is this Faustus?
   - **External**
