@@ -1,3 +1,6 @@
+//TODO Need to add a little small talk to the inquisitor, something that seems off topic but it comes back, like the opening of inglorious basterds.
+//TODO Need to add one result for the disease, but a lot of it is redacted, maybe with [Clearance: ORDOS].
+
 Querying the Grand Archive
 --------------------------
 
