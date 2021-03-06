@@ -17,4 +17,10 @@ The Ravings on the Wall
 
 Below them, the cloud of smog approached them, signalling their entrance into the lower hive. Down there, the recycled air was mixed with exhaust from the cooling systems that kept the Archive's underground vault running. It was technically breathable, but not by much.
 
-Not many people outside of the Munitorum had the luxury of fliers, so Erika had no problem following the mag-tram's tracks downhive. 
+Not many people outside of the Munitorum had the luxury of fliers, so Erika had no problem following the mag-tram's tracks downhive. As she entered the clound of smog, Erika could see the top of the gigant pile of hab-blocks that formed the Grid. She realized that there was a problem she _did_ have. While every hab in the Grid fit perfectly with its neighbours, the Grid -- like Decorat's population -- was expanding. When one of the blocks malfunctioned, it was often easier to stack a new one on top of the Grid. This meant that new blocks were constantly being added to the top of the building.
+
+It also meant that Erika had no place to land her flier. The top of the building was covered in half-built blocks, and she refused squarely to get to ground level. Erika cursed her luck _This is what I get for coming down to this dump_, she thought. She would have to be quick, and leave the engine running.
+
+
+
+
