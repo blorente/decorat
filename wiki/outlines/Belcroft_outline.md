@@ -102,14 +102,14 @@ Story template from: [That one youtuber's channel](https://gallery.mailchimp.com
     - **The realization:** The inquisition is on the case -- That's a whole nother ballgame, and the pressure is on.
   - **Setup for next scene:**
 
-- **Scene:** At the man's house. This is too weak, I don't think she should meet Rien here? Maybe yes, but then how does Rien know this is the place?
+- **Scene:** At the man's house. 
   - **External**
-    - **What Happens:** Erika arrives at the house, and finds the door open and two people fighting inside. Rien and a thug. Erika dispatches the thug, and almost goes to Rien as well. Rien and Erika have a conversation, which is cut short by the Arbites sirens approaching.
-    - **The Consequence:** Rien alerts Erika, and they hide while the arbites register the house. When the danger is gone, Erika tries to dispatch Rien. Rien tries to argue with her that she has a better shot at finding the culprit with him, and shows her a token of Costanza's to prove it (that he got from the house of the man). She takes the token, but refuses to partner up, not trusting the boy, and insists they go their separate ways.
-    - **Subplots:**
+    - **What Happens:** Erika arrives at Faustus' block. She enters (how?), and finds the scribblings of a madman all across the wall. While she's studying it, a couple of thugs with flamers get into the house. A fight ensues. It's clear Erika is going to win. Rien has followed her because he's stubborn and foolhardy. One of the thugs gets hold of him, and tries to bargain with Erika for the boy's life. Erika doesn't really care, until Rien screams something about him knowing something about the man (he has recognized the token for Constanza's). Erika sighs, and finds a way to dispatch the goons while keeping Rien alive. They have a conversation, Rien mentions that the man used to frequent Consntanza's, and asks to join Erika. "You've not given me anything but trouble, boy". Erika denies, gives (almost throws) him some money, and tells him to go away. He's in way over his head.
+    - **The Consequence:** Erika finds out about Constanza's, and learns who was following her.
+    - **Subplots:** Rien talks to Erika for the first time, and realizes she's kind of a jerk. But he's headstrong, so he follows her anyway.
   - **Internal**
-    - **Why it matters:** Erika crosses a line, inadvertently helping Rien.
-    - **The realization:** Erika realizes that she is outside of the normal regulations now.
+    - **Why it matters:** We see the first establishing scenes of the relationship. We see how Erika treats Rien, and how Rien is too stubborn to give up. We see action escalate, raising hte stakes.
+    - **The realization:** Erika sees the full effect of the madness. Erika realizes she's being followed.
   - **Setup for next scene:** She is headed to Costanza's 
 
 #### 1st Plot Point

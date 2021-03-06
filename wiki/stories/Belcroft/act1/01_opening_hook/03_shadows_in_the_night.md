@@ -1,3 +1,5 @@
+//TODO It would be super cool to have Rien hack the revolving gates of the mag-train, because he doesn't have any money, and that way we show that he's skilled.
+
 Shadows in the night
 --------------------
 
