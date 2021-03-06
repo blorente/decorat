@@ -29,5 +29,9 @@ Erika skipped to the chasis of her flier, hoping to not scratch the paint.  When
 
 To Erika's surprise, the door was closed but unlocked. The previous owner must have left in a hurry. "Well, Faustus, tell me your secrets" She said, pressing a button of the door's console.
 
-The door hissed open, and both woman and cat crossed it threshold. Erika looked around, and her jaw dropped. She had seen many things. She had seen men die, She had seen the horrors war had to offer. 
+The door hissed open, and both woman and cat crossed it threshold. Erika looked around, and her jaw dropped. She had seen many things. She had seen men die around her, cut down by alien beasts. Even before then, she had seen a thousand battles in the Scholam's training Cognitors. She had seen the horrors war had to offer. She had never seen anything like that.
+
+The walls, the ceiling, the floor... even the window was covered with tiny red letters, forming paragraphs upon paragraphs of incoherent blabber. Not even in the most desperate of battles had Erika seen someone driven as mad as the frenzied script indicated Faustus had gone. "What can drive a man to this extreme?" She muttered, under her breath. A chilling thought crept through the back of her neck _Is this what awaits Father?_. She did not dare say that one out loud.
+
+Erika swallowed, and pushed the doubt out of her mind. She forced herself to focus on a section of the wall. 
 
