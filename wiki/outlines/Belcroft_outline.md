@@ -16,6 +16,7 @@ A scene follows the following template: [Template](https://gallery.mailchimp.com
     - **Why it matters:**
     - **The realization:**
   - **Setup for next scene:**
+  - **How to increase tension:**
 ```
 
 Story template from: [That one youtuber's channel](https://gallery.mailchimp.com/a761264f84ac176a17ff801a3/files/fa86076d-edd7-4476-8112-3e2ac501536d/3_ACT_STORY_STRUCTURE_PRINTABLE.pdf)
@@ -182,9 +183,29 @@ What is her plan? She must have connections in the scholam, and she needs to go 
     - **The realization:**
   - **Setup for next scene:**
 
+- **Scene:** Underhive Heist
+  - **External**
+    - **What Happens:** Erika and Rien try to infiltrate the lair of Constanza's owner. They do, and Erika discovers information about the hospital (But she doesn't know it's a hospital). Rien Sneaks around, trying to find clues about who did that to his sister, and he gets caught. This time, Erika cannot fight them all, and they get captured.
+    - **The Consequence:** Erika and Rien get captured by mobsters.
+    - **Subplots:** Rien discovers that his sister was a usual customer?
+  - **Internal**
+    - **Why it matters:** 
+    - **The realization:**
+  - **Setup for next scene:**
+  - **How to increase tension:**
+
+- **Scene:** Interrogation
+  - **External**
+    - **What Happens:** Erika is being interrogated. They can't touch her, but they've beaten up Rien. Erika finds that they've been harboring people that come there. At first, it looks like they are the ones spreading the thing. The boss admits that the thing is spreading from his PleaseCog, but he doesn't know how. He realizes they're all in the same team, and says "let me show you something".
+    - **The Consequence:** 
+    - **Subplots:**
+  - **Internal**
+    - **Why it matters:**
+    - **The realization:**
+  - **Setup for next scene:**
+  - **How to increase tension:**
+
 Ideas:
-- Maybe after she goes to the grand archive, and inquires about the name of the Daemon the crazy guy was uttering. There is an Interrogator inspecting all the MILITARY and ORDOS queries, as a precaution for all the commotion, and in preparation for the entry rites. They have a brief converstation where the interrogator implies that Erika should be careful, lest this miserious malady will affect her as well. Maybe Erika feels threatened by this. Maybe this part doesn't take us anywhere.
-- Maybe then they go into Constanza's, and they discover something, and the boy does something foolhardy (maybe look for her sister's records), and he gets them caught by the owner of the shop.
 - Red Herring: Maybe Constanza's looks like the front to a cult, but it's actually a front to an underground sanitarium, where Gridders are taking care of people that are sick with the malady, so that they don't end up in the arm.
 - Maybe there is an interrogation scene, where she can outmaneuvre them intellectually to get information, while Rien works on the locks.
 - Maybe there is a firefight, and they escape by the skin of their teeth, and then Erika takes Rien to one of the midhive bars, after cleaning up a bit.
