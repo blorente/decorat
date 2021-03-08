@@ -109,15 +109,49 @@ Erika stared at him, realizing what he was implying. _Poor boy_, she thuoght. Sh
 
 "I can't help you." She said. "I'm sorry." The boy lowered his stare, and Erika could see he was holding in tears. "But here, take this." She handed the boy a bar of credits "For your trouble."
 
-"I don't want your money!" Rien said, raising his voice. "I want my sister back!" He said, tears running from his eyes. "Please, let me help you. I don't know what to do anymore."
+"I don't want your money!" Rien snapped at her. "I want my sister back!" He said, tears running from his eyes. "Please, let me help you. I don't know what to do anymore."
 
 Erika felt a ping of pain, but remained strong. "You would only hold me back, boy. I can't do this if I have to worry about you getting hurt. I'm sorry for your sister. Go home, and pray to the Emperor for her recovery."
 
-Rien looked at her, hurt. Shoulders sunk, he walked out of the room, careful not to step on the pooling blood.
+Rien looked at her, hurt. Erika could hear him sobbing as he ran out of the room, splashing on the pooling blood.
 
-Erika stood there, thinking for a moment. She didn't feel good about leaving the boy behind, but she believed what she said. Whoever was behind this had sent three thugs like these to dispatch a crazy man's house. One didn't send that kind of force unless they something big to hide. That was no place for a boy.
+Erika stood there, thinking for a moment. She didn't feel good about leaving the boy behind, but she believed what she said. Whoever was behind this had sent three thugs like these to dispatch a crazy man's house. One didn't send that kind of force unless they had something big to hide. That was no place for a boy.
 
-Tristan miawed, and she snapped out of her musings. She started walking to the flier.
+The burning smell was slowly being replaced by the sickly sweet smell of death. Tristan miawed, and she snapped out of her musings. That was still her only lead, so she had to make it count. Somebody must have heard the shots and alerted the Enforcers. She'd have to move quickly. Erika started inspecting the three bodies laid on the floor.
+
+All three of them were muscular and well-built. Tatoos on their forearms identified them as military, and cheap prosthesis identified them as unfit for service. 53rd Decoratian Artillery, the few lucky ones that survived the //TODO massacre. _How does one stoop so low? From serving the Imperium in glorious battle to common street thug._
+
+Amid the hand-rolled lho-sticks and the loose change, Erika found a small, hexagonal plastek piece in Vince's pocket. The chipped paint was bright pink, and it had "Constanza's" written in big cyan font. _Better than nothing._ Erika thought. _I'll have to go back to the archive to find out what this is._
+
+She was storing the coin in her pocket as she exited the house, when she heard the Enforcer fliers approaching. She waited patiently as the fliers lowered hooks, hanging from the stairway of the floor above them. _So that's how they land them,_ Erika thought. _Clever._
+
+"Agent Minsk! How nice to see you again." Erika said, as the familiar figure of the enforcer stepped out of the craft. "I know what this looks like, but I assure you that this was mere self defense." she added, when she saw the Enforcer's face.
+
+"That remains to be seen, Major." Valya Minsk's expression was equal proportions angry and upset, with a hint of impatience. "Because it sure doesn't look like it."
+
+"Of course!" Erika said, in the most conciliatory tone she could manage. Enforcers couldn't do anything to her, but this news would run fast. "I have it all recorded, if you'll allow me." Erika tapped her left temple, and an image started projecting from her left eye. The Enforcers watched astonished, as the whole fight -- from Erika's perspective -- played out in front of them. All of them, except Minsk.
+
+"So that's how you got this lead, huh. In headquarters?" Surprise and a little respect were added to her angry expression.
+
+"I'm afraid I don't know what you're talking about" Erika answered.
+
+"Yeah, sure you don't." She signalled the other Enforcers to start processing the scene. "That may have been self defense, but that doesn't explain what you were doing here in the first place."
+
+"I'm just a concerned citizen, agent." Erika could see the frustration bubbling behind Minsk's eyes. She felt a ping of regret. She was enjoying this too much. Under different circumstances, they could have been good friends. Of course, none of this showed on her face. 
+
+She jumped into the driver's seat of her flier, ready to go. As she was waking the motors, an idea crossed Erika's mind.
+
+"I'm exhausted after all this. I think I'll go to Constanza's, and relax a little." It was a gamble, but if she was right...
+
+Minsk looked genuinely surprised now. "Constanza's? What's a noble like you going to do in a midhive dump like that one? Didn't peg you for the PleaseCog type."
+
+_Bingo._ 
+
+"Well, one has her weaknesses, I suppose." Erika couldn't help herself, and winked. As the pilot's dome closed and they moved away from the Grid, Erika could see the Agent's face as she realized what had happened.
+
+_I shouldn't have rubbed it in, that was very imprudent_ She thought, as she raised back into clean air, on her way home. _But Throne I love a good conversation._
+
+
 
 
 

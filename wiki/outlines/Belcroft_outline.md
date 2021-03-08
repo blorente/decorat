@@ -113,6 +113,8 @@ Story template from: [That one youtuber's channel](https://gallery.mailchimp.com
     - **The realization:** Erika sees the full effect of the madness. Erika realizes she's being followed.
   - **Setup for next scene:** She is headed to Costanza's 
 
+
+
 #### 1st Plot Point
 
 - **Scene:** She mucks up
@@ -125,6 +127,16 @@ Story template from: [That one youtuber's channel](https://gallery.mailchimp.com
     - **The realization:** This scene is almost purely setup.
   - **Setup for next scene:** I can give a hint that she's heading to a trap.
 
+- **Scene:** Rien cries?
+  - **External**
+    - **What Happens:**
+    - **The Consequence:**
+    - **Subplots:**
+  - **Internal**
+    - **Why it matters:**
+    - **The realization:**
+  - **Setup for next scene:**
+  - **How to increase tension:**
 
 - **Scene:** It's a trap
   - **External**
@@ -204,7 +216,7 @@ What is her plan? She must have connections in the scholam, and she needs to go 
     - **The realization:**
   - **Setup for next scene:**
   - **How to increase tension:**
-
+   
 Ideas:
 - Red Herring: Maybe Constanza's looks like the front to a cult, but it's actually a front to an underground sanitarium, where Gridders are taking care of people that are sick with the malady, so that they don't end up in the arm.
 - Maybe there is an interrogation scene, where she can outmaneuvre them intellectually to get information, while Rien works on the locks.

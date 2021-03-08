@@ -97,3 +97,7 @@ _She looks... sincere._
 As she was turning to leave, Erika gave her and her desk one last look. "You know?" she said "I have a feeling you would make a great member of the Scholam, if you're ever interested. I look forward to meeting you again."
 
 And, with that, she turned and walked the way she'd come. Minsk let out a sigh. There was something about the Major -- she had a secret, Valya had no doubt about it. But that would have to wait -- she had a case to crack.
+
+As she walked towards her flier parked on the roof of the Enforcer headquarters, Erika tapped her left temple. The footage she had gathered from the agent's files projected from her augmetic eye, reproducing the messy table in hues of bright crimson. One of the papers had the name she needed.
+
+_Faustus Dorm, let's see where you are._

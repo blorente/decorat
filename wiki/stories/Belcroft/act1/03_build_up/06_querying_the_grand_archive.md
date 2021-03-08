@@ -1,4 +1,3 @@
-//TODO Need to add a little small talk to the inquisitor, something that seems off topic but it comes back, like the opening of inglorious basterds.
 //TODO Need to add one result for the disease, but a lot of it is redacted, maybe with [Clearance: ORDOS].
 
 Querying the Grand Archive
@@ -86,17 +85,21 @@ Erika rubbed her eyes, tired after staring at the blinking glyphs for the better
 
 Erika sprang up and looked in the direction the voice was coming from. A man was sitting in the Console opposite to Erika. He looked old, well in his sixties, but he must have been very quiet to slip into the room without Erika noticing. He was wearing simple black robes, with silver embroidery accenting the neck and cuffs. An Inquisitorial Rosette hung from his neck.
 
-"Sorry to have startled you, Mamzel. Please excuse my rudeness. I've been admiring your  your furry companion and your furious dedication for quite a few moments now, and I was wondering which one would win." The man had a wide, benevolent smile on his face. "But where are my manners. Now that I've interrupted your cat's moment, I feel in need to make amends by introducing myself. Inquisitor Ozmund Trygon, at your service and the Throne's." The man make a flawless reverence.
+"Sorry to have startled you, Mamzel. Please excuse my rudeness. I've been admiring your furry companion and furious dedication for quite a few moments now, and I was wondering which one would win." The man had a wide, benevolent smile on his face. "But where are my manners. Now that I've interrupted your cat's moment, I feel in need to make amends by introducing myself. Inquisitor Ozmund Trygon, at your service and the Throne's. Not in that order, of course." The man made a flawless reverence.
 
-"No need to apologize, Inquisitor. I am Major Erika, of House Belcroft."
+"No need to apologize, Inquisitor. I am Major Erika of House Belcroft."
 
-"I knew that already, Mamzel. Once I recognized the insignia of House Belcroft on your coat, it wasn't hard to figure out who you were. Not many people return from their sacred duty to the Imperium before retirement."
+"I knew that already, Mamzel. Once I recognized the insignia on your coat, it wasn't hard to figure out who you were. Not many people return from their sacred duty to the Imperium before retirement."
 
-Erika understood exactly what the Inquisitor was implying, but managed to hide the pin of fear that pierced the back of her neck.
+Erika understood exactly what the Inquisitor was implying under that smile, but managed to hide the pin of fear that pierced the back of her neck.
 
 "How observant. I wouldn't expect less from a member of the Ordo Hereticus." said Erika, managing a smile. Then, a thought occurred to her "Is that also why you bear no symbol?"
 
-"That is exactly right! How refreshing to have a true partner for conversation. I wear no distinction salve this Rosette, for the only thing important about me is my eternal servitude to mankind and the Throne." He bowed again, unnecessarily. "A pleasure to make your acquaintance, Mamzel Belcroft. I have learned all that I needed from here, so I must be going now. I'm sure our paths will cross again soon, and I await that opportunity eagerly. Please give my regards to your father." He bowed a third time, and exited the room.
+"That is exactly right! How refreshing to have a true partner for conversation. I wear no distinction salve this Rosette, for the only thing important about me is my eternal servitude to mankind and the Throne." He bowed again, unnecessarily. "Tell me, mamzel -- do you know about Uhlren's Pox?" Erika shook her head. "Uhlren's Pox, or The Pestilence as was more commonly known, was a sickness that spread across entire worlds, killing millions. As the story goes, the malady didn't just kill the man -- it anihilated the soul. It turned good people to chaos, stranding them from the path of righteousness of our Lord the Emperor. Death came quick, but the dying still had time to pledge themselves to the dark powers. Much like the damned man that attacked you, if the reports are correct". The inquisitor paused, looking at her intently. His expression had suddenly turned somber. Erika could only manage a gulp as a response as the silence fell between them.
+
+"However!" The inquisitor's face regained his pleasing expression. "That could not possibly be the same illness -- it was eradicated decades ago!" The inquisitor smiled, like nothing had happened. 
+
+"A pleasure to make your acquaintance, Mamzel Belcroft. I have learned all that I needed from here, so I must be going now. I'm sure our paths will cross again soon, and I await that opportunity eagerly. Please give my regards to your father." He bowed a third time, and exited the room.
 
 As he walked out, Erika noticed that his steps were the steps of someone a lot younger, and a lot more agile. _And a lot more deadly_. She also noticed that he hadn't closed his session.
 
