@@ -1,6 +1,5 @@
 //TODO here, we can add more tensions by giving Erika the goal of finding out more about the suspect. That can lead to a delicate dance.
 //TODO We can take advantage of this scene to give Erika's backstory, with questions like "So, graduated with honors in the scholam".
-//TODO Need to insert some scene here, showing that Erika has recorded things with her eye, and is now heading to the archive.
 
 At the magistratum
 ------------------
