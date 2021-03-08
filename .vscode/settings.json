@@ -1,4 +1,15 @@
 {
     "markdown.extension.completion.root": "wiki",
-    "python.pythonPath": "/usr/bin/python"
+    "python.pythonPath": "/usr/bin/python",
+    "[markdown]": {
+     "editor.fontFamily": "\"IA Writer Duo S\", monospace",
+     "editor.fontLigatures": true,
+     "editor.fontSize": 16,
+     "editor.lineHeight": 26,          
+     "editor.wordWrap": "wordWrapColumn",
+     "editor.wordWrapColumn": 80,        
+     "zenMode.centerLayout": true,
+     "editor.lineNumbers": "off",
+     "editor.quickSuggestions": false,
+    }
 }
