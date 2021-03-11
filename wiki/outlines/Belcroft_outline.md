@@ -230,7 +230,7 @@ Ideas:
 - Pinch Point: The audience gets to hear about the headmaster's plan, but not see him or know who it is. All very dark, like in the movies. It's probably a henchman calling him, and him being pissed that they didn't get Erika. 
 
 ### Act 2.2: Proacting
-
+ 
 - She must infiltrate the Arm, whith the help of Rien, to recover the crazy man.
 - There must be a couple of scenes where Erika feels really bad about infiltrating the arm, and she does it regardless. Maybe this is a good opportunity to revisit some of the other crewmembers.
 - They recover the man, and amongst her ravings Rien (of maybe his sister?) remembers that this is very similar to that guy Jorrick. They got the assignment at Constanza's...
@@ -239,19 +239,21 @@ Ideas:
 
 ### Act 3: The Resolution
 #### Supposed Victory
-- She goes to confront the headmaster, and the goose is up. The headmaster escapes "you have no idea what's coming..."
+- She turns the headmaster to the inquisitor.
+- They fight their way to confront the headmaster. The headmaster has seen this coming, and he has the father as a human shield in his office. Firefight ensues, and aided by the forces of the inquisitor, Erika wins, but not before getting father wounded. They turn the headmaster over to the inquisitor. Headmaster is smiling "they are coming... it's going to happen. Soon, everyone will see...".
 
 #### Disaster
-- How do they realize that the actual plan is to infect the things in the rites of entry?
+- Back at the mansion, Father dies from his wounds. Erika visits her mother's tomb, talks to her, and realizes about the grand archive thing.
+- Goes to talk to the inquisitor about it. The inquisitor is taking tea with the headmaster. They were expecting her.
 
 #### Dark Moment
-- Her father is dead. Was it all in vain?
+- Erika is captured. Exposition scene with the Inquisitor and his plan.
 
 #### Recovery
-- Reinforcements? I stand for order and the Imperium. **True nobility is to fight for what's right.**
+- Rien has called Lucy and his sister, and they all break Erika out of the house, on the day of the rites.
 
 #### Climactic Confrontation
-- Preparation Montage.
+- Preparation Montage -- calling Minsk.
 - Crashing the rites.
 
 #### Victory
@@ -259,3 +261,5 @@ Ideas:
 
 #### The Resolution
 - Erika is new headmistress of the scholam, and Rien is in training.
+
+- Reinforcements? I stand for order and the Imperium. **True nobility is to fight for what's right.**
